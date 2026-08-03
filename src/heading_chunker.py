@@ -37,16 +37,45 @@ def split_into_sections(text: str) -> list[tuple[list[str], str]]:
         section_text — dòng heading + toàn bộ nội dung tới trước heading kế tiếp
 
     Phần văn bản đứng TRƯỚC heading đầu tiên (nếu có) là một section với breadcrumb rỗng.
-
-    TODO (Huy): implement.
-      1. Duyệt từng dòng của text.
-      2. Dòng khớp HEADING_PATTERN -> đóng section đang mở, mở section mới.
-         Cập nhật ngăn xếp breadcrumb theo cấp heading (len của nhóm '#'):
-         cắt ngăn xếp về (cấp - 1) phần tử rồi append tiêu đề mới.
-      3. Dòng thường -> nối vào section đang mở.
-      4. Bỏ qua section rỗng sau khi strip().
     """
-    raise NotImplementedError("Implement split_into_sections")
+    if not text.strip():
+        return []
+
+    sections = []
+    current_breadcrumb = []
+    current_section_lines = []
+
+    for line in text.splitlines(keepends=True):
+        match = HEADING_PATTERN.search(line)
+        if match:
+            # Save the current section if it has non-empty content
+            if current_section_lines:
+                section_text = "".join(current_section_lines)
+                if section_text.strip():
+                    sections.append((list(current_breadcrumb), section_text))
+            
+            # Start new section
+            level = len(match.group(1))
+            title = match.group(2).strip()
+            
+            # Update breadcrumb
+            # Pad the breadcrumb with empty strings if the level skips
+            while len(current_breadcrumb) < level - 1:
+                current_breadcrumb.append("")
+                
+            current_breadcrumb = current_breadcrumb[:level - 1]
+            current_breadcrumb.append(title)
+            
+            current_section_lines = [line]
+        else:
+            current_section_lines.append(line)
+            
+    if current_section_lines:
+        section_text = "".join(current_section_lines)
+        if section_text.strip():
+            sections.append((list(current_breadcrumb), section_text))
+            
+    return sections
 
 
 class HeadingChunker:
@@ -62,19 +91,18 @@ class HeadingChunker:
         self.fallback = fallback or RecursiveChunker(chunk_size=max_chunk_size)
 
     def chunk(self, text: str) -> list[str]:
-        """
-        TODO (Huy): implement.
-          1. text rỗng -> trả [].
-          2. sections = split_into_sections(text)
-          3. Với mỗi section:
-                - len(section) <= max_chunk_size  -> giữ nguyên làm 1 chunk
-                - dài hơn                          -> self.fallback.chunk(section)
-          4. strip từng chunk, bỏ chunk rỗng, trả list[str].
-
-        Lưu ý: KHÔNG gắn lại tiêu đề vào các mảnh con — đó là điểm khác biệt có chủ đích
-        so với HeadingRecursiveChunker. Đừng "sửa" chỗ này, vì cả thí nghiệm nằm ở đây.
-        """
-        raise NotImplementedError("Implement HeadingChunker.chunk")
+        if not text.strip():
+            return []
+            
+        sections = split_into_sections(text)
+        result = []
+        for _, section in sections:
+            if len(section) <= self.max_chunk_size:
+                result.append(section)
+            else:
+                result.extend(self.fallback.chunk(section))
+                
+        return [piece.strip() for piece in result if piece.strip()]
 
 
 class HeadingRecursiveChunker:
@@ -101,22 +129,24 @@ class HeadingRecursiveChunker:
         return f"[{self.separator.join(breadcrumb)}]\n"
 
     def chunk(self, text: str) -> list[str]:
-        """
-        TODO (Đức): implement.
-          1. text rỗng -> trả [].
-          2. sections = split_into_sections(text)
-          3. Với mỗi (breadcrumb, section):
-                - vừa kích thước -> giữ nguyên 1 chunk
-                - quá dài        -> cắt bằng self.fallback, rồi GẮN self._prefix(breadcrumb)
-                                    vào ĐẦU MỌI MẢNH TỪ THỨ HAI TRỞ ĐI
-                                    (mảnh đầu đã tự chứa dòng heading rồi)
-          4. strip từng chunk, bỏ chunk rỗng, trả list[str].
-
-        Đo được gì: tiền tố làm chunk dài thêm vài chục ký tự nhưng thêm tín hiệu chủ đề
-        vào embedding. Ghi lại trong report: nó giúp ở query nào, và có làm chunk nhiễu
-        cùng section bị đẩy lên top-3 không.
-        """
-        raise NotImplementedError("Implement HeadingRecursiveChunker.chunk")
+        if not text.strip():
+            return []
+            
+        sections = split_into_sections(text)
+        result = []
+        for breadcrumb, section in sections:
+            if len(section) <= self.max_chunk_size:
+                result.append(section)
+            else:
+                pieces = self.fallback.chunk(section)
+                if not pieces:
+                    continue
+                result.append(pieces[0])
+                prefix = self._prefix(breadcrumb)
+                for piece in pieces[1:]:
+                    result.append(prefix + piece)
+                    
+        return [piece.strip() for piece in result if piece.strip()]
 
 
 SAMPLE = """# Quy chế đào tạo

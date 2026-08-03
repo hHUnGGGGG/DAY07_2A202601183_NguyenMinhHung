@@ -1,8 +1,14 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
-**Nhóm:** [Tên nhóm]
-**Thành viên:** [Họ tên từng thành viên]
-**Ngày:** [Ngày nộp]
+**Nhóm:** B4-E402
+**Thành viên:** 
+1. Bùi Gia Huy - 2A202601879
+2. Phạm Hải Đăng - 2A202601367
+3. Nguyễn Minh Hùng - 2A202601183
+4. Hoàng Anh Quân - 2A202601875
+5. Nguyễn Huy Đức - 2A202601097
+
+**Ngày:** 3/8/2026
 
 > **Nộp 1 bản / nhóm.** Phần cá nhân (hướng tiếp cận, kết quả riêng, dự đoán…) mỗi thành viên nộp riêng trong `REPORT_CANHAN.md`. Chi tiết thang điểm: `docs/SCORING.md`.
 
@@ -17,28 +23,31 @@
 **Chủ đề (cố định theo lớp K3):** Dịch vụ / quy định đại học (đăng ký môn, học phí, học bổng, thư viện, ký túc xá…).
 
 **Phạm vi cụ thể nhóm tập trung:**
-> *1 câu — ví dụ: thư viện + đăng ký môn học.*
+> Tập trung chuyên sâu vào các quy định học vụ (đăng ký môn, quy chế học thuật), chính sách tài chính (học phí, học bổng), quy định thư viện và các nội quy áp dụng cho sinh viên/nhân viên tại VinUniversity.
 
 ### Danh sách tài liệu (Data Inventory)
 
 | # | Tên tài liệu | Nguồn (Source URL) | Ngày lấy / Phiên bản | Số ký tự | Metadata đã gán |
 |---|--------------|------------|--------------------|----------|-----------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Academic Regulations for Full-Time Undergraduate Programs | policy.vinuni.edu.vn | 2026-08-03 / not-stated | ~ 77k | doc_id, title, source_url, retrieved_at, document_version, audience, department, category, language, source_language, translation |
+| 2 | Financial Regulations and Tariff (for student) | policy.vinuni.edu.vn | 2026-08-03 / not-stated | ~ 37k | doc_id, title, source_url, retrieved_at, document_version, audience, department, category, language, source_language, translation |
+| 3 | Undergraduate Scholarships | admissions.vinuni.edu.vn | 2026-08-03 / not-stated | ~ 3k | doc_id, title, source_url, retrieved_at, document_version, audience, department, category, language, source_language, translation |
+| 4 | Library Access & Services Policy | policy.vinuni.edu.vn | 2026-08-03 / not-stated | ~ 23k | doc_id, title, source_url, retrieved_at, document_version, audience, department, category, language, source_language, translation |
+| 5 | Borrow and Request - Undergraduate Students and Staff | library.vinuni.edu.vn | 2026-08-03 / not-stated | ~ 6k | doc_id, title, source_url, retrieved_at, document_version, audience, department, category, language, source_language, translation |
+| 6 | Regulation for Library Management | policy.vinuni.edu.vn | 2026-08-03 / not-stated | ~ 19k | doc_id, title, source_url, retrieved_at, document_version, audience, department, category, language, source_language, translation |
+| 7 | Residential Life Guideline | policy.vinuni.edu.vn | 2026-08-03 / not-stated | ~ 24k | doc_id, title, source_url, retrieved_at, document_version, audience, department, category, language, source_language, translation |
 
 **Danh sách kiểm tra quản trị dữ liệu (Data governance checklist):**
-- [ ] Tập tài liệu (Corpus) chỉ chứa nguồn công khai/được phép dùng và không chứa dữ liệu cá nhân, thông tin đăng nhập hoặc tài liệu nội bộ.
-- [ ] Mỗi tài liệu có `source_url`, `retrieved_at`, `document_version` (hoặc ngày hiệu lực) trong metadata.
+- [x] Tập tài liệu (Corpus) chỉ chứa nguồn công khai/được phép dùng và không chứa dữ liệu cá nhân, thông tin đăng nhập hoặc tài liệu nội bộ.
+- [x] Mỗi tài liệu có `source_url`, `retrieved_at`, `document_version` (hoặc ngày hiệu lực) trong metadata.
 
 ### Cấu trúc Metadata (Metadata Schema)
 
 | Trường metadata | Kiểu | Ví dụ giá trị | Tại sao hữu ích cho truy xuất (retrieval)? |
 |----------------|------|---------------|-------------------------------|
-| | | | |
-| | | | |
+| `audience` | Enum | `student`, `staff`, `faculty` | Giúp lọc các quy định để tránh cung cấp thông tin sai đối tượng, đặc biệt với các quy chế xử phạt có sự phân cấp rõ ràng giữa nhân viên và sinh viên. |
+| `department` | String | `registrar`, `library`, `finance` | Dùng để gom nhóm các quy định theo phòng ban chuyên trách, tránh nhầm lẫn giữa quy định thư viện và các khoản phí phạt tài chính chung. |
+| `document_version` | String | `POL-LLR-001-V4.0`, `not-stated` | Giúp tra cứu văn bản nhanh chóng, đảm bảo LLM đưa ra thông tin dựa trên bản quy định có hiệu lực cập nhật mới nhất. |
 
 ---
 
@@ -48,56 +57,60 @@
 
 ### Phân tích đường cơ sở (Baseline Analysis)
 
-Chạy `ChunkingStrategyComparator().compare()` trên 2-3 tài liệu:
+Chạy `ChunkingStrategyComparator().compare()` trên 3 tài liệu:
 
 | Tài liệu | Chiến lược (Strategy) | Số lượng Chunk | Độ dài trung bình | Giữ được ngữ cảnh không? |
 |-----------|----------|-------------|------------|-------------------|
-| | FixedSizeChunker (`fixed_size`) | | | |
-| | SentenceChunker (`by_sentences`) | | | |
-| | RecursiveChunker (`recursive`) | | | |
+| Academic Regulations | FixedSizeChunker (`fixed_size`) | 155 | 498.5 | Kém (hay cắt ngang từ khóa quan trọng ở cuối cụm 500 ký tự) |
+| Academic Regulations | SentenceChunker (`by_sentences`) | 158 | 437.7 | Tốt (giữ trọn vẹn câu, bảo toàn ngữ nghĩa tuyệt đối) |
+| Academic Regulations | RecursiveChunker (`recursive`) | 185 | 374.1 | Khá (cắt vụn hơn do ưu tiên các dấu phân cách đoạn) |
+| Financial Regulations | FixedSizeChunker (`fixed_size`) | 75 | 496.5 | Kém (phá vỡ cấu trúc bảng biểu học phí) |
+| Financial Regulations | SentenceChunker (`by_sentences`) | 66 | 505.0 | Tốt (câu hoàn chỉnh, ngữ cảnh liền mạch) |
+| Financial Regulations | RecursiveChunker (`recursive`) | 84 | 397.3 | Trung bình (cắt ở mức danh sách bullet points) |
+| Undergrad Scholarships | FixedSizeChunker (`fixed_size`) | 8 | 479.5 | Kém |
+| Undergrad Scholarships | SentenceChunker (`by_sentences`) | 9 | 384.4 | Khá |
+| Undergrad Scholarships | RecursiveChunker (`recursive`) | 9 | 385.6 | Tốt (do cấu trúc gạch đầu dòng nhiều) |
 
 ### Chiến lược của từng thành viên
 
-> Mỗi thành viên điền một khối dưới đây (copy thêm nếu nhóm có nhiều hơn 3 người).
+**Thành viên 1 — Nguyễn Minh Hùng**
+- **Loại chiến lược:** `FixedSizeChunker(chunk_size=500, overlap=50)`
+- **Mô tả & lý do chọn cho chủ đề này:** Chia cắt cứng bằng kích thước cố định. Lý do là để đảm bảo chunk đồng đều, giúp giới hạn số token tối đa đưa vào RAG một cách nghiêm ngặt.
 
-**Thành viên 1 — [Tên]**
-- **Loại chiến lược:** [FixedSize / Sentence / Recursive / custom]
-- **Mô tả & lý do chọn cho chủ đề này:** *(2-3 câu)*
-- **Code snippet (nếu custom):**
-```python
-# Dán mã nguồn (implementation) vào đây
-```
+**Thành viên 2 — Hoàng Anh Quân**
+- **Loại chiến lược:** `SentenceChunker(max_sentences_per_chunk=3)`
+- **Mô tả & lý do chọn:** Cắt dựa trên ranh giới dấu chấm câu. Quy định đại học thường chứa các câu đơn giải thích thể chế dài dòng, việc cắt theo câu giúp LLM lấy được trọn vẹn 1-3 câu lập luận liên tiếp, không làm mất nghĩa.
 
-**Thành viên 2 — [Tên]**
-- **Loại chiến lược:**
-- **Mô tả & lý do chọn:**
-- **Code snippet (nếu custom):**
+**Thành viên 3 — Phạm Hải Đăng**
+- **Loại chiến lược:** `RecursiveChunker(chunk_size=400)`
+- **Mô tả & lý do chọn:** Chia đệ quy qua các separator tự nhiên. Tài liệu dạng sổ tay (Guideline) thường có các cấu trúc đoạn (Paragraph) rõ rệt, đệ quy giúp giữ cho các list và paragraph nguyên vẹn.
 
-**Thành viên 3 — [Tên]**
-- **Loại chiến lược:**
-- **Mô tả & lý do chọn:**
-- **Code snippet (nếu custom):**
+**Thành viên 4 — Bùi Gia Huy**
+- **Loại chiến lược:** `HeadingChunker(max_chunk_size=800)`
+- **Mô tả & lý do chọn:** Phù hợp với các văn bản quy chế dài có đánh số thứ tự Điều (Articles) và Khoản (Sections) rõ ràng.
+
+**Thành viên 5 — Nguyễn Huy Đức**
+- **Loại chiến lược:** `HeadingRecursiveChunker(max_chunk_size=800, breadcrumb=True)`
+- **Mô tả & lý do chọn:** Gắn lại breadcrumb tiêu đề giúp đoạn trích luôn giữ được context tổng thể của cấu trúc phân cấp, tránh tình trạng chunk chỉ có nội dung mà không biết thuộc "Điều mấy, khoản mấy".
 
 ### So Sánh Giữa Các Thành Viên
 
 | Thành viên | Chiến lược (Strategy) | Điểm truy xuất (/10) | Điểm mạnh | Điểm yếu |
 |-----------|----------|----------------------|-----------|----------|
-| | | | | |
-| | | | | |
-| | | | | |
+| Hoàng Anh Quân | SentenceChunker | 4/10 | Giữ vẹn nghĩa của các câu ngắn, không bị cắt đôi từ khóa quan trọng. | Thiếu ngữ cảnh lớn khi câu trả lời cần bao quát từ >3 câu (bị cắt đoạn). |
+| Nguyễn Minh Hùng | FixedSizeChunker | 6/10 | Bao phủ rộng, kích thước đồng đều giúp dễ quản trị embedding limits. | Cắt cứng làm rớt đáp án ra khỏi câu hỏi, chia cắt ngữ nghĩa. |
+| Phạm Hải Đăng | RecursiveChunker | 6/10 | Phân bổ mượt mà các đoạn text tự nhiên, tốt cho quy trình (process) dài. | Các bảng biểu số liệu dễ bị vỡ do xử lý newline (`\n`). |
+
+*(HeadingChunker và HeadingRecursiveChunker chưa có data điểm chính thức do chưa tích hợp vào bench.py, nhưng hứa hẹn mang lại context tốt nhất).*
 
 **Chiến lược nào tốt nhất cho chủ đề này? Tại sao?**
-> *Viết 2-3 câu — đây là phần được đánh giá cao nhất (khả năng suy nghĩ & giải thích):*
+> **RecursiveChunker** kết hợp hoặc **HeadingRecursiveChunker** là tối ưu nhất cho văn bản Quy định Đại học (University Services). Vì quy chế học vụ luôn được định dạng với cấu trúc thứ bậc (Điều, Khoản, Điểm) rất nghiêm ngặt. Việc sử dụng kỹ thuật cắt theo Semantic (ngữ nghĩa phân đoạn tự nhiên) và gắn thêm breadcrumb tiêu đề giúp RAG nắm bắt trọn vẹn context pháp lý, trong khi chiến lược cắt cứng (FixedSize) khiến LLM lạc lối vì mất đi tiêu đề của Điều luật tương ứng.
 
 ---
 
 ## 3. Câu hỏi đánh giá & Chất lượng truy xuất (Retrieval Quality) — Nhóm (10 điểm)
 
 ### Câu hỏi đánh giá & Câu trả lời chuẩn (nhóm thống nhất)
-
-> **Đúng 5 câu hỏi**, đa dạng, có thể kiểm chứng; **ít nhất 1 câu** cần lọc metadata mới trả lời tốt. Đây là bộ câu hỏi chung cho mọi thành viên chạy.
-
-> Nguồn chuẩn của bộ câu hỏi là `bench_queries.py` (phụ trách: Hoàng Anh Quân). Bảng dưới đây chỉ là bản trình bày cho báo cáo — khi hai bên lệch nhau thì lấy `bench_queries.py` làm chuẩn. Mỗi câu kèm `must_contain`: chuỗi bắt buộc phải có trong chunk truy xuất được, dùng để chấm ở **mức chunk** thay vì chỉ kiểm `doc_id`.
 
 | # | Câu hỏi (Query) | Câu trả lời chuẩn (Gold Answer) | Chunk nào chứa thông tin? |
 |---|-------|-------------------------------|--------------------------|
@@ -111,51 +124,31 @@ Chạy `ChunkingStrategyComparator().compare()` trên 2-3 tài liệu:
 
 ### Tổng hợp chất lượng truy xuất của nhóm
 
-> Cách chấm (theo `docs/SCORING.md`): **2 điểm/câu** — top-3 chứa chunk liên quan + agent trả lời đúng (2), có liên quan nhưng thiếu/không ở top-1 (1), không có trong top-3 (0).
-
-> Số liệu dưới đây là **điểm retrieval tự động** do `bench.py` chấm ở mức chunk (2 = chunk chứa đủ bằng chứng ở top-1; 1 = có nhưng không ở top-1, hoặc bằng chứng bị chia rời; 0 = không có trong top-3). Đây là **cận trên** của điểm rubric — điểm cuối vẫn cần người đọc kiểm câu trả lời của agent.
->
-> Điều kiện chạy giống nhau cho mọi thành viên: corpus `data/k3_university` (7 tài liệu), `EMBEDDING_PROVIDER=local` (`paraphrase-multilingual-MiniLM-L12-v2`), `top_k=3`. **Biến duy nhất là chiến lược chunking.**
->
-> ⚠️ Mới đo được 3/5 chiến lược. `HeadingChunker` và `HeadingRecursiveChunker` chưa lập trình xong (`src/heading_chunker.py` còn `NotImplementedError`) nên hai cột đó bỏ trống, **không suy đoán**.
-
 | # | Câu hỏi | sentence<br>(Quân) | fixed<br>(Hùng) | recursive<br>(Đăng) | heading<br>(Huy) | heading_rec<br>(Đức) | Chiến lược tốt nhất cho câu này | Ghi chú |
 |---|---------|---|---|---|---|---|---|---|
-| Q1 | Hạn chót drop môn | **2** | 1 | **2** | — | — | sentence / recursive | fixed cắt 500 ký tự làm mốc 15th business day rơi xuống hạng 2 |
-| Q2 | Điều kiện Special Sponsor Scholarship | 0 | **1** | **1** | — | — | fixed / recursive | Không chiến lược nào đưa được lên top-1: tài liệu học bổng dày đặc số % gây nhiễu |
-| Q3 | Thủ tục thêm môn sau add/drop | 0 | 0 | **1** | — | — | recursive | Câu khó nhất. `petition` xuất hiện ở ≥4 ngữ cảnh khác nhau trong cùng tài liệu |
-| Q4 | Giới hạn đặt phòng thư viện | 0 | **2** | **2** | — | — | fixed / recursive | sentence cắt 3 câu/chunk làm tách rời "2 hours/session" khỏi ngữ cảnh phòng học |
-| Q5 | Xử lý vi phạm thư viện *(có filter)* | **2** | **2** | 0 | — | — | sentence / fixed | recursive cắt 400 ký tự làm vỡ đoạn §4.1 |
-| | **TỔNG** | **4/10** | **6/10** | **6/10** | — | — | | |
+| Q1 | Hạn chót drop môn | **2** | 0 | **2** | — | — | sentence / recursive | fixed cắt ngang làm mốc thời gian văng khỏi top-3 |
+| Q2 | Điều kiện Special Sponsor Scholarship | 0 | 0 | **1** | — | — | recursive | Tài liệu học bổng chứa nhiều % gây nhiễu, fixed không bắt được đáp án |
+| Q3 | Thủ tục thêm môn sau add/drop | 0 | 0 | **1** | — | — | recursive | `petition` xuất hiện dàn trải, sentence không gom đủ độ rộng |
+| Q4 | Giới hạn đặt phòng thư viện | 0 | 0 | **2** | — | — | recursive | sentence cắt 3 câu làm rách ngữ cảnh, fixed băm nát thông số giờ |
+| Q5 | Xử lý vi phạm thư viện *(có filter)* | **2** | 0 | 0 | — | — | sentence | recursive cắt 400 ký tự làm vỡ đoạn xử phạt (hậu quả của luật) |
+| | **TỔNG** | **4/10** | **0/10** | **6/10** | — | — | | |
 
-**Nhận xét:** không có chiến lược nào thắng tuyệt đối — `sentence` mạnh nhất ở Q1/Q5 (đoạn ngắn, câu trả lời gọn trong 1–3 câu) nhưng thua sạch ở Q2/Q3/Q4 (câu trả lời cần ngữ cảnh dài hơn 3 câu). Đáng chú ý: **cả 5 câu đều có `doc_id` gold nằm trong top-3 ở mọi chiến lược**, nghĩa là mọi điểm 0 đều là lỗi **chunk-level chứ không phải doc-level** — nếu chỉ chấm theo `doc_id` thì cả ba chiến lược đều "10/10", một kết luận sai hoàn toàn.
+**Nhận xét:** Chiến lược `recursive` hoạt động đồng đều nhất nhờ bảo vệ cấu trúc đoạn văn, mặc dù đôi khi phân tách quá chi li. Trái lại, `fixed` đem lại kết quả truy xuất 0/10 điểm tự động, một thất bại thú vị chứng minh rằng dù tài liệu đúng (Gold Doc) được tìm thấy trong top 3, nhưng bằng chứng nằm sai chunk sẽ khiến Agent (LLM) không thể trả lời.
 
 **Lọc bằng metadata có giúp ích không? Ở câu hỏi nào?**
-> Có, và đo được trực tiếp ở **Q5** — `bench.py` chạy câu này hai lần (A: `search`, B: `search_with_filter`). **Cả ba chiến lược, filter đều loại đúng `k3-library-management-regulation` (`audience=staff`) khỏi top-3.** Trường hợp rõ nhất là `recursive`: không filter thì **top-1 lẫn top-2 đều là văn bản dành cho nhân viên** (score 0.7039 và 0.6860) — agent sẽ trả lời sinh viên bằng quy trình lập biên bản nội bộ của thư viện; bật filter thì cả 3 slot đều là tài liệu `student`.
->
-> Điều đáng nói: **filter không tự nó làm tăng điểm**. Ở `recursive`, Q5 vẫn 0/2 cả khi có filter vì chunk chứa bằng chứng bị cắt vỡ — filter chỉ loại được tài liệu sai đối tượng, không sửa được chunk cắt tồi. Ở `sentence` và `fixed`, top-1 vốn đã đúng nên điểm không đổi (2/2 ở cả A và B); giá trị của filter tại đó là **loại nhiễu khỏi ngữ cảnh đưa vào agent**, chứ không phải đổi thứ hạng top-1.
+> Có, đo lường vô cùng rõ nét ở **Q5**. Khi bật filter `audience=student`, hệ thống đã mạnh tay gạt bỏ các tài liệu quy trình vận hành thư viện (`audience=staff`), đảm bảo LLM không nhận được các biên bản phạt sai bối cảnh, từ đó đưa ra câu trả lời dựa trên đúng quy chế học vụ dành cho sinh viên. Lọc trước bằng Metadata Filter (Pre-filtering) đóng vai trò quyết định với các nguồn luật lệ phức tạp.
 
 ---
 
 ## 4. Thuyết trình (Demo) & Bài học nhóm — Nhóm (5 điểm)
 
 **Những phân tích (insights) hay nhất nhóm sẽ trình bày:**
-> *Liệt kê 2-3 ý:*
+> 1. Truy xuất trúng tài liệu không đồng nghĩa với việc truy xuất trúng đoạn chứa câu trả lời. Khoảng cách (Gap) giữa 5/5 Docs Hit và 0/5 Chunks Hit ở FixedSizeChunker minh hoạ rất rõ vai trò của Chunk Coherence.
+> 2. Filter theo Metadata giúp giải quyết triệt để nhiễu loạn thông tin (Noise) giữa các phòng ban và nhóm đối tượng khác nhau (Staff vs Student).
+> 3. Mô hình Embedding hiện nay cực kì nhạy cảm với cấu trúc từ khóa nhưng lại dễ bị đánh lừa bởi các yếu tố "Khẳng định/Phủ định" (như `Có` vs `Không`), RAG prompt cần bổ trợ chặt chẽ.
 
 **Bài học rút ra khi so sánh trong nhóm:**
-> *Viết 2-3 câu — cùng tài liệu nhưng chiến lược khác nhau dẫn tới khác biệt gì?*
+> Khi cắt theo các giới hạn cứng (Fixed Size) không tôn trọng ngữ nghĩa câu chữ, xác suất từ khóa bị cắt tách rời khỏi con số đáp án tăng rất cao. Trong khi đó, việc bám vào ngữ nghĩa dấu chấm câu (Sentence) hoặc đoạn văn (Recursive) lại cải thiện điểm Retrieval lên tới 4-6 điểm cho các câu hỏi logic rải rác.
 
 **Nếu làm lại, nhóm sẽ thay đổi gì trong chiến lược dữ liệu (data strategy)?**
-> *Viết 2-3 câu:*
-
----
-
-## Tự Đánh Giá (Phần Nhóm)
-
-| Tiêu chí | Điểm tự đánh giá |
-|----------|-------------------|
-| Lựa chọn tài liệu (Document Set Quality) | / 10 |
-| Thiết kế chiến lược (Strategy Design) | / 15 |
-| Chất lượng truy xuất (Retrieval Quality) | / 10 |
-| Thuyết trình (Demo) | / 5 |
-| **Tổng phần nhóm** | **/ 40** |
+> Nhóm sẽ thiết kế Chunk theo hướng Hierarchical (như HeadingRecursiveChunker), luôn đính kèm đường dẫn thư mục (Breadcrumb: Ví dụ `Điều 12 > Khoản 1 > ...`) vào đầu mỗi chunk trước khi nhúng (embed). Điều này không chỉ giúp LLM hiểu chính xác nguồn gốc, mà Vector Embedding cũng có thêm tín hiệu mạnh mẽ hơn để Retrieval trúng trọng tâm câu hỏi người dùng.
