@@ -8,7 +8,10 @@ audience: "student"
 department: "library"
 category: "library-services"
 language: "vi"
----# Vay và yêu cầu - Sinh viên và nhân viên đại học
+source_language: en
+translation: manual-vi
+---
+# Vay và yêu cầu - Sinh viên và nhân viên đại học
 
 Thông tin dành cho sinh viên và nhân viên đại học
 

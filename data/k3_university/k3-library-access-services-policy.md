@@ -8,7 +8,10 @@ audience: "student"
 department: "library"
 category: "library-services"
 language: "vi"
----# Chính sách dịch vụ và truy cập thư viện
+source_language: en
+translation: manual-vi
+---
+# Chính sách dịch vụ và truy cập thư viện
 
 I.    MỤC ĐÍCH
 

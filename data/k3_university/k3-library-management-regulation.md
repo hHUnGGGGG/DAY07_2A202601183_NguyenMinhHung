@@ -8,7 +8,10 @@ audience: "staff"
 department: "library"
 category: "library-management"
 language: "vi"
----#Quy chế quản lý thư viện
+source_language: en
+translation: manual-vi
+---
+#Quy chế quản lý thư viện
 
 1. Quy định chung
 

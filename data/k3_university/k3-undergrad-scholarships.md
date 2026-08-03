@@ -8,7 +8,10 @@ audience: "student"
 department: "admissions"
 category: "scholarship"
 language: "vi"
----#Học bổng đại học
+source_language: en
+translation: manual-vi
+---
+#Học bổng đại học
 Để tiếp tục hỗ trợ sứ mệnh ươm mầm nhân tài, Tập đoàn Group, Nhà sáng lập Đại học VinUni, tái khẳng định cam kết vững chắc trong việc duy trì Quỹ học bổng của Trường dành cho các thế hệ sinh viên Đại học VinUni tương lai.
 
 Trợ cấp học phí

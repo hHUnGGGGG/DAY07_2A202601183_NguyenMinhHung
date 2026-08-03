@@ -8,7 +8,10 @@ audience: "student"
 department: "student-life"
 category: "dormitory"
 language: "vi"
----# Hướng dẫn cuộc sống dân cư
+source_language: en
+translation: manual-vi
+---
+# Hướng dẫn cuộc sống dân cư
 
 I. Mục đích
 

@@ -8,7 +8,10 @@ audience: "student"
 department: "registrar"
 category: "course-registration"
 language: "vi"
----# Quy định học thuật cho chương trình đại học toàn thời gian
+source_language: en
+translation: manual-vi
+---
+# Quy định học thuật cho chương trình đại học toàn thời gian
 
 Bảng chú giải thuật ngữ
 

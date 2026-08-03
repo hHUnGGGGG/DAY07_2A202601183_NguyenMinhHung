@@ -8,7 +8,10 @@ audience: "student"
 department: "finance"
 category: "tuition"
 language: "vi"
----# Quy định tài chính và thuế quan (dành cho sinh viên)
+source_language: en
+translation: manual-vi
+---
+# Quy định tài chính và thuế quan (dành cho sinh viên)
 
 A.    QUY ĐỊNH TÀI CHÍNH VÀ BIỂU PHÍ DÀNH CHO ĐẠI HỌC
 
