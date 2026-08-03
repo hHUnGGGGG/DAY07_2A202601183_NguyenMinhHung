@@ -87,7 +87,7 @@ Chạy `ChunkingStrategyComparator().compare()` trên 3 tài liệu:
 
 **Thành viên 4 — Bùi Gia Huy**
 - **Loại chiến lược:** `HeadingChunker(max_chunk_size=800)`
-- **Mô tả & lý do chọn:** Phù hợp với các văn bản quy chế dài có đánh số thứ tự Điều (Articles) và Khoản (Sections) rõ ràng.
+- **Mô tả & lý do chọn:** Phù hợp với các văn bản quy chế dài có đánh số thứ tự Điều (Articles) và Khoản (Sections) rõ ràng. Văn bản quy định được biên soạn theo mục, mỗi mục đã là một đơn vị ngữ nghĩa trọn vẹn (điều kiện + ngoại lệ + thời hạn nằm cùng một chỗ). Cắt theo heading giữ được nguyên cấu trúc pháp lý của Điều luật.
 
 **Thành viên 5 — Nguyễn Huy Đức**
 - **Loại chiến lược:** `HeadingRecursiveChunker(max_chunk_size=800, breadcrumb=True)`
@@ -98,10 +98,12 @@ Chạy `ChunkingStrategyComparator().compare()` trên 3 tài liệu:
 | Thành viên | Chiến lược (Strategy) | Điểm truy xuất (/10) | Điểm mạnh | Điểm yếu |
 |-----------|----------|----------------------|-----------|----------|
 | Hoàng Anh Quân | SentenceChunker | 4/10 | Giữ vẹn nghĩa của các câu ngắn, không bị cắt đôi từ khóa quan trọng. | Thiếu ngữ cảnh lớn khi câu trả lời cần bao quát từ >3 câu (bị cắt đoạn). |
-| Nguyễn Minh Hùng | FixedSizeChunker | 6/10 | Bao phủ rộng, kích thước đồng đều giúp dễ quản trị embedding limits. | Cắt cứng làm rớt đáp án ra khỏi câu hỏi, chia cắt ngữ nghĩa. |
+| Nguyễn Minh Hùng | FixedSizeChunker | 0/10 | Bao phủ rộng, kích thước đồng đều giúp dễ quản trị embedding limits. | Cắt cứng làm rớt đáp án ra khỏi câu hỏi, chia cắt ngữ nghĩa. |
 | Phạm Hải Đăng | RecursiveChunker | 6/10 | Phân bổ mượt mà các đoạn text tự nhiên, tốt cho quy trình (process) dài. | Các bảng biểu số liệu dễ bị vỡ do xử lý newline (`\n`). |
+| Bùi Gia Huy | HeadingChunker | 0/10 | Ít chunk nhất (231 so với 342–353 của các chiến lược khác), doc gold đạt 5/5 tuyệt đối — tài liệu luôn nằm trong top-3. | Chunk con không có breadcrumb nên mất ngữ cảnh heading, dẫn đến 0/10 chunk-level trên cả 5 câu hỏi. |
+| Nguyễn Huy Đức | HeadingRecursiveChunker | — | — | — |
 
-*(HeadingChunker và HeadingRecursiveChunker chưa có data điểm chính thức do chưa tích hợp vào bench.py, nhưng hứa hẹn mang lại context tốt nhất).*
+*(HeadingRecursiveChunker chưa có data điểm chính thức do Nguyễn Huy Đức chưa nộp benchmark).*
 
 **Chiến lược nào tốt nhất cho chủ đề này? Tại sao?**
 > **RecursiveChunker** kết hợp hoặc **HeadingRecursiveChunker** là tối ưu nhất cho văn bản Quy định Đại học (University Services). Vì quy chế học vụ luôn được định dạng với cấu trúc thứ bậc (Điều, Khoản, Điểm) rất nghiêm ngặt. Việc sử dụng kỹ thuật cắt theo Semantic (ngữ nghĩa phân đoạn tự nhiên) và gắn thêm breadcrumb tiêu đề giúp RAG nắm bắt trọn vẹn context pháp lý, trong khi chiến lược cắt cứng (FixedSize) khiến LLM lạc lối vì mất đi tiêu đề của Điều luật tương ứng.
@@ -126,14 +128,14 @@ Chạy `ChunkingStrategyComparator().compare()` trên 3 tài liệu:
 
 | # | Câu hỏi | sentence<br>(Quân) | fixed<br>(Hùng) | recursive<br>(Đăng) | heading<br>(Huy) | heading_rec<br>(Đức) | Chiến lược tốt nhất cho câu này | Ghi chú |
 |---|---------|---|---|---|---|---|---|---|
-| Q1 | Hạn chót drop môn | **2** | 0 | **2** | — | — | sentence / recursive | fixed cắt ngang làm mốc thời gian văng khỏi top-3 |
-| Q2 | Điều kiện Special Sponsor Scholarship | 0 | 0 | **1** | — | — | recursive | Tài liệu học bổng chứa nhiều % gây nhiễu, fixed không bắt được đáp án |
-| Q3 | Thủ tục thêm môn sau add/drop | 0 | 0 | **1** | — | — | recursive | `petition` xuất hiện dàn trải, sentence không gom đủ độ rộng |
-| Q4 | Giới hạn đặt phòng thư viện | 0 | 0 | **2** | — | — | recursive | sentence cắt 3 câu làm rách ngữ cảnh, fixed băm nát thông số giờ |
-| Q5 | Xử lý vi phạm thư viện *(có filter)* | **2** | 0 | 0 | — | — | sentence | recursive cắt 400 ký tự làm vỡ đoạn xử phạt (hậu quả của luật) |
-| | **TỔNG** | **4/10** | **0/10** | **6/10** | — | — | | |
+| Q1 | Hạn chót drop môn | **2** | 0 | **2** | 0 | — | sentence / recursive | fixed cắt ngang làm mốc thời gian văng khỏi top-3; heading chunker không có breadcrumb ở chunk con |
+| Q2 | Điều kiện Special Sponsor Scholarship | 0 | 0 | **1** | 0 | — | recursive | heading: doc gold đúng nhưng "80% or higher" bị cắt khỏi chunk |
+| Q3 | Thủ tục thêm môn sau add/drop | 0 | 0 | **1** | 0 | — | recursive | heading: "petition" và "academic advisor" nằm ở 2 chunk riêng |
+| Q4 | Giới hạn đặt phòng thư viện | 0 | 0 | **2** | 0 | — | recursive | heading: "2 hours/session" và "2 sessions/day" bị tách |
+| Q5 | Xử lý vi phạm thư viện *(có filter)* | **2** | 0 | 0 | 0 | — | sentence | heading: "break library rules" và "Student Code of Conduct" bị tách |
+| | **TỔNG** | **4/10** | **0/10** | **6/10** | **0/10** | — | | |
 
-**Nhận xét:** Chiến lược `recursive` hoạt động đồng đều nhất nhờ bảo vệ cấu trúc đoạn văn, mặc dù đôi khi phân tách quá chi li. Trái lại, `fixed` đem lại kết quả truy xuất 0/10 điểm tự động, một thất bại thú vị chứng minh rằng dù tài liệu đúng (Gold Doc) được tìm thấy trong top 3, nhưng bằng chứng nằm sai chunk sẽ khiến Agent (LLM) không thể trả lời.
+**Nhận xét:** Chiến lược `recursive` hoạt động đồng đều nhất nhờ bảo vệ cấu trúc đoạn văn, mặc dù đôi khi phân tách quá chi li. Trái lại, `fixed` và `heading` đều 0/10 — thất bại khác nhau nhưng cùng gốc: chunk không giữ được ngữ cảnh liên quan. Điểm nổi bật của `heading`: **doc gold đạt 5/5 tuyệt đối** (ít chunk nhất mà luôn tìm đúng tài liệu), nhưng chunk-level thì 0/10 — khoảng cách này minh hoạ rõ nhất vai trò của Chunk Coherence.
 
 **Lọc bằng metadata có giúp ích không? Ở câu hỏi nào?**
 > Có, đo lường vô cùng rõ nét ở **Q5**. Khi bật filter `audience=student`, hệ thống đã mạnh tay gạt bỏ các tài liệu quy trình vận hành thư viện (`audience=staff`), đảm bảo LLM không nhận được các biên bản phạt sai bối cảnh, từ đó đưa ra câu trả lời dựa trên đúng quy chế học vụ dành cho sinh viên. Lọc trước bằng Metadata Filter (Pre-filtering) đóng vai trò quyết định với các nguồn luật lệ phức tạp.
@@ -143,7 +145,7 @@ Chạy `ChunkingStrategyComparator().compare()` trên 3 tài liệu:
 ## 4. Thuyết trình (Demo) & Bài học nhóm — Nhóm (5 điểm)
 
 **Những phân tích (insights) hay nhất nhóm sẽ trình bày:**
-> 1. Truy xuất trúng tài liệu không đồng nghĩa với việc truy xuất trúng đoạn chứa câu trả lời. Khoảng cách (Gap) giữa 5/5 Docs Hit và 0/5 Chunks Hit ở FixedSizeChunker minh hoạ rất rõ vai trò của Chunk Coherence.
+> 1. Truy xuất trúng tài liệu không đồng nghĩa với việc truy xuất trúng đoạn chứa câu trả lời. Khoảng cách (Gap) giữa 5/5 Docs Hit và 0/5 Chunks Hit ở HeadingChunker và FixedSizeChunker minh hoạ rất rõ vai trò của Chunk Coherence.
 > 2. Filter theo Metadata giúp giải quyết triệt để nhiễu loạn thông tin (Noise) giữa các phòng ban và nhóm đối tượng khác nhau (Staff vs Student).
 > 3. Mô hình Embedding hiện nay cực kì nhạy cảm với cấu trúc từ khóa nhưng lại dễ bị đánh lừa bởi các yếu tố "Khẳng định/Phủ định" (như `Có` vs `Không`), RAG prompt cần bổ trợ chặt chẽ.
 
