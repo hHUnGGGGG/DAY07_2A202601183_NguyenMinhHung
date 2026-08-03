@@ -7,313 +7,307 @@ document_version: "not-stated"
 audience: "student"
 department: "student-life"
 category: "dormitory"
-language: "en"
----
+language: "vi"
+---# Hướng dẫn cuộc sống dân cư
 
-# Residential Life Guideline
+I. Mục đích
 
-I. Purpose
+Mục đích của hướng dẫn này là giúp sinh viên chuẩn bị cho cuộc sống nội trú tại trường đại học; phát triển ý thức tôn trọng và quan tâm đến người khác; đưa ra những lựa chọn có trách nhiệm về lối sống của mình; chia sẻ kinh nghiệm học tập, xã hội và văn hóa của họ với những cư dân khác; học cách sống độc lập nhưng vẫn hòa hợp với một nhóm người đa dạng; và khuyến khích họ tích cực tham gia vào cộng đồng của bạn theo quyền lợi và trách nhiệm của bạn với tư cách là cư dân trong khuôn viên Đại học VinUni và các chỗ ở khác do VinUni cung cấp.
 
-The purpose of this guideline is to help students to prepare them for their residential life at university; develop a sense of respect and care for others; make responsible choices about their lifestyle; share their academic, social, and cultural experiences with other residents; learn to live independently yet in harmony with a diverse group of people; and encourage them to actively engage in your community according to your rights and responsibilities as a resident on VinUniversity campus and other VinUni-provided accommodation.
+II. Phạm vi
 
-II. Scope
+Hướng dẫn này áp dụng cho tất cả sinh viên VinUni cư trú tại nơi ở do VinUni cung cấp, bao gồm cả ký túc xá trong khuôn viên trường và ký túc xá ngoài trường do Nhà trường và các đối tác sắp xếp.
 
-This guideline applies to all students of VinUniversity residing in VinUni-provided accommodation, including both on-campus dormitories and off-campus residences arranged by the University and its partners.
+III. Nguyên tắc chính sách chung 
 
-III. General Policy Principles 
+1. Nguyên tắc cộng đồng
 
-1. Community Principles
+Tất cả sinh viên năm thứ nhất phải ở trong ký túc xá VinUni như một phần trong cam kết của chúng tôi trong việc xây dựng một cộng đồng sinh viên năng động, hỗ trợ và hợp tác.
 
-All first-year students are required to reside in the VinUni dormitory as part of our commitment to building a vibrant, supportive, and collaborative student community.
+Chúng tôi tin rằng co-living, co-working và co-learning trong cùng một môi trường cho phép bạn hình thành các kết nối xã hội có ý nghĩa, cộng tác trong công việc học tập và học hỏi lẫn nhau cả trong và ngoài lớp học. Những trải nghiệm được chia sẻ này giúp xây dựng tình bạn lâu dài, củng cố kỹ năng sống và nuôi dưỡng cảm giác thân thuộc - tất cả đều cần thiết cho sự phát triển cá nhân và học tập của bạn trong thời gian học đại học và hơn thế nữa.
 
-We believe that co-living, co-working, and co-learning in the same environment enables you to form meaningful social connections, collaborate on academic work, and learn from one another both inside and outside the classroom. These shared experiences help build lasting friendships, strengthen life skills, and foster a sense of belonging — all of which are essential for your personal and academic growth during university and beyond.
+Cởi mở: Luôn cởi mở với sự đa dạng về chủng tộc, văn hóa, giới tính, tôn giáo và khuynh hướng tình dục.
 
-Openness: Stay open-minded to racial, cultural, gender and religious diversity and sexual orientation.
+Chia sẻ và tôn trọng: Đối xử với con người, tài sản và môi trường bằng sự tôn trọng và quan tâm.
 
-Sharing and Respecting: Treat people, properties, and the environment with respect and care.
+Lối sống lành mạnh: Ăn uống lành mạnh, tập thể dục hàng ngày, sống vui vẻ và đối xử tốt với nhau.
 
-Healthy Lifestyle: Eat healthily, exercise daily, live happily, and be nice to each other.
+2. Đời sống dân cư: Mạng lưới hỗ trợ
 
-2. Residential Life: Support Network
+Sinh viên có thể liên hệ với bất kỳ cơ quan nào ở trên để được hướng dẫn, hỗ trợ hoặc trợ giúp về các vấn đề liên quan đến nhà ở.
 
-Students can reach out to any of the above for guidance, support, or help with housing related issues.
+Cùng nhau, họ đảm bảo sinh viên cảm thấy an toàn, được hỗ trợ và kết nối dù ở trong hay ngoài khuôn viên trường.
 
-Together, they ensure students feel safe, supported, and connected whether on-campus or off-campus.
+Xem Phụ lục I và Phụ lục II để biết thêm thông tin tương ứng trong và ngoài trường.
 
-See Appendix I and Appendix II for more information on-campus and off-campus contact information, respectively.
+3. Chính sách về tiếng ồn, Giờ yên tĩnh và Giờ ra/vào
 
-3. Noise Policy, Quiet Hours and Out/In Hours
+Đại học VinUni mong muốn tất cả cư dân tôn trọng và ý thức được tác động mà hành vi và hoạt động của mình có thể gây ra đối với hàng xóm. Các cuộc tụ họp xã hội là một phần thiết yếu của cuộc sống trong khuôn viên trường, nhưng chẳng hạn như khi bạn có khách, hãy quan tâm đến những người bạn cùng cư trú của bạn. Không nói chuyện quá to, bật loa khi người khác đang học, gây tiếng ồn lớn khi ra vào căn hộ của bạn hoặc la hét và đập cửa căn hộ, đặc biệt là vào ban đêm. Ngoài ra, không được phép chơi guitar điện, trống, v.v. trong khu ký túc xá do Đại học VinUni cung cấp mà thay vào đó có thể được thực hiện tại các phòng tập âm nhạc có sẵn trong khu liên hợp thể thao.
 
-VinUniversity expects all residents to respect and be conscious of the impact that their behavior and activities may have on their neighbors. Social gatherings are an essential part of campus life, but when you have guests, for example, be considerate of your fellow residents. Refrain from talking too loudly, playing music on a speaker when others are studying, making loud noise while entering and leaving your apartment, or shouting at and banging on apartment doors, especially during the night. In addition, playing electric guitars, drums etc. is not allowed within VinUniversity-provided residence and can be instead carried out in music practice rooms available in the sports complex.
+Tổng quan về giờ cư trú
 
-Residential Hours Overview
-
-Category
-Days
-Time
-Notes
+Danh mục
+ngày
+thời gian
+Ghi chú
 
  
 
-Quiet Hours
-Sunday – Thursday
-10:00 PM – 7:00 AM
-Residents should keep noise to a minimum during this time.
+Giờ yên tĩnh
+Chủ Nhật – Thứ Năm
+10:00 tối – 7:00 sáng
+Cư dân nên hạn chế tiếng ồn ở mức tối thiểu trong thời gian này.
 
-Friday – Saturday
-12:00 AM – 7:00 AM
-Adjustments may apply during holidays or exam weeks.
+Thứ Sáu – Thứ Bảy
+12:00 sáng – 7:00 sáng
+Các điều chỉnh có thể được áp dụng trong các ngày lễ hoặc tuần thi.
 
-Curfew
+Giờ giới nghiêm
 
-(On-campus)
-All days
-After 11:00 PM
-Students should remain on campus after this time. Late returns may result in no campus access.
+(Trong khuôn viên trường)
+Tất cả các ngày
+Sau 11 giờ tối
+Học sinh nên ở lại trường sau thời gian này. Việc trả lại muộn có thể dẫn đến việc không được vào trường.
 
-Off-campus Routine
-All days
-No fixed hours
-Students are expected to maintain a safe, healthy routine and avoid late-night travel without valid reasons.
+Hoạt động ngoài trường
+Tất cả các ngày
+Không có giờ cố định
+Học sinh phải duy trì thói quen an toàn, lành mạnh và tránh đi lại vào đêm khuya mà không có lý do chính đáng.
 
-Stay on/off campus: Students are required to stay on campus as much as possible, especially during the week for classes and student activities. For some occasions, normally in the weekend, if students want to stay off campus, they shall send an email request to ask for permission from the Residential Office in advance with details of dates when they leave and return to campus. Students are not encouraged to stay off campus or VinUni-provided residential area within the week too often. The Residential Office shall consider the request on a case-by-case basis.
+Ở trong/ngoài khuôn viên trường: Sinh viên được yêu cầu ở lại khuôn viên trường nhiều nhất có thể, đặc biệt là trong tuần để tham gia các lớp học và hoạt động của sinh viên. Trong một số trường hợp, thường là vào cuối tuần, nếu sinh viên muốn ở ngoài khuôn viên trường, họ sẽ gửi yêu cầu qua email để xin phép trước từ Văn phòng Nội trú kèm theo thông tin chi tiết về ngày họ rời khỏi và quay lại trường. Sinh viên không được khuyến khích rời khỏi khuôn viên trường hoặc khu dân cư do VinUni cung cấp quá thường xuyên trong tuần. Văn phòng cư trú sẽ xem xét yêu cầu theo từng trường hợp cụ thể.
+Nếu một sinh viên ngoài trường dự định rời khỏi chỗ ở đã đăng ký của mình hơn một đêm, họ phải thông báo trước cho Cán bộ Đời sống Dân cư qua email, nêu rõ:
 
-If an off-campus student plans to be away from their registered accommodation for more than one night, they must inform the Residential Life Officer in advance via email, clearly stating:
+Ngày đi và về
 
-The date of departure and return
+Lý do vắng mặt
 
-Reason for absence
+Thông tin liên lạc khẩn cấp
 
-Emergency contact information
+Sự phê duyệt không phải lúc nào cũng cần thiết, nhưng việc giao tiếp chủ động là bắt buộc. Việc vắng mặt kéo dài thường xuyên trong tuần học không được khuyến khích và các hình thức vắng mặt có thể được xem xét để theo dõi sức khỏe của học sinh.
 
-Approval is not always required, but proactive communication is mandatory. Frequent extended absences during the academic week are discouraged, and patterns of absence may be reviewed for student well-being monitoring.
+4. Chính sách thăm viếng của khách
 
-4. Guest Visit Policy
+Bạn có thể tiếp khách trong khuôn viên trường hoặc tại khu dân cư do VinUni cung cấp với điều kiện họ phải tôn trọng quyền riêng tư của các cư dân khác và tuân thủ các chính sách sau khi đến thăm nơi cư trú:
 
-You can receive guests on campus or at VinUni-provided residential area on the condition that they shall respect the privacy of other residents and abide by the following policies during their visit to the residence:
+Cư dân phải đăng ký (những) khách đến thăm Văn phòng Cư trú. Khách phải gặp cư dân ở khu vực chung và không được vào căn hộ chủ nhà nếu không có sự đồng ý trước của (những) người thuê chung căn hộ khác.
 
-Residents shall register their visitor(s) to the Residential Office. Guests are expected to meet residents in the common area and shall not enter the host apartment without prior consent from other co-tenant(s) of the apartment.
+Khách phải luôn đi cùng chủ nhà và không được đưa chìa khóa căn hộ.
 
-Guests must be physically always accompanied by the host and should not be given the apartment key.
+Chủ nhà sẽ phải chịu trách nhiệm về hành động và cách cư xử của khách trong ký túc xá. Cư dân phải chịu trách nhiệm về mọi hành vi vi phạm của (những) khách đến thăm. Tham khảo Chính sách và Quy trình Quy tắc Ứng xử Sinh viên VinUni để biết các biện pháp kỷ luật cụ thể liên quan đến hành vi vi phạm.
 
-The host will be held accountable for the actions and behaviors of their guests within the residence halls. Residents are responsible for all violations by their visitor(s). Refer to the VinUniversity Student Code of Conduct Policy and Procedure for specific disciplinary actions related to violations.
+Những khách đến thăm trong ngày phải ở lại không muộn hơn 10 giờ tối.
 
-Guests who visit during the day will be expected to stay no later than 10:00pm.
+Khu dân cư không đón khách trước 7 giờ sáng và sau 9 giờ tối, trừ trường hợp khẩn cấp.
 
-The Residential area does not receive the visit before 7:00am and after 9:00pm, except for emergency cases.
+Mỗi cư dân sẽ có không quá ba khách đến thăm cùng một lúc.
 
-Each resident shall have no more than three guests visiting at the same time.
+Để đăng ký, sinh viên điền vào biểu mẫu trực tuyến Chuyến thăm của khách trước 03 ngày làm việc đối với chuyến thăm trong ngày và trước 05 ngày làm việc đối với khách qua đêm.
 
-To register, students fill in the Guest Visit online form 03 working days in advance for visit within the day and 05 working days in advance for overnight guests.
+5. Yêu cầu đổi phòng
 
-5. Room Change Request
+Sinh viên có thể yêu cầu thay đổi phòng. Tuy nhiên, không có người cụ thể nào được ưu tiên hơn một không gian. Các yêu cầu sẽ được xem xét cẩn thận trong từng trường hợp cụ thể và được thực hiện qua các bước sau:
 
-Students can request a room change. However, no particular person has priority over one space. Requests will be considered carefully on a case-by-case basis and implemented through the following steps:
+Bước 1: Nói chuyện với (những) người bạn cùng phòng về mâu thuẫn để xác định vấn đề cần giải quyết. Nói về những mối quan tâm và lắng nghe đối phương. Bạn có thể yêu cầu Trợ lý thường trú hỗ trợ để cùng bạn thực hiện bước này hoặc bạn và bạn cùng phòng có thể giải quyết vấn đề này sau một tuần kể từ ngày thông báo cho Trợ lý thường trú. Phải hoàn thành bản thỏa thuận bạn cùng phòng do Văn phòng Cư trú cung cấp.
 
-Step 1: Talk to your roommate(s) about the conflict to identify the issues that need to be resolved. Talk about concerns and listen to the other party. You can ask for support from Resident Assistants to join you at this step, or you and your roommate can work it out in one week from the notice date to Resident Assistant. A roommate agreement, which is provided by the Residential Office, should be completed.
+Bước 2: Nói chuyện với Khoa tại nơi cư trú về xung đột hoặc mối quan ngại đang tiếp diễn. Khoa Ký túc xá sẽ gặp bạn và bạn cùng phòng của bạn trong một cuộc họp chính thức. Một thỏa thuận bạn cùng phòng khác cần phải được hoàn thành. Sau cuộc họp, bạn và bạn cùng phòng nên dành ít nhất một tuần để giải quyết xung đột.
 
-Step 2: Talk to the Faculty in Residence about a continuing conflict or concerns. The Faculty in Residence will meet with you and your roommate in a formal meeting. Another roommate agreement needs to be completed. After the meeting, you and your roommate should allow at least one week to resolve the conflict.
+Bước 3: Nếu bước một và hai không thành công, hãy liên hệ với Văn phòng Cư trú. Họ sẽ làm việc với bạn và bạn cùng phòng của bạn để giải quyết vấn đề và/hoặc thảo luận về khả năng thay đổi phòng.
 
-Step 3: If steps one and two are not successful, contact the Residential Office. They will work with you and your roommate to resolve the issue and/or discuss a possible room change.
+Trong trường hợp xảy ra tranh chấp với bạn cùng phòng và cần phải chuyển phòng, Văn phòng Cư trú sẽ hỗ trợ giải quyết tranh chấp và điều chỉnh việc sắp xếp phòng nếu cần thiết. Bạn không được phép đổi phòng với các sinh viên khác nếu không có sự cho phép của Văn phòng Nội trú.
 
-In situations where there is a roommate dispute, and a room change is necessary, the Residential Office shall help in managing the dispute, and adjusting the room arrangement, if necessary. You are not allowed to swap rooms with other students without permission from the Residential Office.
+6. Thủ tục chuyển vào và chuyển đi
 
-6. Move in and move out procedure
+Thủ tục nhập cảnh
 
-Check-in Procedures
+Sinh viên phải hoàn tất mọi thủ tục giấy tờ đăng ký trước khi chuyển đến ký túc xá của Đại học VinUni. Sinh viên nên đến khu dân cư do VinUni cung cấp trong thời gian dự kiến ​​để đăng ký trừ khi đã có thỏa thuận trước với Văn phòng nội trú.
 
-Students must complete all check-in paperwork before moving into VinUniversity residence. Students should arrive at VinUni-provided residential area during the scheduled times for check-in unless prior arrangements have been made with the Residential Office.
+Bạn được yêu cầu phải:
 
-You are required to:
+Mang theo bản sao CMND có công chứng (bản sao hộ chiếu và visa đối với sinh viên quốc tế). Bỏ qua tài liệu này nếu bạn đã gửi nó trong các tài liệu đăng ký được yêu cầu.
 
-Bring a copy of your notarized ID card (a copy of your passport and visa for international students). Skip this document if you have already submitted it in the required enrolment documents.
+Điền vào mẫu đơn cư trú trong khuôn viên trường
 
-Fill in the campus residence form
+Đọc và ký vào biên bản bàn giao tài sản căn hộ của bạn (một mẫu cho một căn hộ)
 
-Read and sign the property handover form of your apartment (one form for one apartment)
+Điền vào các mẫu đăng ký tạm trú
+Trong tuần đầu tiên cư trú, bạn sẽ được tham quan giới thiệu về các dịch vụ, địa điểm và cơ sở vật chất trong khuôn viên trường hoặc khu dân cư do VinUni cung cấp.
 
-Fill in the Temporary Residence Registration Forms
+Điều quan trọng cần lưu ý là khi cư dân nhận chìa khóa phòng và ký vào biên bản bàn giao tài sản, họ thể hiện sự hiểu biết và chấp nhận Nguyên tắc sống ở khu dân cư. Cư dân có trách nhiệm kiểm tra phòng trong vòng một ngày sau khi nhận chìa khóa và hoàn tất các thủ tục nhận phòng để đảm bảo phòng trong tình trạng tốt và có đầy đủ trang thiết bị như ghi trên bảng kê tài sản bàn giao. Nếu không nhận được báo cáo, Văn phòng Nội trú sẽ cho rằng căn phòng không có hư hại gì và mọi hư hỏng được phát hiện trong quá trình trả phòng sẽ thuộc trách nhiệm của học sinh. Sinh viên được khuyến khích đọc Hướng dẫn về cuộc sống nội trú trước khi đăng ký.
 
-During the first week of your residence, you will receive an introductory tour of the services, places and facilities on campus or VinUni-provided residential area.
+Thủ tục trả phòng
 
-It is important to note that when a resident takes possession of a room key and signs the property’s handover form, they indicate an understanding and acceptance of the Residential Life Guideline. Residents have the responsibility to check the room within one day after receiving the key and complete the check-in procedures to ensure the room is in good condition and has full equipment as indicated on the handover of asset list. If there is no report received, the Residential Office will assume that the room has no damage and any damage discovered during the check-out process will be the student’s responsibility. Students are encouraged to read the Residential Life Guideline before checking in.
+Tất cả sinh viên được yêu cầu trả phòng sau kỳ thi cuối kỳ và tuần đánh giá của mỗi học kỳ. Bạn sẽ được thông báo về ngày đến hạn trả phòng.
 
-Check-out Procedures
+Để hoàn tất thủ tục trả phòng, cư dân cần:
 
-All students are required to check out of their room after the final exam and assessment week of each semester. You will be informed of the due date for check-out.
+Hẹn giờ kiểm tra với Văn phòng Dân cư: Cư dân hẹn giờ kiểm tra trước trong tuần dọn ra. Để kiểm tra, nhân viên sẽ đến phòng và kiểm tra các vấn đề hư hỏng/sạch sẽ dựa trên mẫu đăng ký liệt kê tất cả tài sản trong phòng. Một cư dân có thể đại diện căn hộ của mình để sắp xếp thời gian kiểm tra. Nếu có bất kỳ khoản phí nào phát sinh, mọi người trong cùng một căn hộ sẽ bị tính phí và phải thanh toán khoản phí này trước khi rời đi nếu không sẽ bị trừ vào tiền đặt cọc
 
-To complete the check-out procedures, residents need to:
+Đăng ký ngày giờ chuyển đi: Cư dân phải thông báo cho Văn phòng Cư trú về ngày giờ họ dự định chuyển đi một tuần trước khi khởi hành.
 
-Schedule an inspection time with the Residential Office: Residents schedule an inspection time in advance during the week of moving out. For inspection, a staff member will come to the room and inspect damage/cleanliness issues in reference to the check-in form which lists all assets in the room. One resident can represent his/her apartment to schedule an inspection time. If any charges occur, everyone in the same apartment will be charged and have to pay the charge before their departure or it will be deducted in the deposit
+Cư dân nên dọn dẹp không gian sống, loại bỏ các vật dụng cá nhân hoặc đồ trang trí (nếu có) để bàn giao phòng với tình trạng như trước khi chuyển đến. Cư dân cũng cần đảm bảo rằng tất cả rác thải, rác tái chế, mảnh vụn, đồ bỏ đi đều được đóng gói hoặc đóng hộp và đưa đến khu vực rác/tái chế của tòa nhà. Mọi sự quyên góp thực phẩm, quần áo và đồ gia dụng phải được mang đến Văn phòng Cư trú và gửi vào khu vực được chỉ định.
 
-Register a move-out day and time: Residents must inform the Residential Office of the day and time they plan to move out one week before their departure.
+Cư dân có trách nhiệm điền vào phiếu trả phòng (đã kiểm tra, bàn giao) và trả lại chìa khóa ra vào, đồ mượn (nếu có) vào ngày dọn đi.
 
-Residents should clean their living spaces, remove personal items or decoration (if any) so that the room can be handed over with the same condition as before they moved in. They also should make sure that all garbage, recyclables, debris, and abandoned items are bagged or boxed and taken to the trash/recycling area of the building. Any donations of food, clothing, and household items should be brought to the Residential Office and deposited in designated areas.
+7. Quy tắc ứng xử của cư dân
 
-Residents shall complete the check-out form (inspection, handover form) and return the access keys, borrowed items (if any) on the day of moving out.
+Vui lòng tham khảo Chính sách và Quy trình Quy tắc Ứng xử của Học sinh để biết thêm chi tiết.
 
-7. Residents’ Code of Conduct
+Trong trường hợp mất mát và hư hỏng phòng hoặc khu vực cư trú, phí sẽ được đưa ra dựa trên mức độ nghiêm trọng của thiệt hại và phán quyết đánh giá của hội đồng.
 
-Please refer to the Student Code of Conduct Policy and Procedure for details.
+Đăng bài/Gợi ý
 
-In the event of loss and damage to a residence room or area, a charge will be issued based on the severity of the damage and judgment of the evaluation of the council.
+Mọi hoạt động đăng tải, phát tán hoặc chào mời tại các khu vực công cộng của cơ sở nội trú đều phải được bộ phận Quản lý Công tác Sinh viên chấp thuận. Cấm đăng bài trên ban công hoặc lan can bên ngoài của phòng chung cư hoặc dãy phòng ký túc xá. Việc dán bên trong phòng ngủ hoặc bên trong cửa sổ hoặc cửa ra vào của phòng ngủ nhìn ra bên ngoài không được cản trở hoạt động của cửa ra vào hoặc cửa sổ hoặc gây nguy hiểm cho sức khỏe hoặc sự an toàn. Được phép đăng tài liệu trong các khu vực sinh hoạt chung của căn hộ hoặc dãy nhà ở không mở cửa cho công chúng nếu không có cư dân nào trong cùng căn hộ hoặc dãy nhà ở phản đối tài liệu đó. Bất kỳ tài liệu nào được đăng trong khu vực chung của căn hộ hoặc dãy nhà ở phải bị xóa trong trường hợp bất kỳ cư dân nào của phòng liền kề có quyền truy cập vào khu vực chung phản đối việc đăng tài liệu đó.
 
-Posting/Solicitation
+Kiểm tra phòng
+Văn phòng Cư trú có quyền vào các phòng được chỉ định của cư dân để thực hiện các chức năng hợp pháp, bao gồm nhưng không giới hạn ở việc bảo trì, các tình huống khẩn cấp, có thể vi phạm chính sách của Đại học VinUni hoặc luật dân sự/hình sự và để đảm bảo tuân thủ các tiêu chuẩn an toàn và vệ sinh. Các vật dụng bất hợp pháp hoặc trái phép có thể bị tịch thu và các giấy phạt thích hợp có thể được đưa ra cho những cư dân có liên quan.
 
-All posting, distribution, or solicitation in the public areas of the residential facilities must be approved by the Student Affairs Management department. Posting on exterior balconies or railings of apartment rooms or residence hall suites is prohibited. Posting inside bedrooms or on the inside of exterior‐ facing bedroom windows or doors may not interfere with the operation of doors or windows or otherwise endanger health or safety. Posting of material in common living areas of apartments or residence hall suites which are not open to the public is permitted if none of the residents of the same apartments or residence hall suites object to the material. Any material posted in the common area of apartments or residence hall suites must be removed in the event that any resident of an adjoining room with access to the common area objects to the posting of such material.
+8. Sức khỏe và An toàn
 
-Inspection of Rooms
+Bảo mật
 
-The Residential Office retains the right to enter assigned rooms of residents in the performance of legitimate functions, including, but not limited to maintenance, emergency situations, possible violations of VinUniversity policy or civil/criminal law, and to ensure that safety and sanitation standards are being observed. Illegal or unauthorized items may be confiscated, and appropriate citations may be issued to the residents involved.
+Cư dân không nên bỏ qua hoặc vô hiệu hóa an ninh khu dân cư. Cư dân không được cho phép những người không có thẩm quyền ra vào căn hộ và/hoặc tòa nhà. Học sinh được nhắc nhở khóa cửa ra vào, đóng và khóa cửa sổ khi không có mặt trong phòng hoặc khi đang ngủ. Đồ đạc cá nhân phải được bảo đảm trong các kệ cá nhân.
 
-8. Health and Safety
+Sự an toàn và an ninh của cộng đồng là trách nhiệm chung của mọi người. Vì vậy, cư dân phải luôn đảm bảo rằng cửa ra vào và cửa sổ được khóa khi họ rời đi. Đồ đạc cá nhân phải được cất giữ an toàn và bảo mật. Sinh viên phải gọi cho Văn phòng nội trú hoặc nhân viên Đại học VinUni nếu không thể khóa và cố định cửa ra vào và/hoặc cửa sổ của phòng. Nếu cư dân thấy các hoạt động được cho là đáng ngờ, họ phải báo cáo cho Văn phòng Dân cư hoặc Đường dây nóng An ninh.
 
-Security
+Điện  
 
-Residents should not bypass or disable residential security. Residents should not allow suite and/or building access to unauthorized persons. Students are reminded to lock doors and close and lock windows when they are not present in the room or while asleep. Personal belongings should be secured in personal shelving units.
+Cư dân tại mỗi căn hộ có thể tự trang bị và sử dụng tối đa 1 ấm siêu tốc cùng lúc (công suất tối đa là 2000W). Sau khi sử dụng, cư dân phải tháo ấm ra khỏi đế để tránh trường hợp vô tình bật lên mà không có nước trong ấm gây cháy nổ.
 
-The safety and security of the community are everyone’s shared responsibility. Thus, residents should always ensure that doors and windows are locked when they leave. Personal belongings should be stored safely and securely. Students are required to call the Residential Office or VinUniversity staff if they are unable to lock and secure room doors and/or windows. If residents see activities deemed suspicious, they are expected to report to the Residential Office or Security Hotline.
+Hơn nữa, không được trộm cắp, lắp đặt hoặc sử dụng điện khi chưa được phép; trước khi rời khỏi căn hộ, phòng chung hoặc khu vực công cộng, hãy tắt đèn, máy tính và các thiết bị tiêu thụ điện năng khác. Ngoài ra:
 
-Electricity  
+Không sử dụng vật liệu dẫn điện khác thay cho cầu chì.
 
-Residents in each apartment may equip yourselves and use up to 1 super kettle at a time (maximum capacity is 2000W). After use, residents must remove the kettle from the base to avoid accidentally turning it on without water in the kettle, leading to a fire.
+Không đặt dây điện trực tiếp vào ổ cắm điện.
 
-Moreover, it is forbidden to steal, set up or use electricity without permission; before leaving an apartment, shared rooms or public area, turn off lights, computers, and other power-consuming devices. In addition:
+Không đặt vật liệu dễ cháy gần cầu chì, bảng điện hoặc dây điện.
 
-Do not use other conductive materials instead of fuses.
+Không để xăng, vật liệu dễ cháy ở mọi không gian trừ khu vực cho phép.
 
-Do not put electrical wires directly into the power outlet.
+Không sử dụng bếp điện niken bạc hoặc thắp hương ở mọi không gian trừ khu vực cho phép
 
-Do not place combustible materials near fuses, switchboards, or electrical wires.
+Không sử dụng bàn ủi hoặc các dụng cụ làm nóng khác để ủi quần áo trong căn hộ.
 
-Do not leave gasoline and combustible materials in all spaces except allowed areas.
+An toàn cháy nổ, báo động và sơ tán
 
-Do not use nickel silver electric stove or burn incense in all spaces except allowed areas
+Vui lòng làm quen với các hướng dẫn chữa cháy được hiển thị nổi bật trong khuôn viên trường và trong phòng của bạn để đảm bảo bạn biết lối ra và điểm tập trung gần nhất. Các buổi thực hành/diễn tập phòng cháy chữa cháy được tổ chức thường xuyên tại Đại học VinUni.
 
-Do not use iron or other heated tools to iron clothes in the apartment.
+Mỗi lớp học, ký túc xá và không gian chung đều có kế hoạch sơ tán khẩn cấp khi hỏa hoạn được phê duyệt, được thiết kế riêng cho cơ sở đó. Bạn nên làm quen với các kế hoạch này và biết vị trí của các lối thoát hiểm. Việc sơ tán tòa nhà sẽ diễn ra khi có âm thanh báo động và/hoặc khi có thông báo của người có thẩm quyền. Nếu chuông báo cháy được kích hoạt, hãy sơ tán ngay khỏi tòa nhà bằng lối thoát hiểm gần nhất. Đừng trì hoãn hoặc bỏ qua báo động.
 
-Fire safety, alarms and evacuation
+Nếu bạn phát hiện hoặc nghi ngờ có hỏa hoạn:
 
-Please familiarize yourself with the fire instructions which are prominently displayed throughout the campus and in your room in order to make sure you know your nearest exit and assembly point. Fire practices/drills are held regularly at VinUniversity.
+Kích hoạt báo cháy
 
-Each classroom, dormitory, and shared space have an approved fire emergency evacuation plan specifically designed for that facility. You should become familiar with these plans and be aware of the locations of emergency exits. Building evacuations will occur when an alarm sounds and/or upon notification by authorized personnel. If the fire alarm is activated, immediately evacuate the building via the closest emergency exit. Do not delay or ignore the alarm.
+Nhanh chóng đi đến lối thoát hiểm gần nhất và rời khỏi tòa nhà
 
-If you discover or suspect a fire:
+Không sử dụng thang máy
 
-Activate the fire alarm
+Không đóng gói hoặc lấy lại bất kỳ đồ đạc nào
 
-Promptly head to the nearest emergency exit and leave the building
+Gọi cứu hỏa tại 114 khi thấy an toàn
 
-Do not use elevators
+Cư dân không được làm xáo trộn thiết bị phát hiện khói, thiết bị báo cháy, bình chữa cháy, hệ thống phun nước hoặc lối thoát hiểm. Tất cả các cửa ra vào, hành lang và cầu thang phải được thông thoáng để có thể tiếp cận trong trường hợp khẩn cấp. Bất kỳ vật dụng cá nhân hoặc đồ nội thất nào được đặt trong các khu vực này sẽ bị loại bỏ mà không cần thông báo trước.
 
-Do not pack or retrieve any belongings
-
-Call for fire rescue at 114 when it is safe to do so
-
-Residents shall not tamper with smoke detectors, fire alarms, fire extinguishers, sprinkler systems, or emergency exits. All doorways, hallways, and stairways must be kept clear for emergency access. Any personal items or furniture placed in these areas will be removed without prior notice.
-
-In emergency situations, listen to the instructions, if any, and contact the Residential Life Officer or security hotline.
+Trong các tình huống khẩn cấp, hãy lắng nghe hướng dẫn, nếu có và liên hệ với Nhân viên Đời sống Khu dân cư hoặc đường dây nóng an ninh.
 
 —
 
-Appendix I: On-campus residential policy (Specific guidelines)
+Phụ lục I: Chính sách nội trú trong khuôn viên trường (Hướng dẫn cụ thể)
 
-Appendix II: Off-campus residential policy (Specific guidelines)
+Phụ lục II: Chính sách cư trú ngoài khuôn viên trường (Hướng dẫn cụ thể)
 
-Appendix III: Examples of Code of Conduct Violations in Both On-Campus and Off-Campus Housing
+Phụ lục III: Ví dụ về các hành vi vi phạm Quy tắc ứng xử trong cả Nhà ở trong và ngoài khuôn viên trường
 
-University Directory: College Contacts, Administrative Contacts, Emergency Contacts
+Danh mục trường đại học: Liên hệ đại học, Liên hệ hành chính, Liên hệ khẩn cấp
 
-Status and Details
+Trạng thái và chi tiết
+Mục đích của chính sách này là giúp sinh viên chuẩn bị và hưởng lợi từ cuộc sống đại học; phát triển ý thức tôn trọng và quan tâm đến người khác; đưa ra những lựa chọn có trách nhiệm về lối sống của mình; chia sẻ kinh nghiệm học tập, xã hội và văn hóa của họ với những cư dân khác; và học cách sống độc lập nhưng vẫn hòa hợp với một nhóm người đa dạng; và khuyến khích họ tích cực tham gia vào cộng đồng theo đúng quyền lợi và trách nhiệm của bạn với tư cách là cư dân trong khuôn viên trường Đại học VinUni.
 
-The purpose of this policy is to help students to prepare them for and benefit from their university life; develop a sense of respect and care for others; make responsible choices about their lifestyle; share their academic, social, and cultural experiences with other residents; and learn to live independently yet in harmony with a diverse group of people; and encourage them to actively engage in your community according to your rights and responsibilities as a resident on VinUniversity campus.
-
-Reference Number:
+Số tham chiếu:
 
 GDL-SAM-008-V5.0
 
-Document Type:
+Loại tài liệu:
 
-Guideline
+Hướng dẫn
 
-Issuing By:
+Phát hành bởi:
 
-Student Affairs Management Office
+Phòng quản lý công tác sinh viên
 
-Issuing Date:
+Ngày phát hành:
 
-Jun 20, 2025
+Ngày 20 tháng 6 năm 2025
 
-Applying for:
+Đăng ký:
 
-All VinUniversity members
+Tất cả thành viên Đại học VinUni
 
-Record of Changes
+Hồ sơ thay đổi
 
-Revision
+Sửa đổi
 
-Date
+Ngày
 
-Author / Editor
+Tác giả/Biên tập viên
 
-Description
+Mô tả
 
 V1.0 
 
-Sep 24, 2020 
+Ngày 24 tháng 9 năm 2020 
 
-Developed by: Head of SAM, VinUniversity
+Người phát triển: Trưởng phòng SAM, Đại học VinUni
 
-Reviewed by: Student Affairs Committee, VinUniversity
+Phản biện bởi: Ban Công tác sinh viên, Đại học VinUni
 
-Approved by: Provost, VinUniversity 
+Phê duyệt bởi: Hiệu trưởng, Đại học VinUni 
 
-First released 
+Phát hành lần đầu 
 
 V2.0 
 
-Oct 12, 2020 
+Ngày 12 tháng 10 năm 2020 
 
-Developed by: Head of SAM, VinUniversity
+Người phát triển: Trưởng phòng SAM, Đại học VinUni
 
-Approved by: Provost, VinUniversity 
+Phê duyệt bởi: Hiệu trưởng, Đại học VinUni 
 
-Revised Article I, Article II, Article IV 
+Sửa đổi Điều I, Điều II, Điều IV 
 
 V3.0 
 
-Sep 03, 2021 
+Ngày 03 tháng 9 năm 2021 
 
-Developed by: Head of SAM, VinUniversity
+Người phát triển: Trưởng phòng SAM, Đại học VinUni
 
-Approved by: Provost, VinUniversity 
+Phê duyệt bởi: Hiệu trưởng, Đại học VinUni 
 
-Revised general information 
+Thông tin chung được sửa đổi 
 
 V4.0 
 
-Jan 05, 2023 
+Ngày 05 tháng 1 năm 2023 
 
-Developed by: Head of SAM, VinUniversity
+Người phát triển: Trưởng phòng SAM, Đại học VinUni
 
-Approved by: Provost, VinUniversity 
+Phê duyệt bởi: Hiệu trưởng, Đại học VinUni 
 
-Updates 
+Cập nhật 
 
 V5.0 
 
-Jun 20, 2025 
+Ngày 20 tháng 6 năm 2025 
 
-Developed by: Student Affairs Management
+Nhà phát triển: Quản lý công tác sinh viên
 
-Reviewed by: Student Affairs Committee
+Xét duyệt bởi: Ban Công tác sinh viên
 
-Approved by: Provost
+Người phê duyệt: Provost
 
-Revised general information
+Thông tin chung được sửa đổi
 
-Updates about off-campus residential life
+Cập nhật về cuộc sống nội trú ngoài khuôn viên trường
 
-PDF version
+Phiên bản PDF
 
-You can download this document here: Residential Life Guideline
+Bạn có thể tải tài liệu này tại đây: Hướng dẫn cuộc sống dân cư

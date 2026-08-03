@@ -7,676 +7,660 @@ document_version: "not-stated"
 audience: "student"
 department: "registrar"
 category: "course-registration"
-language: "en"
----
+language: "vi"
+---# Quy định học thuật cho chương trình đại học toàn thời gian
 
-# Academic Regulations for Full-Time Undergraduate Programs
+Bảng chú giải thuật ngữ
 
-Glossary of Terms
+Bộ GTVT
+Bộ Giáo dục và Đào tạo
 
-MOET
-Ministry of Education and Training
+Đại học
+Đại học VinUni/VinUni
 
-University
-VinUniversity/VinUni
+đại học
+Một đơn vị học thuật mà sinh viên đại học được đăng ký vào các chương trình học thuật
 
-College
-An academic unit that undergraduate students are registered in academic programs
+trưởng khoa
+Đề cập đến người đứng đầu trường cao đẳng hoặc khoa
 
-Dean
-Refers to the Head of a College or a Faculty
+Giám đốc chương trình
+Thành viên của đội ngũ giảng viên trong Trường Cao đẳng hoặc Khoa chịu trách nhiệm về các vấn đề hành chính liên quan đến phát triển chương trình giảng dạy và đảm bảo việc học các chuyên ngành và chuyên ngành phụ trong một chương trình học thuật.
 
-Program Director
-A member of the academic staff in a College or a Faculty responsible for administrative matters relating to curriculum development and assurance of learning of majors and minors in an academic program.
+Trưởng khóa học
+Một thành viên của đội ngũ giảng viên trong Trường Cao đẳng hoặc Khoa chịu trách nhiệm về các vấn đề hành chính liên quan đến một khóa học cụ thể hoặc một nhóm khóa học.
 
-Course Leader
-A member of the academic staff in a College or a Faculty responsible for administrative matters relating to a specific course or a group of courses.
+Giảng viên khóa học
+Một nhân viên học tập chịu trách nhiệm cung cấp một khóa học cụ thể.
 
-Course Instructor
-An academic staff who is responsible for delivering a specific course.
+Bằng cấp
+Chương trình giảng dạy đại học của trường được tổ chức thành các cấp độ. Bằng cử nhân thường được cấp sau khi hoàn thành chương trình học. Ví dụ: Cử nhân Khoa học Kỹ thuật Điện (BSEE) hoặc Cử nhân Quản trị Kinh doanh (BBA) hoặc Cử nhân Điều dưỡng (BN). 
 
-Degree
-The University’s undergraduate curricula are organized into degrees. The bachelor’s degree is normally granted upon completion of a program of study. For example: Bachelor of Science in Electrical Engineering (BSEE) or Bachelor of Business Administration (BBA) or Bachelor of Nursing (BN). 
+Chính (Tập trung)
+Một lĩnh vực nghiên cứu chính là lĩnh vực năng lực cốt lõi, bao gồm một nhóm các khóa học có cấu trúc nhằm tạo ra trải nghiệm trí tuệ rộng và sâu trong một môn học. Ví dụ: Kỹ thuật điện (chuyên ngành) hoặc BBA (Tài chính) (Tài chính tập trung)
 
-Major (Concentration)
-A major field of study is the core competence area, comprising a structured group of courses that aims to create a broad and deep intellectual experience in an academic discipline. For example: Electrical Engineering (as a major) or BBA (Finance) (Finance as a concentration)
+thứ yếu
+Chuyên ngành phụ bao gồm một nhóm các khóa học có cấu trúc tập trung vào một chuyên ngành học thuật cụ thể, cho phép sinh viên phát triển sự hiểu biết sâu sắc về một lĩnh vực chủ đề hoặc chủ đề mà chuyên môn quan tâm. Ví dụ: Khoa học Máy tính/Robot là chuyên ngành thứ yếu của BSEE; Bất động sản là một lĩnh vực nhỏ của BBA.
 
-Minor
-A minor consists of a structured group of courses that focuses on a particular academic discipline, allowing students to develop some depth of understanding in a subject area or topic of professional interest. For example: Computer Science/Robotics as a Minor of BSEE; Real Estate as a Minor of BBA.
+Bằng kép
+Sinh viên có thể kiếm được hai bằng bằng cách đáp ứng tất cả các yêu cầu của cả hai bằng. Những sinh viên hoàn thành yêu cầu của hai chương trình chính nhưng chỉ hoàn thành yêu cầu của một bằng sẽ không được cấp bằng kép.
 
-Double Degree
-Students may earn two degrees by fulfilling all the requirements of both degrees. Students who complete the requirements of two major programs, but complete the requirements of only one degree will not be awarded a double degree.
+Chuyển khoản tín dụng
+Một quy trình cung cấp cho sinh viên các kết quả tín chỉ nhất quán và được thống nhất cho một thành phần của chương trình học tập dựa trên sự tương đương được xác định về nội dung và kết quả học tập giữa các chương trình học thuật phù hợp.
 
-Credit Transfer
-A process that provides students with agreed and consistent credit outcomes for a component of an academic program based on identified equivalence in content and learning outcomes between matched academic programs.
+Sinh viên toàn thời gian
+Một sinh viên toàn thời gian đang thực hiện ít nhất 80% thời gian học toàn thời gian trong một chương trình học thuật. Tải toàn thời gian bình thường hàng năm là 30 tín chỉ.
 
-Full-time student
-A full-time student is undertaking at least 80% of a full-time load in an academic program. The normal annual full-time load is 30 credits.
+Trao tặng
+Ngày mà bằng cấp học thuật được cấp. Ngày này xuất hiện trên giấy da chính thức của học sinh.
 
-Conferral
-The date on which an academic qualification is granted. This date appears on the student’s official parchment.
+Thành tích học tập
+Thành tích học tập là thước đo cho sự tiến bộ trong học tập của học sinh.
 
-Academic Standing
-Academic standing is an indicator of students’ academic progress.
+Chương I Điều khoản chung
 
-Chapter I General Provision
+Điều 1. Phạm vi điều chỉnh và đối tượng quản lý
 
-Article 1. Governing Scope and Regulated Entities
+Văn bản này quy định cụ thể các nguyên tắc, quy định chi phối việc tổ chức học tập, thi cử, đánh giá, xếp loại và tốt nghiệp theo hệ thống tín chỉ học thuật dành cho sinh viên hệ đại học hệ chính quy tại Đại học VinUni. Những quy tắc và quy định này cũng được áp dụng cho sinh viên trao đổi và thăm quan.
 
-This document specifies rules and regulations that govern educational arrangements, examinations, assessment, grading, and graduation requirements based on an academic credit system for full-time undergraduate students at VinUniversity. These rules and regulations also apply to exchange and visiting students.
+Điều 2. Phương tiện giảng dạy và đánh giá
 
-Article 2. Medium of Instruction and Assessment
+Trừ khi được Trường Đại học chấp thuận khác cho một khóa học hoặc chương trình học cụ thể, tiếng Anh là phương tiện giảng dạy (bao gồm các bài giảng, hướng dẫn và phòng thí nghiệm) tại Trường Đại học. Hướng dẫn hoặc tư vấn cá nhân có thể bằng bất kỳ ngôn ngữ nào.
 
-Unless otherwise approved by the University for a specific course or program of study, English is the medium of instruction (including lectures, tutorials, and laboratories) at the University. Individual instruction or consultation may be in any language.
+Trường Cao đẳng Khoa học và Nghệ thuật được phép giảng dạy bằng tiếng Việt và sử dụng tài liệu đọc tiếng Việt cho các môn học bắt buộc của Bộ Giáo dục và Đào tạo. Trong trường hợp đó, tài liệu sẽ được cung cấp bằng tiếng Anh cho sinh viên khi được yêu cầu.
 
-The College of Arts and Sciences may teach in Vietnamese and use Vietnamese reading materials for the required courses of the Ministry of Education and Training. In such a case, the materials will be provided in English to students as and when requested.
+Trường Cao đẳng Khoa học Y tế (CHS):
+3.1 Sử dụng ngôn ngữ luân chuyển khóa học và lâm sàng: Trường có quyền lựa chọn tiến hành các khóa học và luân phiên lâm sàng bằng tiếng Việt khi thấy phù hợp. Nhìn chung, tài liệu giảng dạy và học tập chính thức sẽ được cung cấp bằng tiếng Anh, nhưng Nhà trường có thể sử dụng một số tài liệu tiếng Việt và cung cấp nội dung bằng tiếng Việt hoặc ở định dạng song ngữ Việt – Anh. Trường sẽ thông báo cho sinh viên về việc sử dụng ngôn ngữ trước khi bắt đầu các khóa học/học kỳ/luân phiên.
 
-The College of Health Sciences (CHS):
+3.2 Yêu cầu về trình độ ngôn ngữ đối với sinh viên quốc tế
 
-3.1 Course and Clinical Rotation Language Use: the College has the option to conduct courses and clinical rotations in Vietnamese when deemed appropriate. Overall, the formal teaching and learning materials will be provided in English, but the College may utilize some Vietnamese language materials and deliver the content either in Vietnamese or in a bilingual Vietnamese – English format. The College will inform students of the language use prior to the start of the courses/semester/rotation.
+Sinh viên quốc tế được yêu cầu chứng minh trình độ tiếng Việt ở cấp độ B2 (theo Khung năng lực tiếng Việt dành cho người nước ngoài (khung 6 cấp độ), do Bộ Giáo dục và Đào tạo ban hành) trước khi vào Chương trình Bác sĩ Y khoa năm 4. Yêu cầu này nhằm đảm bảo sinh viên được chuẩn bị đầy đủ cho các phần đào tạo lâm sàng và thực hành có liên quan đến việc sử dụng tiếng Việt.
 
-3.2 Language Proficiency Requirement for International Students
+Yêu cầu này áp dụng cho sinh viên thuộc Nhóm 2025 trở đi. Đối với các khóa trước, học sinh được khuyến khích đạt được yêu cầu này.
 
-International students are required to demonstrate Vietnamese language proficiency at level B2 (in accordance with Vietnamese Language Proficiency Framework for Foreigners (6-level framework), issued by the Ministry of Education and Training) before entering the Medical Doctor Program in Year 4. This requirement is intended to ensure that students are adequately prepared for clinical and practical training components that involve the use of the Vietnamese language.
+3.3 Thời gian luân chuyển lâm sàng và sử dụng ngôn ngữ
 
-This requirement applies to students of the Cohort 2025 onwards. For previous cohorts, students are encouraged to achieve this requirement.
+Việc luân chuyển lâm sàng được lên kế hoạch dự kiến trong nửa sau của chương trình đại học (tức là năm thứ ba và thứ tư của Cử nhân Điều dưỡng và năm thứ tư đến năm thứ sáu của chương trình Bác sĩ Y khoa).
 
-3.3 Clinical Rotation Timing and Language Use
+Đáng chú ý là tất cả các tài liệu chính thức tại các bệnh viện giảng dạy cũng như các cơ sở y tế/cơ sở y tế tại địa phương (như hồ sơ bệnh án, SOP y tế, biểu đồ, đơn thuốc, v.v.) đều bằng tiếng Việt. Ngoài ra, mọi giao tiếp chính thức trong hoạt động của các cơ sở này (giữa các chuyên gia y tế cũng như giữa bệnh nhân và chuyên gia y tế) đều bằng tiếng Việt.
 
-The clinical rotations are tentatively scheduled for the second half of the undergraduate programs (i.e. the third and fourth years of the Bachelor of Nursing and the fourth to sixth years of the Medical Doctor program).
+3.4 Thực hành lâm sàng sau tốt nghiệp và thi cấp giấy phép
 
-It is noteworthy that all official documents in the teaching hospitals as well as local health care/community-based facilities (such as medical records, medical SOPs, charts, prescriptions, etc.) are in Vietnamese language. Also, all formal communication in the operation of these facilities (between health professionals as well as between patients and health professionals) is in Vietnamese.
+Hơn nữa, đối với những sinh viên có ý định theo đuổi hành nghề lâm sàng tại Việt Nam sau khi tốt nghiệp, kỳ thi cấp phép/chứng chỉ hành nghề quốc gia sắp tới dành cho sinh viên tốt nghiệp ngành y và điều dưỡng sẽ được tiến hành bằng tiếng Việt theo Luật Khám bệnh, chữa bệnh do Quốc hội ban hành.
 
-3.4 Post-Graduation Clinical Practice and Licensing Exams
+Nhà trường sẽ cung cấp những hỗ trợ cần thiết cho những sinh viên không thông thạo tiếng Việt và thông tin chi tiết về sự hỗ trợ được cung cấp cũng như mọi yêu cầu sẽ được thông báo trong khuôn khổ chương trình giảng dạy.
 
-Furthermore, for those students who intend to pursue clinical practice in Vietnam post-graduation, the upcoming national practice licensing/qualification exams for medical and nursing graduates will be conducted in Vietnamese by the Law on Medical Examination and Treatment, issued by The National Assembly.
+*Vui lòng tham khảo tài liệu này để biết thêm chi tiết: Hướng dẫn chương trình tiếng Việt dành cho sinh viên quốc tế – Chính sách của VinUni
 
-The College will offer essential assistance to students who are not proficient in Vietnamese, and details regarding the support provided, as well as any requirements, will be communicated within the curriculum framework.
+Điều 3. Chương trình và giáo trình học thuật
 
-*Please refer to this document for more details: Vietnamese Language Program Guidelines For International Students – VinUni Policy
+Một chương trình học thuật (sau đây gọi là “chương trình”) bao gồm các cấp độ; mục tiêu giáo dục và kết quả học tập; tín chỉ bắt buộc; kế hoạch học tập gắn liền với thời gian lấy bằng; phương pháp giảng dạy và phương thức giảng dạy; một phương thức đánh giá kết quả học tập; và các điều kiện khác để thực hiện. Mỗi chương trình học cần phải tuân thủ các yêu cầu hiện tại của Bộ GD&ĐT và quy trình phê duyệt của trường đại học.
 
-Article 3. Academic Program and Syllabi
+Mỗi chương trình sẽ được liên kết với một chuyên ngành (chuyên ngành đơn) và/hoặc chuyên ngành tập trung và/hoặc một số chuyên ngành (chuyên ngành kép, chuyên ngành phụ) thường bao gồm các yêu cầu về Giáo dục phổ thông, yêu cầu của Trường/Khoa, yêu cầu của chuyên ngành, các môn tự chọn miễn phí và/hoặc môn phụ. Mỗi chương trình bao gồm các khóa học được cung cấp trong mỗi năm học.
 
-An academic program (hereinafter referred to as “program”) involves degree levels; educational objectives and learning outcomes; required credits; an academic plan associated with the time to obtain a degree; a teaching methodology and a mode of delivery; a mode to assess academic performance; and other conditions for its implementation. Each academic program needs to comply with the current requirements of the MOET and the university approval process.
+Giáo trình khóa học bao gồm số giờ tín chỉ, điều kiện tiên quyết (nếu có), nội dung lý thuyết và thực hành, phương pháp đánh giá, giáo trình, danh sách tài liệu tham khảo và yêu cầu thực hành trong phòng thí nghiệm/thực hành/lâm sàng và các bài tập tương tự.
 
-Each program shall be affiliated with one major (single major), and/or concentrations, and/or several majors (double major, major-minor) which typically includes General Education requirements, College/Faculty requirements, major requirements, free electives, and/or a minor. Each program comprises courses offered in each academic year.
+Điều 4. Khóa học và tín chỉ
+Khóa học được hiểu là một lượng kiến ​​thức hoặc kỹ năng tương đối đầy đủ, tạo điều kiện cho sinh viên tích lũy kiến ​​thức hoặc kỹ năng trong quá trình học tập. Mỗi khóa học được ấn định một số tín chỉ cố định dựa trên nội dung giảng dạy của nó. Số tín chỉ mà sinh viên đạt được phản ánh nỗ lực đã bỏ ra để tiếp thu kiến ​​thức hoặc kỹ năng được mô tả trong mục tiêu khóa học.
 
-The course syllabus includes the number of credit hours, prerequisites (if any), theoretical and practical content, methods of assessment, coursebooks, list of reference materials and requirements for laboratory/practical/clinical practice, and similar exercises.
+Mỗi khóa học sẽ có một tiêu đề và một mã số. Mã khóa học phải bao gồm chữ và số với số chỉ trình độ học vấn của khóa học theo quy định của chính sách đánh số khóa học của trường Đại học.
 
-Article 4. Course and Credit
+Các loại khóa học được liệt kê như sau:
 
-A course is known as a relatively complete amount of knowledge or skill that facilitates students’ accumulation of knowledge or skills during their learning process. Each course is assigned a fixed number of credits based on the contents of its instruction. The number of credits earned by the student reflects the effort expended to acquire the knowledge or skills that are described in the course objectives.
+Loại
+Mô tả
 
-Each course shall have a title and a code. The course code shall consist of alphanumeric with the number indicating the education level of the course as specified by the University course numbering policy.
+Khóa học bắt buộc
+Bao gồm các kết quả học tập chính của một phần của chương trình giảng dạy mà sinh viên bắt buộc phải vượt qua để đủ điều kiện tốt nghiệp.
 
-Types of courses are listed as follows:
+Khóa học tự chọn
+Chứa đựng các chuẩn đầu ra cần thiết mà sinh viên được phép tự lựa chọn (có điều kiện hoặc tự do) theo hướng dẫn của Khoa và/hoặc Trường để đa dạng hóa chuyên ngành hoặc tùy ý tích lũy một số môn học nhất định cần thiết để hoàn thành chương trình học.
 
-Type
-Description
+Tín dụng
 
-Required Course
-Contains the main learning outcomes of a section of the curriculum which students are required to pass to be eligible for graduation.
+Tín chỉ là một đơn vị được sử dụng để xác định số lượng bài tập học tập của một sinh viên. Một tín chỉ tương đương với 50 giờ học đối với sinh viên, bao gồm học có giảng dạy (giờ liên hệ), dạy kèm, học tự quản, học tập trải nghiệm, đánh giá và thi.
 
-Elective Course
-Contains the necessary learning outcomes that students are allowed to select themselves (conditionally or freely) according to the guidelines of the Faculty and/or College to diversify their specialization or choose at their volition to accumulate a specified number of courses needed to complete their curriculum.
+1 tín chỉ tương đương với 15 giờ liên lạc đối với các khóa học sử dụng bài giảng hoặc hướng dẫn trên lớp; 30 – 45 giờ liên hệ cho các khóa học thực hành và trong phòng thí nghiệm, 45 – 90 giờ liên hệ cho các khóa học dựa trên nghiên cứu thực địa (trong ngành, cộng đồng hoặc bệnh viện); 45 – 60 giờ đối với các khóa học liên quan đến nghiên cứu độc lập như luận văn hoặc thực tập. Một khóa học có thể bao gồm nhiều phương thức dạy và học khác nhau (chẳng hạn như bài giảng và phòng thí nghiệm, hoặc bài giảng và nghiên cứu thực địa). Trong những trường hợp như vậy, tổng số giờ liên hệ sẽ được điều chỉnh tương đương với các khóa học khác có yêu cầu tương tự.
 
-Credits
+Đối với mỗi tín chỉ, sinh viên nên dành ít nhất 30 giờ tự học trong suốt học kỳ để có được kiến ​​thức cần thiết nhằm đạt được tín chỉ.
 
-A credit is a unit that is used to determine the amount of academic work of a student. A credit is equivalent to 50 hours of study for students, including taught study (contact hours), tutorials, self-managed study, experiential learning, assessments, and exams.
+Các khóa học không tính tín chỉ: một số khóa học như các khóa thực tập/thực tập, các khóa học trải nghiệm và các khóa học phục vụ cộng đồng có thể không tính tín chỉ, đề cập đến các hoạt động học tập mà sinh viên bắt buộc phải thực hiện như một phần của chương trình giảng dạy nhưng không có bất kỳ tín chỉ nào.
 
-1 credit is roughly equivalent to 15 contact hours for courses that use a lecture or classroom-based instruction; 30 – 45 contact hours for practicum and laboratory courses, 45 – 90 contact hours for fieldwork (in industry, communities, or hospitals) based courses; 45 – 60 hours for courses that involve independent studies such as thesis or internship. A course may comprise various teaching and learning modalities (such as lecture and lab, or lecture and fieldwork). In such cases, the total number of contact hours will be adjusted to be equivalent to other courses with similar requirements.
+Điều 5. Thời gian họp lớp
 
-For each credit, students are advised to spend at least 30 self-study hours during the course of the semester to acquire the required knowledge to achieve a credit.
+Thời gian họp lớp có thể bắt đầu lúc 8 giờ sáng và kết thúc lúc 5 giờ 30 chiều từ thứ Hai đến thứ Sáu, tùy thuộc vào loại hình lớp học chính thức hoặc phòng thí nghiệm hoặc các bài tập tương tự.
 
-Non-credit bearing courses: some courses like internship/practicum courses, experiential learning courses, and service-learning courses could be non-credit bearing, which refers to learning activities which students are required to do as part of their curriculum, but which do not carry any credit.
+Thời lượng của lớp: Mỗi lớp và thời gian giảng thường kéo dài 50 hoặc 75 phút. Bất kỳ yêu cầu đặc biệt nào về thời lượng ngoài 50/75 phút đều phải được Hiệu trưởng phê duyệt trước.
 
-Article 5. Class Meeting Times
+Lịch học do Phòng Đăng ký chịu trách nhiệm căn cứ theo yêu cầu của các Khoa, Cao đẳng. Tất cả các bài giảng, phòng thí nghiệm, hướng dẫn hoặc phiên thảo luận đều bắt đầu vào những thời điểm nhất định và tiếp tục trong khoảng thời gian cần thiết. Các lớp học liên tiếp cách nhau 10 hoặc 15 phút.
 
-Class meeting times may start at 8:00 a.m. and finish at 5.30 p.m from Monday to Friday, depending on the type of formal classes or laboratories, or similar exercises.
+Các bài giảng, thảo luận, phòng thí nghiệm hoặc các bài tập tương tự vào buổi tối và cuối tuần kéo dài 50 hoặc 70 phút có thể được triệu tập cho đến 9:25 tối. theo yêu cầu và được sự cho phép của Trưởng khoa và Văn phòng Đăng ký.
 
-Duration of class: Each class and lecture period normally last either 50 or 75 minutes. Any special requests for durations outside of 50/75 minutes need to be approved by the Provost in advance.
+Trường hợp cần dạy các môn học trong thời gian ngắn thì mỗi môn học không được dạy quá 15 giờ/tuần và 4 giờ/ngày.
 
-Class schedules are the responsibility of the Office of Registrar based on the request of Faculties and Colleges. All lectures, laboratories, tutorials or discussion sessions start at specified times and continue for required durations. Consecutive classes are separated by intervals of 10 or 15 minutes.
+Giờ hành chính cho chính sách khóa học
 
-Evening and weekend lectures, discussions, laboratories, or similar exercises of 50 or 70-minute duration can be convened until 9:25 p.m. upon request and by permission of the Dean and the Office of Registrar.
+Tất cả các giảng viên nên duy trì giờ hành chính cho các khóa học của họ dựa trên đánh giá về nhu cầu của sinh viên và các khóa học của họ cũng như các hướng dẫn của Trường và kỷ luật. Các yêu cầu đặc biệt sẽ được Hiệu trưởng trường hoặc Trưởng khoa chấp thuận.
+Người hướng dẫn có tùy chọn tổ chức “Giờ làm việc mở”. Giờ làm việc mở tối thiểu bằng tổng số giờ tín chỉ liên quan đến khóa học có tín chỉ cao nhất mà người hướng dẫn dạy trong một học kỳ.
 
-Where it is necessary for courses to be taught in a short period of time, each course shall not be taught for more than 15 hours/week and 4 hours/day.
+Chính sách này chỉ nêu số giờ mở cửa tối thiểu cho mỗi khóa học. Người hướng dẫn nên đánh giá nhu cầu của sinh viên và yêu cầu của khóa học và đưa ra quyết định về số giờ hành chính cần thiết để hỗ trợ sinh viên của họ.
 
-Office hour for course policy
+Chính sách này không bao gồm giờ làm việc của Trợ giảng hoặc bất kỳ nhân viên hỗ trợ nào khác.
 
-All instructors should maintain office hours for their courses based on an assessment of the needs of their students and their courses, and the College and discipline guidelines. Special requests will be approved by the Dean of College or Head of Faculty.
+Giờ làm việc mở không nhất thiết phải được tổ chức trực tiếp; thay vào đó chúng có thể được tổ chức trực tuyến miễn là sinh viên có thể dễ dàng truy cập chúng.
 
-Instructors have the option to hold “Open Office Hours”. Open Office Hours is equal to, at a minimum, the total credit hours associated with the highest credit course the instructor teaches during a semester.
+Người hướng dẫn nên cung cấp Giờ làm việc vào thời gian và địa điểm thuận tiện và dễ tiếp cận cho sinh viên.
 
-This policy outlines only the minimum number of Open Office Hours for each course. Instructors should assess the needs of their students and the demands of their course and make decisions regarding the amount of office hours needed to support their students.
+Điều 6. Đánh giá kết quả học tập của sinh viên
 
-This policy does not include office hours held by Teaching Assistants or any other support staff.
+Kết quả học tập của sinh viên được đánh giá sau mỗi học kỳ dựa trên các tiêu chí sau:
 
-Open Office Hours do not have to be held in person; rather they can be held online as long as students are able to easily access them.
+Số tín chỉ mà sinh viên đã đạt được trong học kỳ.
 
-Instructors should offer Office Hours at a time and location that is convenient and accessible for students.
+Điểm trung bình học kỳ (SGPA) là điểm trung bình cộng của các lớp (được chuyển đổi thành thang điểm 4) dựa trên tất cả các khóa học được thực hiện trong một học kỳ. SGPA được tính bằng cách chia tổng số điểm đạt được cho tổng số tín chỉ đã cố gắng trong một học kỳ nhất định.
 
-Article 6. Student Academic Performance Evaluation
+Khối lượng học tập tích lũy là tổng số tín chỉ đã đạt với điểm đạt chữ cái (từ D- trở lên) đạt được kể từ khi bắt đầu chương trình (bao gồm các khóa học được miễn và chuyển tiếp).
 
-The academic performance of students is evaluated after each academic semester based on the following criteria:
+Điểm trung bình tích lũy (CGPA) là điểm trung bình bằng số (được chuyển đổi thành thang điểm 4) dựa trên tất cả các khóa học được thực hiện trong một chương trình học cụ thể. CGPA được tính bằng cách chia tổng số điểm đạt được cho tổng số tín chỉ đã cố gắng tính đến một thời điểm nhất định.
 
-The number of credits that students have earned in the semester.
+Chương II Sắp xếp giáo dục
 
-Semester Grade Point Average (SGPA) is a numerical average of grades (converted into a 4-point scale) based on all courses taken in a single semester. SGPA is calculated by dividing total grade points earned by the total attempted credits in a given semester.
+Điều 7. Kế hoạch học tập và thời gian học tập
 
-Cumulative academic load is the total credits attempted with passing letter grades (from D- and above) earned since the beginning of the program (includes exempted and transferred courses).
+Kế hoạch học tập phải được sắp xếp theo chương trình học, năm học và học kỳ.
 
-Cumulative Grade Point Average (CGPA) is a numerical average of grades (converted into a 4-point scale) based on all courses taken within a particular program of study. CGPA is calculated by dividing total grade points earned by the total attempted credits up to a certain time point.
+Một chương trình học được thiết kế để sinh viên hoàn thành một chương trình giảng dạy cụ thể trong một thời gian nhất định. Thời lượng dự kiến ​​của chương trình học không được ít hơn 180 tín chỉ đối với chương trình đại học 6 năm và 120 tín chỉ đối với chương trình đại học 4 năm.
 
-Chapter II Educational Arrangements
+Một năm học có hai học kỳ chính (chính quy) là Mùa Thu và Mùa Xuân. Mỗi học kỳ có 15 tuần học thực tế, 1 (một) tuần dành cho Tuần học độc lập hoặc ôn tập và 02 (hai) tuần dành cho thi cuối kỳ hoặc đánh giá cuối kỳ.
 
-Article 7. Academic Planning and Duration of Study
+Tuần học độc lập: Tuần học độc lập sẽ áp dụng cho tất cả sinh viên đại học. Các trường hợp ngoại lệ có thể được xem xét đối với các chương trình y tế hoặc chương trình giảng dạy có cấu trúc khác trong đó tính chất của chương trình đòi hỏi phải được hướng dẫn và đánh giá liên tục. Các trường hợp ngoại lệ sẽ được xem xét và phê duyệt trên cơ sở từng trường hợp cụ thể bởi Trưởng khoa với sự tư vấn của Văn phòng Đăng ký Đại học.
 
-Academic planning shall be arranged by a program of study, an academic year, and an academic semester.
+Hoạt động
+Kỳ vọng học tập
 
-A program of study is designed for students to complete a specific curriculum in a certain duration. The planned duration of the curriculum must not be less than 180 credits for a six-year undergraduate program and 120 credits for a four-year undergraduate program.
+– Trong tuần độc lập, sẽ không có lớp học hoặc kỳ thi theo lịch trình nào được tiến hành. Thời hạn cho các bài tập quan trọng vẫn có hiệu lực trong tuần này và người hướng dẫn phải đảm bảo liên lạc với sinh viên ngay từ đầu học kỳ, nêu rõ ràng những thời hạn này trong giáo trình.
 
-An academic year has two main (regular) semesters, Fall and Spring. Each semester has 15 weeks of actual study, 1 (one) week for an Independent Study Week or revision and 02 (two) weeks for final exams or final assessment.
+– Học sinh được khuyến khích sử dụng thời gian này để thư giãn, tự suy ngẫm và theo đuổi các hoạt động nhằm nâng cao sức khỏe cá nhân và thành công trong học tập.
 
-An independent study week: The independent study week shall apply to all undergraduate students. Exceptions may be considered for medical programs or other structured curricula where the nature of the program requires continuous instruction and assessment. Exceptions shall be reviewed and approved on a case-by-case basis by the College Dean in consultation with the Office of University Registrar.
+– Các đơn vị học thuật có thể tổ chức các hoạt động hỗ trợ học tập tùy chọn để hỗ trợ sinh viên chuẩn bị cho kỳ thi.
+– Các giảng viên được khuyến khích cung cấp cho sinh viên hướng dẫn và nguồn lực để hỗ trợ nỗ lực học tập độc lập của họ trong tuần.
 
-Activities
-Academic Expectations
+– Học sinh được kỳ vọng sẽ sử dụng tuần độc lập một cách hiệu quả bằng cách tham gia vào các hoạt động tự học và luyện thi hiệu quả.
 
-– During the independent week, no scheduled classes or exams shall be conducted. Deadlines for significant assignments remain valid for this week, and instructors must ensure communication with students from the start of the semester, explicitly outlining these deadlines in the syllabus.
+– Tuần học tập độc lập không nhằm mục đích kéo dài thời gian nghỉ phép và sinh viên nên ưu tiên các trách nhiệm học tập trong thời gian này.
 
-– Students are encouraged to use this time for relaxation, self-reflection, and pursuing activities that promote personal well-being and academic success.
+Các khóa học dự bị mùa thu và mùa hè sẽ được sắp xếp song song với các học kỳ học chính.
+Trưởng khoa hoặc người được Trưởng khoa chỉ định quyết định phân bổ số lượng môn học trong mỗi năm học và mỗi học kỳ căn cứ vào nội dung và khối lượng công việc học tập của chương trình giảng dạy. Nhà đăng ký có trách nhiệm thiết lập lịch học cho Trường.
 
-– Academic units may organize optional academic support activities to assist students in their preparation for exams.
-– Faculty members are encouraged to provide students with guidance and resources to support their independent study efforts during the week.
+Thời gian tối đa để lấy bằng đại học bao gồm thời gian học theo kế hoạch cộng với 4 học kỳ chính đối với chương trình 4 năm hoặc cộng thêm 6 học kỳ chính đối với chương trình 5 đến 6 năm.
 
-– Students are expected to utilize the independent week effectively by engaging in productive self-study and exam preparation activities.
+Tùy từng trường hợp cụ thể, Hiệu trưởng có thể, theo kiến ​​nghị của sinh viên và đề nghị của Trưởng khoa, gia hạn thời gian học cho những sinh viên gặp hoàn cảnh bất thường (ví dụ: ốm đau, thai sản, dịch vụ dân sự, v.v.).
 
-– The independent study week is not intended as an extension of vacation time, and students should prioritize academic responsibilities during this period.
+Thời gian của bằng kép không được vượt quá thời gian tối đa của việc học ở bằng cấp đầu tiên.
 
-Pre-Fall and Summer sessions shall be arranged alongside the main academic semesters.
+Điều 8. Đăng ký chương trình
 
-The Dean or Dean-designee shall make decisions on allocating the number of courses within each academic year and each semester based on the content and the amount of academic work of the curriculum. The Registrar is responsible for setting the academic calendar for the University.
+Sinh viên trúng tuyển phải cung cấp gói tài liệu tuyển sinh đầy đủ như được quy định trong Quy định tuyển sinh đại học của trường đại học. Hiệu trưởng ký quyết định công nhận danh sách sinh viên chính quy.
 
-The maximum time to earn an undergraduate degree includes the planned education duration plus four main semesters for a four-year program or plus six main semesters for a five- to six-year program.
+Tất cả các thủ tục đăng ký tuyển sinh phải được hoàn thành trong thời gian yêu cầu theo quy định của Quy chế tuyển sinh đại học của trường đại học.
 
-On a case-by-case basis, the Provost can, upon petition of the student and the Dean’s recommendation, extend the duration of study for students facing unusual circumstances (e.g. sickness, maternity, civil service, etc.).
+Khi vào Đại học, sinh viên sẽ được nhận vào một trường Cao đẳng hoặc một chương trình học thuật. Họ sẽ được ghi danh vào một bằng cấp với chuyên ngành được chỉ định hoặc không được khai báo. Mỗi sinh viên sẽ được cấp một thẻ sinh viên khi đăng ký vào chương trình học của mình.
 
-The duration of a double degree must not exceed the maximum duration of the study of the first degree.
+Sinh viên chưa khai báo chuyên ngành phải khai báo chuyên ngành tại nước mình chậm nhất là vào cuối năm thứ hai.
 
-Article 8. Program Enrollment
+Bất kỳ sự thay đổi nào tiếp theo của chuyên ngành chính phải được đệ trình để được Dean (hoặc người được chỉ định) chấp thuận. Nếu được chấp thuận, thay đổi sẽ có hiệu lực từ học kỳ tiếp theo.
 
-Admitted students must provide a full enrolment document package as provided in the University Regulations for Undergraduate Admissions. The Provost shall sign the decision of recognizing the full-time student list.
+Trừ khi được Trường Đại học chấp thuận khác, những sinh viên được nhận vào học toàn thời gian phải học toàn thời gian ở cấp độ liên quan và không được phép đăng ký học toàn thời gian hoặc bán thời gian để lấy bất kỳ bằng cấp giải thưởng nào khác tại chính trường Đại học hoặc bất kỳ tổ chức bên ngoài nào khác.
 
-All enrolment registration procedures must be completed within the required duration as provided in the University Regulations for Undergraduate Admissions.
+Điều 9. Sắp xếp lớp học
 
-Upon entry to the University, students will be admitted to a College or an academic program. They will be enrolled in a degree with a specified or an undeclared major. Each student will be granted a student identity card upon their registration into their program of study.
+Số lớp học tối thiểu được bố trí cho mỗi môn học mà sinh viên đăng ký trong một học kỳ. Hiệu trưởng hoặc người được chỉ định sẽ phê duyệt về nguyên tắc số lượng sinh viên đăng ký tối thiểu cho một khóa học đã được thiết lập. Quy mô lớp học tối thiểu cho mỗi khóa học tiêu chuẩn phải có ít nhất 10 sinh viên trừ khi được Hiệu trưởng phê duyệt khác theo đề xuất của Trưởng khoa.
 
-Students having an undeclared major shall declare their home major at the latest by the end of the second year.
+Bất kỳ lớp nào dưới sĩ số tối thiểu được đề nghị tiếp tục phải được Hiệu trưởng phê duyệt theo đề xuất của Trưởng khoa.
 
-Any subsequent change of the home major should be submitted for Dean’s (or his/her designee) approval. If approved, the change will take effect from the following semester.
+Nếu số lượng đăng ký giảm xuống dưới số lượng tối thiểu, các lớp học có thể bị hủy và học sinh đã đăng ký vào các lớp này sẽ phải được chỉ định lại. Sinh viên phải thay đổi đăng ký sang các khóa học thay thế khác nếu khối lượng tín chỉ không có khóa học bị hủy không đáp ứng khối lượng học tập tối thiểu cho học kỳ đó.
 
-Unless otherwise approved by the University, students who are admitted for full-time studies are expected to study full-time in the degree concerned and are not permitted to enroll in a full-time or part-time study for any other award qualification either at the University itself or any other outside institution.
+Điều 10. Đăng ký khóa học
 
-Article 9. Class Arrangements
+Đầu mỗi năm học, Phòng Đăng ký công bố lịch học dự kiến của từng chương trình, danh sách các môn học bắt buộc và tự chọn, mô tả môn học, điều kiện đăng ký, thời gian thi, hình thức thi, đánh giá...
 
-A minimum number of classes shall be arranged for each course that students register for in a semester. The Provost or Provost-designee will approve in principle the established minimum enrolment of students for a course. The minimum class size for each standard course should be at least 10 students unless otherwise approved by the Provost, on Dean’s proposal.
+Sinh viên phải đăng ký các khóa học với Văn phòng Đăng ký. Việc đăng ký phải dựa trên năng lực học tập của họ phù hợp với các điều kiện tiên quyết của khóa học và yêu cầu của chương trình.
 
-Any classes below the minimum size that are recommended for continuation must be approved by the Provost on the recommendation by Dean.
+Sinh viên phải chịu trách nhiệm về việc học tập của mình tại Trường. Học sinh phải hiểu các yêu cầu về chương trình giảng dạy của chương trình của mình và lên kế hoạch trước để hoàn thành chương trình của mình trong thời gian học cho phép.
 
-If enrollment falls below the minimum number, classes are subject to cancellation, and students enrolled in these classes should be re-assigned. Students must change their registration into other alternative courses if their credit load without the canceled course does not fulfill the minimum study load for that semester.
+Việc đăng ký của sinh viên chỉ được Văn phòng Đăng ký chấp nhận với điều kiện là việc đăng ký đó tuân thủ các quy định hiện hành của Trường và mọi trường hợp ngoại lệ đều được Giám đốc Chương trình phê duyệt.
 
-Article 10. Course Registration
+Điều 11. Khối lượng học tập
+Khối lượng học tập được xác định bởi số tín chỉ mà sinh viên đang theo học. Thời gian học toàn thời gian bình thường là 30 tín chỉ trải đều trong một năm học. Học sinh có thể tăng hoặc giảm khối lượng học tập của mình để giúp đạt được mục tiêu học tập của mình.
 
-At the beginning of each academic year, the Office of Registrar shall announce the tentative academic calendar of each program, the list of required and elective courses, a course description, prerequisites for registration, exam period, and formats of exams and assessment, etc.
+Để được phân loại là sinh viên toàn thời gian, họ phải đăng ký học tối thiểu 80% thời gian học toàn thời gian bình thường trong một Học kỳ thông thường (tương đương 12 tín chỉ).
 
-Students must register for courses with the Office of Registrar. The registration must be based on their academic capability in accordance with the prerequisites of the course and the program requirements.
+Biến động khối lượng học tập trong học kỳ thông thường được quy định như sau:
 
-Students shall be responsible for their studies at the University. Students must understand the curriculum requirements of their program and plan ahead to complete their program within the permitted duration of the study.
+Biến thể
+Khối lượng học tập mỗi học kỳ thông thường
+Bình luận
 
-Students’ registration shall only be accepted by the Office of Registrar provided that it complies with current regulations of the University and any exceptions are approved by the is approved by the Program Director.
+Tải bình thường
+Tối thiểu 14 tín chỉ (áp dụng cho sinh viên học kỳ 1 và sinh viên có học lực khá trở lên ở học kỳ trước; không áp dụng cho học kỳ cuối).
 
-Article 11. Study Load
+Ít nhất 10 tín chỉ và không quá 14 tín chỉ, áp dụng đối với sinh viên có kết quả học tập kém ở học kỳ trước.
+Điều này là để hoàn thành các yêu cầu về bằng cấp trong một thời gian học tập được chỉ định thông thường.
 
-The study load is determined by the amount of credits the student is studying. A normal full-time load is 30 credits spread over an academic year. The student may be able to increase or decrease his/her study load to help meet his/her academic goals.
+Tự động quá tải
+18-22 tín chỉ, có thể được Cố vấn học tập/Giám đốc chương trình xem xét.
+Điều này cho phép sinh viên theo đuổi việc học với tốc độ phù hợp với nhu cầu và/hoặc khả năng của họ
 
-To be classified as a full-time student, s/he must be enrolled in at a minimum, 80% of a normal full-time load in a regular Semester (equivalent to 12 credits).
+Ngoài tình trạng quá tải tự động
+Hơn 22 tín chỉ, phải được sự chấp thuận của Trưởng khoa hoặc người được Trưởng khoa chỉ định.
 
-The study load variation in the regular semester is specified as follows:
+Khóa học mùa hè (học kỳ): Khóa học mùa hè (học kỳ): tối đa 9 tín chỉ và không yêu cầu thời lượng học tập tối thiểu. Khối lượng công việc sẽ chỉ được tính cho học kỳ hè (như một học kỳ riêng/bổ sung), không tính cho các học kỳ thông thường (Mùa Thu/Mùa Xuân).
 
-Variation
-Academic load per regular Semester
-Remarks
+Sinh viên phải nộp đơn xin quá tải nếu: (i) Sinh viên năm thứ nhất học kỳ I có yêu cầu học trên 18 tín chỉ; (ii) Học lực không tốt trong học kỳ trước và muốn học trên 18 tín chỉ; (iii) Yêu cầu học trên 22 tín chỉ trong học kỳ thông thường. Tổng số tín chỉ, bao gồm giáo dục thể chất, hỗ trợ và các môn học lặp lại, không tín chỉ được sử dụng để tính toán tình trạng quá tải.
 
-Normal load
-At least 14 credits (applicable for first-semester students, and students with good academic standing or higher in the previous semester; not applicable for the final semester).
+Điều kiện tiên quyết: Sinh viên đăng ký khóa học phải đáp ứng các yêu cầu tiên quyết của từng khóa học và trình tự học thuật của một chương trình cụ thể. Việc miễn các điều kiện tiên quyết cần có sự chấp thuận của Giám đốc Chương trình.
 
-At least 10 credits and no more than 14 credits, applicable to students with poor academic standing in the previous semester.
-This is to complete the degree requirements within a normal specified duration of study.
+Điều 12. Thêm, bỏ, rút khóa học
 
-Automatic Overload
-18-22 credits, subject to be reviewed by the Academic Advisor/Program Director.
-This enables students to pursue their studies at a pace commensurate with their needs and/or capabilities
+Sinh viên được phép thêm một khóa học vào lịch trình của mình không muộn hơn ngày làm việc thứ 10 của học kỳ thông thường và không muộn hơn ngày làm việc thứ 5 của các học kỳ nhỏ (Mùa thu A/B hoặc Mùa xuân A/B).
 
-Beyond automatic overload
-More than 22 credits, subject to approval by the College Dean or Dean-designee.
+Sinh viên được phép nghỉ học trong thời hạn được công bố trong lịch học của học kỳ đó. Thời hạn hủy học kỳ thông thường không muộn hơn ngày làm việc thứ 15 của học kỳ và không muộn hơn ngày làm việc thứ 10 của Mùa hè. Những thay đổi được thực hiện trong thời gian này sẽ không được ghi vào hồ sơ học tập của học sinh.
 
-Summer session (semester): Summer session (semester): up to 9 credits with no required minimum study load. The workload will be calculated solely for the summer semester (as a separate/supplementary semester), not for the regular semesters (Fall/Spring).
+Việc bỏ lớp học sau khi thời gian thêm/bớt kết thúc được coi là Rút lui. Học sinh có thể rút khỏi khóa học sau khi thời gian thêm/bớt kết thúc mà không bị phạt điểm. Học sinh sẽ nhận được điểm “Rút tiền – W” trên bảng điểm của khóa học khi rút lui.
 
-Students must petition for overloading if they are: (i) First semester first-year student requesting to take more than 18 credits; (ii) Not in good academic standing in the previous semester and wish to take more than 18 credits; (iii) Requesting to take more than 22 credits in the regular semester. The total number of credits, including physical education, support, and repeated courses, non-credit courses are used to calculate overloading.
+Những sinh viên muốn thêm một khóa học sau khi thời gian thêm/bớt kết thúc, cần phải nộp đơn với sự chấp thuận của cố vấn học tập/Văn phòng đăng ký của họ. Người hướng dẫn có thể cho phép bổ sung theo quyết định riêng của mình.
 
-Prerequisites: Students registering for a course must meet the prerequisite requirements of each course and academic sequences of a particular program. Exemptions from prerequisites require the approval of the Program Director.
+Chính sách rút lui khóa học:
 
-Article 12. Course Add, Drop, and Withdrawal
+một.  Điểm “W-Rút” sẽ được ghi trên bảng điểm của sinh viên khi sinh viên đã đăng ký khóa học trong một học kỳ nhưng sau đó đã gửi thông báo rút lui cho Trường. Chữ “W” biểu thị rằng học sinh đã cố gắng tham gia lớp học nhưng cuối cùng đã rút lui trước khi hoàn thành lớp học đó để đạt điểm chữ.
+b.  Việc rút lui khỏi khóa học được phép sau thời gian hủy khóa học và phải xảy ra trước khi hoàn thành không quá 30% thời gian học của khóa học đó. Sau ngày đó, việc rút tiền sẽ không được phép nữa và sinh viên sẽ được xếp loại theo thành tích khóa học của họ. Nếu học sinh rút tên trước “Ngày thôi học” của mỗi học kỳ thì điểm W sẽ không được ghi vào bảng điểm.
 
-Students are allowed to add a course to their schedule no later than the close of the 10th business day of the regular semester and no later than the close of the 5th business day of the mini semesters (Fall A/B, or Spring A/B).
+c.  Chính sách giới hạn rút tiền cho phép sinh viên rút tối đa 18 tín chỉ trong toàn bộ chương trình học. Khi đạt đến giới hạn, sinh viên không thể rút lui nữa và phải tiếp tục đăng ký. (Các) người hướng dẫn sẽ cho điểm phù hợp.
 
-Students are allowed to drop a class within the drop deadline that is published in the academic calendar for that semester. The drop deadline for a regular semester is no later than the close of the 15th business day of the semester and no later than the close of the 10th business day of the Summer. Changes made in this period will not be included in the academic record of the students.
+Điều 13. Chuyển tín chỉ và miễn học phần
 
-Dropping a class after the add/drop period has ended is considered a Withdrawal. Students may withdraw from a course after the add/drop period has ended with no grade penalty. Students will receive a “Withdrawal – W” grade on their transcript for the course when they withdraw.
+Chuyển khoản tín dụng
 
-Students who wish to add a course after the add/drop period has ended, need to petition with approval from their academic advisor/Office of Registrar. The Instructor may allow the addition upon her/his discretion.
+Việc chuyển tín chỉ có thể được cấp cho sinh viên để công nhận các nghiên cứu đã hoàn thành ở nơi khác ngoài Đại học VinUni ở cấp độ phù hợp được Nhà trường công nhận, ví dụ: các chương trình trao đổi quốc tế, chương trình trao đổi trong nước, chương trình học hè hoặc các chương trình học tập bên ngoài khác (không trao đổi và do sinh viên tự sắp xếp).
 
-Course withdrawal policy:
+Đối với sinh viên trao đổi ở nước ngoài, các đơn vị tín chỉ kiếm được tại các tổ chức chủ quản có thể được chuyển vào hồ sơ học tập của họ tại trường Đại học. Sinh viên nên nộp đơn xin phê duyệt trước chuyển khoản tín chỉ cho Văn phòng Đăng ký và các đơn vị học thuật tương ứng trước khi khởi hành tham gia các chương trình trao đổi. Khi sinh viên trở về từ chương trình trao đổi học tập, họ phải nộp bảng điểm chính thức cho đơn vị học thuật của mình để được sắp xếp chuyển tín chỉ.
 
-a.  “W-Withdrawn” grade will be assigned on a student’s transcript when a student has registered for the course in a semester but has subsequently submitted a notification of withdrawal to the University. The “W” indicates that students attempted the class but eventually withdrew before completing it for a letter grade.
+Tín chỉ chuyển tiếp thường không được tính vào điểm trung bình của sinh viên, trừ khi có sự sắp xếp đặc biệt (ví dụ: trong các chương trình liên kết với các tổ chức khác). Tín chỉ chuyển tiếp được chấp nhận sẽ được phản ánh trên bảng điểm của Đại học VinUni với điểm “T – Chuyển tiếp”, chứ không phải điểm thực tế nhận được ở cơ sở khác.
 
-b.  Withdrawal from a course is permitted after the course dropping period and must occur before completing no more than 30% of the study time for that course. After that date, withdrawals will no longer be permitted, and students will be graded according to their course performance. If the student withdraws before the “Drop Date” for each semester, no W grade should be recorded on the transcript.
+Các chương trình đại học hoặc học thuật riêng lẻ có thể quy định số tín chỉ chuyển tiếp tối đa mà sinh viên có thể đạt được trong suốt quá trình học (bao gồm tín chỉ chuyển tiếp để trao đổi học tập hoặc các chương trình liên kết với các tổ chức khác). Khối lượng tối đa có thể được công nhận và chuyển giao không vượt quá 50% khối lượng học tập tối thiểu của chương trình học.
 
-c.  The withdrawal limit policy allows students to withdraw from a maximum of 18 credits over the entire program of study. Once the limit is reached, students can no longer withdraw and must remain enrolled. The instructor(s) will assign appropriate grades(s).
+Miễn khóa học
 
-Article 13. Transfer of Credit and Course Exemption
+Sinh viên có thể được miễn các yêu cầu về khóa học hoặc các yêu cầu khác của chương trình học mà không cần chuyển đổi tín chỉ dựa trên việc học ở cấp độ phù hợp đã hoàn thành tại một cơ sở giáo dục khác ngoài Đại học VinUni. Sinh viên có thể được yêu cầu tham gia (các) khóa học khác để hoàn thành số tín chỉ cần thiết nhằm đáp ứng các yêu cầu về bằng cấp.
 
-Transfer of Credit
+Việc miễn trừ môn Giáo dục quốc phòng và Giáo dục thể chất (tương đương với Khóa học Lối sống lành mạnh) thực hiện theo hướng dẫn và quy định hiện hành của Bộ GD&ĐT.
 
-Transfer of credits may be granted to students in recognition of studies completed elsewhere other than VinUniversity at an appropriate level as recognized by the University, for example, international exchange programs, local exchange programs, summer study programs, or other external study programs (non-exchange and self-arranged by students).
+Trong hồ sơ học tập của học sinh, một khóa học được miễn được ghi với điểm “Z” nghĩa là “Miễn”. Nếu khóa học được miễn là điều kiện tiên quyết của một khóa học khác tại trường đại học, sinh viên sẽ được coi là đáp ứng yêu cầu tiên quyết với việc miễn khóa học.
 
-For outbound exchange students, the credit units earned at host institutions can be transferred to their academic records at the University. Students should submit the credit transfer pre-approval applications to the Office of Registrar and respective academic units prior to their departure for the exchange programs. When students return from the exchange studies, they should submit the official transcripts to their academic units for credit transfer arrangements.
+Thủ tục đăng ký: Sinh viên cần nộp đơn xin chuyển tín chỉ hoặc miễn trừ:
 
-Transfer credits normally do not count in the calculation of a student’s GPA, except where special arrangements have been made (e.g., in joint programs with other institutions). Transfer credit accepted is reflected on the VinUniversity transcript with a grade of “T – Transfer”, not the actual grade received at the other institution.
+Trước khi nhập học: Việc học trước đây của sinh viên phải được tiết lộ trong đơn đăng ký nhập học và đơn xin chuyển đổi tín chỉ hoặc miễn trừ phải được nộp trước khi bắt đầu học kỳ đầu tiên khi nhập học.
 
-Individual college or academic programs may stipulate the maximum number of transfer credits that students can obtain throughout their studies (including transfer credits for study exchange or joint programs with other institutions). Maximum load that may be recognized and transferred shall not exceed 50% of the minimum academic load of the academic program.
+Trong quá trình đăng ký: Sinh viên hiện tại đã hoàn thành chương trình học ở nơi khác trong quá trình đăng ký tại Đại học VinUni phải nộp đơn đăng ký chậm nhất là một tháng sau khi sinh viên quay lại học tại Đại học VinUni. Yêu cầu phải được gửi đến Văn phòng Đăng ký. Nhà đăng ký sẽ đánh giá yêu cầu và sắp xếp các tín chỉ bên ngoài vào các khóa học cụ thể của Đại học VinUni với sự hỗ trợ của các đơn vị học thuật liên quan.
 
-Course Exemption
+Điều 14. Nghiên cứu lại/Nghiên cứu cải tiến
+Học lại/Cải tiến Học một khóa học vì bất kỳ lý do gì là trách nhiệm của sinh viên và học sinh đó phải tự chịu rủi ro. Trường không có nghĩa vụ phải cung cấp lại khóa học cho những sinh viên đã trượt trước đó hoặc muốn học lại.
 
-Students may be granted an exemption from course requirements or other requirements of an academic program without the transfer of credits based on studies at an appropriate level completed at an institution other than at VinUniversity. Students may be required to take other course(s) to make up the credits required for fulfilling the degree requirements.
+Sinh viên trượt một môn học bắt buộc trong chương trình học sẽ phải học lại môn học đó hoặc học một môn học tương đương theo quy định trong chương trình giảng dạy hoặc một môn học thay thế nếu môn học đó không còn được giảng dạy trong các học kỳ tiếp theo.
 
-Exemptions from National Defense Education and Physical Education (equivalent to the Course Healthy Lifestyle) shall comply with MOET’s current guidelines and regulations.
+Sinh viên trượt môn tự chọn nào sẽ phải học lại môn đó hoặc học môn tự chọn tương đương vào các học kỳ tiếp theo.
 
-In the student’s academic record, an exempted course is recorded with a “Z” grade meaning “Exemption”. If the exempted course is a pre-requisite of another course at the university, students will be regarded as meeting the pre-requisite requirement with the course exemption.
+Nếu một học sinh không trượt một môn học nhưng muốn học lại môn học đó để cải thiện điểm trung bình tích lũy thì họ có thể làm như vậy. Sau lần thử đầu tiên, chỉ được phép thử lại một lần.
 
-Application Procedures: Students need to petition for transfer of credit or an exemption:
+Điểm gần đây nhất sẽ được tính vào GPA. Điểm ban đầu sẽ không được tính vào GPA.
 
-Before Admissions: Students’ prior study should be disclosed in their applications for admission, and applications for credit transfer or exemptions must be submitted before the beginning of the first semester of their admission.
+Điều 15. Nghỉ ốm, nghỉ ốm
 
-During Registration: Current students who complete studies elsewhere during their registration at VinUniversity must submit applications no later than one month after a student’s return to study at VinUniversity. The request should be made to the Office of Registrar. The Registrar will evaluate the request and map the external credits into specific VinUniversity courses with the support of relevant academic units.
+Những sinh viên muốn trì hoãn việc học của mình trong một khoảng thời gian hoặc tạm thời đình chỉ việc học của mình khỏi một chương trình có thể yêu cầu Trưởng khoa của trường tự nguyện nghỉ học hoặc đình chỉ. Nghỉ phép/tạm dừng có thể được cấp từ một đến hai học kỳ tùy theo điều kiện và có thể được gia hạn sau khi được phê duyệt thêm.
 
-Article 14. Re-study/Improvement Study
+Sinh viên được phép xin nghỉ học tự nguyện hoặc thôi học và bảo lưu kết quả học tập trong các trường hợp sau:
 
-Re-Study/Improvement Study a course for any reason is the student’s responsibility and it is at his/her own risk. The University is not obligated to offer a course again for a student who failed it previously or wishes to repeat it.
+Học sinh được cử đi nghĩa vụ quân sự cần có thư hoặc xác minh của Lực lượng Vũ trang;
 
-Students who fail a required course in their study program will have to retake that course or to take an equivalent course as prescribed in the curriculum or an alternative course if that course is no longer taught in the following semesters.
+Được cơ quan có thẩm quyền cử đại diện quốc gia tham gia các cuộc thi, giải đấu quốc tế;
 
-Students who fail an elective course will have to retake that course or take an equivalent elective course in the following semesters.
+Học sinh có trường hợp cấp cứu y tế hoặc bệnh nặng cần điều trị lâu dài được cơ quan y tế được công nhận xác nhận. Tất cả những tài liệu đó phải được dịch và công chứng nếu không phải bằng tiếng Anh.
 
-If a student does not fail a course but wishes to repeat it to improve the cumulative grade point average, they may do so. After the first attempt, only one repeat attempt is permitted.
+Học sinh có khó khăn cá nhân hoặc gia đình. Trong trường hợp này, sinh viên phải học ít nhất một học kỳ, không thuộc trường hợp bị buộc thôi học theo quy định tại Điều 15 Quy chế này. Những lần vắng mặt tạm thời vì lý do cá nhân sẽ được tính vào thời gian học chính thức.
 
-The most recent grade will be calculated into GPA. The original grade will not count toward GPA.
+Việc nghỉ phép/rút tiền được yêu cầu cho học kỳ sắp tới sẽ có hiệu lực vào ngày sau khi kết thúc học kỳ cuối cùng đã tham dự. Việc nghỉ phép tự nguyện hoặc rút lui được cấp trong một học kỳ sẽ có hiệu lực vào ngày yêu cầu được gửi.
 
-Article 15. Leave of Absence or Sick Leave
+Để nộp đơn xin nghỉ học, sinh viên phải điền đơn xin nghỉ học (có tài liệu phù hợp nêu rõ các lý do được phép) và nộp cho cố vấn học tập để xem xét. Văn phòng Nhà đăng ký sẽ xem xét các yêu cầu với Nhà trường và thông báo cho sinh viên.
 
-Students wishing to defer their studies for a period of time or temporarily suspend their studies from a program may request a voluntary leave of absence or suspension to the Dean of the College. Leave/suspension may be granted for one to two semesters depending on conditions and can be extended after further approval.
+Sau khi trở lại sau thời gian nghỉ học tạm thời, sinh viên phải hoàn thành và nộp lại đơn đăng ký cho Văn phòng Đăng ký, ít nhất một tuần trước khi bắt đầu học kỳ mới. Biểu mẫu này phải kèm theo tài liệu giải thích tiến độ của họ trong thời gian nghỉ phép để giúp họ quay lại chương trình một cách thành công. Học sinh sẽ được thông báo về quyết định cuối cùng của Văn phòng Đăng ký. Nếu họ không quay lại chương trình học ngay sau khi thời gian nghỉ phép đã được phê duyệt kết thúc và không kịp thời xin gia hạn thời gian nghỉ phép thì hồ sơ sinh viên của họ sẽ không hoạt động. Để quay trở lại công việc học tập sau này, họ phải chính thức nộp đơn xin nhập học lại thông qua Văn phòng Tuyển sinh.
+Trường có quyền cho sinh viên nghỉ học không tự nguyện trong một số trường hợp nhất định. Điều này chỉ được áp dụng trong những trường hợp đặc biệt khi sinh viên không thể hoặc không muốn yêu cầu nghỉ phép tự nguyện và việc nghỉ phép như vậy có thể cần thiết vì hành vi của sinh viên làm gián đoạn môi trường học tập của Trường. Trước khi việc nghỉ học không tự nguyện được xem xét, các nỗ lực sẽ được thực hiện để khuyến khích học sinh nghỉ học tự nguyện, do đó bảo vệ tính bảo mật và quyền riêng tư ở mức độ có thể.
 
-Students are allowed to apply for a voluntary leave of absence or withdrawal and to reserve the study results in the following cases:
+Điều 16. Phân loại sinh viên và thành tích học tập
 
-Students are dispatched to the military service requiring a letter or verification from the Armed Forces;
+Sau mỗi học kỳ thông thường, căn cứ vào số tín chỉ tích lũy, thứ hạng của sinh viên (trừ sinh viên chuyển trường) được xác định như sau:
 
-To be appointed by the authority to represent the country to participate in international competitions and tournaments;
+Xếp hạng áp dụng cho Quản lý Kinh doanh, Kỹ thuật, Khoa học Máy tính, Nghệ thuật và Khoa học:
 
-Students have a medical emergency or serious illness requiring long-term treatment which is certified by a recognized medical agency. All those documents must be translated and notarized if not in English.
+Đứng lớp
+Số tín chỉ tích lũy
 
-Students have a personal or family hardship. In this case, students must study for at least one semester, must not fall into cases of being forced to leave as prescribed in Article 15 of this Regulation. Temporary absences for personal reasons will be included in and counted towards the official duration of the study.
+Sinh viên năm nhất
+Dưới 30
 
-Leaves/withdrawals requested for an upcoming semester will be effective on the day after the end of the last semester attended. A voluntary leave of absence or withdrawal granted during a semester will be effective on the date the request is submitted.
-
-To apply for a leave of absence, students must complete the application for student leave of absence (with proper documentation addressing the permitted reasons) and submit to the academic advisor for review. The Office of the Registrar will review requests with the College and notify the students.
-
-After returning from a temporary leave of absence, students must complete and submit a return application to the Office of Registrar, at least one week before the start of the new semester. The form must be accompanied by documentation that explains their progress during the leave that would enable them to return successfully to the program. Students will be notified of a final decision by the Office of Registrar. If they do not return to the academic program immediately after the approved leave has ended, and do not promptly obtain an extension of their leave of absence, then their student record will be made inactive. In order to return to academic work at a later time, they must formally reapply for admission through the Office of Admissions.
-
-The University reserves the right to place a student on an involuntary leave of absence in certain circumstances. This is meant to be invoked only in extraordinary circumstances when a student is unable or unwilling to request a voluntary leave of absence, and such a leave may be necessary because the student’s behavior disrupts the University’s learning environment. Before an involuntary leave is considered, efforts will be made to encourage the student to take a voluntary leave, thus preserving, to the extent possible, confidentiality and privacy.
-
-Article 16. Student Classification and Academic Standing
-
-After each regular semester, based on the accumulative amount of credits, the class standing of students (except for transfer students) is determined as follows:
-
-Class standing applies to Business Management, Engineering, Computer Science, Arts and Sciences:
-
-Class Standing
-Number of accumulated credits
-
-Freshman
-Below 30
-
-Sophomore
+sinh viên năm thứ hai
 30 – 59
 
-Junior
+Thiếu niên
 60 – 89
 
-Senior
-90 or more credits
+cao cấp
+90 tín chỉ trở lên
 
-Class standing applies to Health Sciences:
+Xếp lớp áp dụng cho Khoa học sức khỏe:
 
-Class Standing
-Number of accumulated credits
+Đứng lớp
+Số tín chỉ tích lũy
 
-Freshman
-Below 35
+Sinh viên năm nhất
+Dưới 35
 
-Sophomore
-35– 70
+sinh viên năm thứ hai
+35–70
 
-Junior
+Thiếu niên
 71 – 105
 
-Senior
+cao cấp
 106 – 140
 
-Fifth-year senior
+Học sinh năm cuối năm thứ năm
 141 – 175
 
-Sixth-year senior
+Học sinh cuối cấp sáu
 176 – 255
 
-The University may use class standing to determine a student’s eligibility for receiving financial aid and scholarships, applying for degree programs, enrolling in courses, and evaluating progress.
+Trường đại học có thể sử dụng thứ hạng trong lớp để xác định khả năng đủ điều kiện của sinh viên để nhận hỗ trợ tài chính và học bổng, đăng ký các chương trình cấp bằng, đăng ký khóa học và đánh giá tiến độ.
 
-After each regular semester, based on the cumulative GPA, students are ranked for academic standing as follows:
+Sau mỗi học kỳ chính quy, căn cứ vào điểm trung bình chung tích lũy, sinh viên được xếp hạng học lực như sau:
 
-Academic Standing
-Cumulative grade point average GPA
+Thành tích học tập
+Điểm trung bình tích lũy GPA
 
-Excellent
-3.60 – 4.00
+Tuyệt vời
+3,60 – 4,00
 
-Very good
-3.20 – 3.59
+Rất tốt
+3,20 – 3,59
 
-Good
-2.50 – 3.19
+Tốt
+2,50 – 3,19
 
-Marginal
-2.00 – 2.49
+cận biên
+2,00 – 2,49
 
-Unsatisfactory (At risk)
-Below 2.0
+Không đạt yêu cầu (Có nguy cơ)
+Dưới 2,0
 
-Academic results and credits for Summer or Pre-Fall sessions are included in the calculation for class standing as well as academic standing.
+Kết quả học tập và tín chỉ cho các khóa học Mùa hè hoặc Dự bị mùa thu được đưa vào tính toán xếp hạng cũng như xếp hạng học tập.
 
-Article 17. Academic Warning, Probation and Dismissal
+Điều 17. Cảnh cáo, quản chế, sa thải
 
-If required, students are given an academic warning at the end of the regular semester. Academic warning is an indicator of academic difficulty for students who may need academic advising and additional support. While the academic warning is captured in the Student Information System record, it is not shown in official transcripts.
+Nếu được yêu cầu, sinh viên sẽ được cảnh báo học tập vào cuối học kỳ thông thường. Cảnh báo học tập là một dấu hiệu cho thấy khó khăn trong học tập đối với những sinh viên có thể cần tư vấn học tập và hỗ trợ thêm. Mặc dù cảnh báo học tập được ghi lại trong hồ sơ Hệ thống Thông tin Sinh viên nhưng nó không được hiển thị trong bảng điểm chính thức.
 
-The Office of the Registrar will consult with the Program Director of the program to determine if the student is subject to warning, probation, or dismissal.
+Văn phòng Nhà đăng ký sẽ tham khảo ý kiến ​​của Giám đốc Chương trình của chương trình để xác định xem học sinh có bị cảnh cáo, quản chế hoặc sa thải hay không.
 
-The Dean will recommend a student’s dismissal to the Provost, who will make the final decision. The Provost’s decision is final.
+Trưởng khoa sẽ đề nghị việc sa thải sinh viên với Hiệu trưởng, người sẽ đưa ra quyết định cuối cùng. Quyết định của Hiệu trưởng là quyết định cuối cùng.
 
-There are three levels of academic consequences:
+Có ba mức độ hậu quả học tập:
 
-Level
-Criteria
+Cấp độ
+Tiêu chí
 
-Academic Warning
+Cảnh báo học thuật
 
-(student’s academic performance has been unsatisfactory, of their overall academic average is below minimum requirements)
-a) Students get a cumulative GPA under 1.20/4.0 for freshman, under 1.40/4.0 for sophomore, under 1.60/4.0 for third-year or under 1.80/4.0 for seniors and subsequent academic years.
+(kết quả học tập của sinh viên không đạt yêu cầu, điểm trung bình học tập chung của họ thấp hơn yêu cầu tối thiểu)
+a) Sinh viên có điểm trung bình tích lũy dưới 1,20/4,0 đối với sinh viên năm nhất, dưới 1,40/4,0 đối với sinh viên năm thứ hai, dưới 1,60/4,0 đối với năm thứ ba hoặc dưới 1,80/4,0 đối với sinh viên năm cuối và các năm học tiếp theo.
 
-Or
+Hoặc
 
-b) Students earn a semester GPA under 0.80/4.0 in the first semester and under 1.00/4.0 in the following semesters;
+b) Sinh viên có điểm trung bình học kỳ dưới 0,80/4,0 ở học kỳ đầu tiên và dưới 1,00/4,0 ở các học kỳ tiếp theo;
 
-Or
+Hoặc
 
-c) Total number of failed credits in the semester exceeds more than half of the number registered for the semester or total number of failed credits from the beginning of the course is more than 24;
+c) Tổng số tín chỉ trượt trong học kỳ vượt quá quá một nửa số tín chỉ đăng ký trong học kỳ hoặc tổng số tín chỉ trượt tính từ đầu học phần lớn hơn 24;
 
-Academic Probation
+thử việc học tập
 
-(a student is not making the academic progress the university requires for graduation)
-A student who is placed on academic warning two consecutive times is subject to academic probation. The student will need to obtain approval from his/her academic advisor to enroll in courses.
+(sinh viên không đạt được tiến bộ học tập mà trường đại học yêu cầu để tốt nghiệp)
+Sinh viên bị cảnh cáo học tập hai lần liên tiếp sẽ bị quản chế trong học tập. Học sinh sẽ cần phải có được sự chấp thuận của cố vấn học tập của mình để đăng ký vào các khóa học.
 
-The student will remain on academic probation until his/her cumulative GPA reaches 1.40/4.0 for sophomore, 1.60/4.0 for juniors, or 1.80/4.0 for seniors and subsequent academic years.
+Sinh viên sẽ tiếp tục bị quản chế học tập cho đến khi điểm trung bình tích lũy đạt 1,40/4,0 đối với sinh viên năm thứ hai, 1,60/4,0 đối với sinh viên năm cuối hoặc 1,80/4,0 đối với sinh viên năm cuối và các năm học tiếp theo.
 
-Academic Dismissal
+Sa thải học tập
 
-(Students who cannot benefit from course registration in the next semester may be suspended for an approved period of not less than one semester).
-
- 
+(Những sinh viên không được hưởng lợi từ việc đăng ký khóa học trong học kỳ tiếp theo có thể bị đình chỉ trong thời gian được phê duyệt không ít hơn một học kỳ).
 
  
-a) Students whose study time exceeds the maximum time allowed to study at the University.
 
-Or
+ 
+a) Sinh viên có thời gian học vượt quá thời gian tối đa được phép học tại Trường.
+Hoặc
 
-b) Students who are placed on academic warning three times in total (one academic probation is considered as two times of academic warning), even if those times are not sequential.
+b) Những học sinh bị cảnh cáo học tập tổng cộng ba lần (một lần quản chế học tập được coi là hai lần cảnh cáo học tập), ngay cả khi những lần đó không liên tục.
 
-Recommendations for dismissals are reported to the relevant Dean.
+Các đề xuất sa thải sẽ được báo cáo cho Trưởng khoa có liên quan.
 
-Students are entitled to reserve the academic results accumulated when subject to academic dismissal
+Sinh viên được bảo lưu kết quả học tập đã tích lũy khi bị đình chỉ học tập
 
-Article 18. Academic Honors
+Điều 18. Bằng khen học thuật
 
-Dean’s List: Students are placed on the Dean’s List at the end of the regular semesters when their academic achievement in that semester meet the following criteria: (i) Minimum SGPA 3.60 (Very Good), calculated at least 12 letter-graded credits) per regular semester, have not failed any course registered; (ii) have not committed any recorded major confirmed act of misconduct. This achievement will be recorded on their transcript.
+Danh sách Trưởng khoa: Sinh viên được đưa vào Danh sách Trưởng khoa vào cuối học kỳ thông thường khi thành tích học tập trong học kỳ đó đáp ứng các tiêu chí sau: (i) SGPA tối thiểu 3,60 (Rất Tốt), tính ít nhất 12 tín chỉ tính theo chữ cái) mỗi học kỳ thông thường, không trượt bất kỳ khóa học nào đã đăng ký; (ii) chưa thực hiện bất kỳ hành vi sai trái nghiêm trọng nào được xác nhận. Thành tích này sẽ được ghi vào bảng điểm của họ.
 
-Exception for Medical Doctor Students: For Year 1, 2, and 3 medical students, the university-wide traditional process for Dean’s List eligibility will apply. However, due to the distinct nature of the clinical training schedule in Years 4-6, which differs from the traditional pre-clinical curriculum, these students will be exempt from the usual Dean’s List evaluation. Instead, medical students in Years 4-6 will be evaluated based on their academic performance at the end of each academic year, with the Dean’s List honor being collectively recorded for both the Fall and the Spring semesters (CGPA).
+Ngoại lệ đối với Sinh viên Bác sĩ Y khoa: Đối với sinh viên y khoa Năm 1, 2 và 3, quy trình truyền thống toàn trường đại học để đủ điều kiện trong Danh sách Trưởng khoa sẽ được áp dụng. Tuy nhiên, do tính chất khác biệt của lịch đào tạo lâm sàng ở Lớp 4-6, khác với chương trình giảng dạy tiền lâm sàng truyền thống, những học sinh này sẽ được miễn đánh giá Danh sách Trưởng khoa thông thường. Thay vào đó, sinh viên y khoa từ Lớp 4-6 sẽ được đánh giá dựa trên kết quả học tập của họ vào cuối mỗi năm học, với danh hiệu Danh sách Trưởng khoa được ghi chung cho cả học kỳ Mùa thu và Mùa xuân (CGPA).
 
-Article 19. Double Degree
+Điều 19. Bằng kép
 
-A Double Degree is applied for those who are enrolled full time in the first program and wish to apply to a second program concurrently so that they can graduate with two undergraduate degrees. A Double Degree consists of a combination of two separate degrees from two discipline areas in the same College or in two different Colleges.
+Bằng kép được áp dụng cho những người đăng ký toàn thời gian trong chương trình đầu tiên và muốn đăng ký đồng thời vào chương trình thứ hai để họ có thể tốt nghiệp với hai bằng đại học. Bằng kép bao gồm sự kết hợp của hai bằng cấp riêng biệt từ hai lĩnh vực chuyên môn trong cùng một trường Cao đẳng hoặc ở hai trường Cao đẳng khác nhau.
 
-Eligibility to Study Double Degree Program (DDP)
+Đủ điều kiện để học chương trình bằng kép (DDP)
 
-The discipline of the second degree must be different from that of the first degree.
+Kỷ luật cấp hai phải khác với kỷ luật cấp một.
 
-Students can register for the second program at the earliest when they have been ranked in the second year of the first academic program.
+Sinh viên có thể đăng ký học chương trình thứ hai sớm nhất khi đã được xếp vào năm thứ hai của chương trình học thứ nhất.
 
-At the time of registration, students must meet (i) academic ability based on the cumulative grade point average of good or higher (CGPA=2.5 or higher); (ii) entry threshold requirements of the second program in the enrollment year; and (iii) is not currently in a period of disciplinary action equivalent to warning or higher.
+Tại thời điểm đăng ký, sinh viên phải đáp ứng (i) năng lực học tập dựa trên điểm trung bình tích lũy từ khá trở lên (CGPA=2,5 trở lên); (ii) yêu cầu về ngưỡng đầu vào của chương trình thứ hai trong năm tuyển sinh; và (iii) hiện không đang trong thời gian bị kỷ luật từ cảnh cáo trở lên.
 
-During the course of students studying two programs at the same time, if the cumulative GPA of the first program is below the average or subject to a warning of academic results, they must stop studying the second program in the second semester then students will be removed from the list of registered students for the second program.
+Trong quá trình sinh viên học cùng lúc hai chương trình, nếu điểm trung bình tích lũy của chương trình thứ nhất thấp hơn mức trung bình hoặc bị cảnh báo kết quả học tập thì phải dừng học chương trình thứ hai trong học kỳ thứ hai thì sinh viên sẽ bị loại khỏi danh sách đăng ký học chương trình thứ hai.
 
-For those who wish to study the double degree program need to register the second program at least 2 years prior to the tentative graduation of the second program.
+Đối với những người muốn học chương trình bằng kép cần phải đăng ký chương trình thứ hai ít nhất 2 năm trước ngày dự kiến ​​tốt nghiệp chương trình thứ hai.
 
-Registration and Selection Process
+Quy trình đăng ký và lựa chọn
 
-Registration period: after the academic results of the first semester, or the results of the previous academic year (usually January or July every year).
+Thời gian đăng ký: sau khi có kết quả học tập của học kỳ đầu tiên, hoặc kết quả của năm học trước đó (thường là tháng 1 hoặc tháng 7 hàng năm).
 
-Students register for the second program according to the following steps:
+Sinh viên đăng ký học chương trình thứ 2 theo các bước sau:
 
-Step 1: Submit the application form for studying two academic programs at the same time (form provided) to the Registrar Office. Note: Students need to be proactive seeking for advice from Academic Advisor, Program Directors of both programs before officially register;
+Bước 1: Nộp đơn đăng ký học cùng lúc hai chương trình học (theo mẫu được cung cấp) tới Phòng Đăng ký. Lưu ý: Sinh viên cần chủ động tìm kiếm lời khuyên từ Cố vấn học thuật, Giám đốc chương trình của cả hai chương trình trước khi đăng ký chính thức;
 
-Step 2: The Registrar Office evaluates the eligibility of the application, if approval, make a list and send the application form and student profile to the College in charge of the second program;
+Bước 2: Phòng Đăng ký đánh giá hồ sơ đủ điều kiện, nếu được chấp nhận lập danh sách và gửi hồ sơ đăng ký, hồ sơ sinh viên đến Trường phụ trách chương trình thứ hai;
 
-Step 3: The Program Director of the second academic program considers the equivalent courses of the two academic programs which indicate the transferable credits and courses that students gained from the first academic program;
+Bước 3: Giám đốc Chương trình của chương trình học thứ hai xem xét các khóa học tương đương của hai chương trình học thuật, trong đó xác định số tín chỉ có thể chuyển tiếp và các khóa học mà sinh viên đã đạt được từ chương trình học thuật thứ nhất;
+Bước 4: Hội đồng xét duyệt của Chương trình thứ hai xem xét đơn đăng ký và đề xuất phê duyệt. Số lượng thành viên Hội đồng là số lẻ tối thiểu là 3 thành viên, trong đó có Giám đốc chương trình và 2 giảng viên của chương trình thứ hai.
 
-Step 4: The Second Program’s Review Board reviews the application and proposes for approval. The number of Board member is odd at minimum of 3 members, including Program Directors and two faculty of the second program.
+Bước 5: Phòng Đăng ký tổng hợp danh sách, báo cáo Hiệu trưởng (hoặc người được ủy quyền) quyết định và thông báo cho sinh viên và các bộ phận liên quan chậm nhất ba (03) tuần trước học kỳ.
 
-Step 5: The Registrar Office gathers the list, reports to the Provost (or authorized person) for decision making and notices to students and related Departments no later than three (03) weeks before the semester.
+Chương trình giảng dạy và thời lượng
 
-Program Curriculum and Duration
+Khung chương trình của chương trình thứ 2 được áp dụng ngay trong năm đăng ký.
 
-The curriculum framework of the second program is applied in the registration year.
+Khi học cấp 2, sinh viên có thể chuyển tiếp điểm, tín chỉ của các môn học tương đương đã đạt được ở chương trình đầu tiên và ngược lại. Nếu sinh viên đã hoàn thành các học phần phổ thông của chương trình học đầu tiên sẽ được xét chuyển đổi và không phải học thêm học phần nào.
 
-When studying the second degree, students can transfer the grades, credits of equivalent courses that they gained in the first program and vice versal. If students have completed the general education modules of the first academic program, they will be considered for conversion and will not be required to take additional courses.
+Sinh viên theo học chương trình bằng kép phải hoàn thành chương trình thực tập và luận văn theo yêu cầu của từng chương trình.
 
-Students who are in the double degree program must complete internship programs and dissertations according to the requirements of each program.
+Thời gian tối đa mà sinh viên được phép hoàn thành chương trình bằng kép là thời gian tối đa được phép hoàn thành chương trình đầu tiên.
 
-The maximum time that students are allowed to complete the double degree program is the maximum time allowed to complete the first program.
+học phí
 
-Tuition fee
+Sinh viên đăng ký học chương trình thứ hai phải đóng học phí theo quy định tài chính của chương trình thứ hai. Cần có các tín chỉ bổ sung để hoàn thành chương trình thứ hai và được tính theo mức học phí tiêu chuẩn cho mỗi tín chỉ.
 
-Students enrolled in the second program must pay tuition according to the second program’s financial regulations. Additional credits are required to complete the second program and are charged at the standard tuition rate per credit.
+Đơn xin học bổng và hỗ trợ tài chính cho Chương trình thứ hai được đánh giá khi đăng ký vào Chương trình thứ hai.
 
-Scholarship and financial aid applications for the Second Program are evaluated upon enrollment in the Second Program.
+Điều kiện tốt nghiệp
 
-Graduation Eligibility
+Sinh viên chỉ được coi là tốt nghiệp chương trình thứ hai nếu đáp ứng yêu cầu tốt nghiệp chương trình thứ nhất.
 
-Students are only considered to graduate from the second program if they meet the requirement to graduate from the first program.
+Nếu sinh viên không đáp ứng yêu cầu tốt nghiệp chương trình thứ 2 hoặc cả 2 chương trình trong thời gian cho phép thì sẽ được cấp thư xác nhận kết quả học tập.
 
-If students do not meet the requirement to graduate from the second program or both programs within the allowed time, they are provided the letter to confirm their academic result.
+Điều 20. Thay đổi chương trình và chuyển giao thể chế
 
-Article 20. Program Change and Institutional Transfer
+Thay đổi chương trình (chuyển nội bộ):
 
-Program Change (internal transfer):
+Yêu cầu thay đổi có thể bao gồm việc thay đổi Chuyên ngành (bao gồm chuyên ngành/lĩnh vực tập trung/phụ). Điều đó có nghĩa là loại hình Cao đẳng và Bằng cấp sơ cấp vẫn giữ nguyên; Thay đổi Bằng cấp (chương trình cấp bằng thay đổi nhưng Trường/Khoa sơ cấp vẫn giữ nguyên); Thay đổi trường Cao đẳng/Khoa (thay đổi trường Cao đẳng/Khoa tiểu học).
 
-Change requests may include changing of Major (including major/area of concentration/minor). It means that primary College and degree type stay the same; Change of Degree (degree program changes but the primary College/faculty remains the same); Change of College/Faculty (primary College/faculty changes).
+Sinh viên có thể nộp đơn xin thay đổi tuyển sinh hiện tại nếu họ: (đang) đáp ứng các yêu cầu nhập học và đủ điều kiện để tham gia vào chương trình/chuyên ngành được đề xuất; (ii) hiện không phải là sinh viên năm thứ nhất hoặc năm cuối (đăng ký chuyển đổi bằng cấp/cao đẳng); (iii) không bị xem xét đình chỉ học tập.
 
-A student can apply for changing the current enrolment if s/he: (is) meets the admission requirements and is eligible for entry into the proposed program/major; (ii) is not currently a first-year or final-year student (applies for Change of Degree/College); (iii) is not subject to consideration of suspension of study.
+Một sinh viên chỉ đủ điều kiện để thay đổi một chương trình mỗi năm học. Yêu cầu thay đổi sẽ được xử lý một lần mỗi học kỳ, khiến thay đổi có hiệu lực từ đầu học kỳ tiếp theo.
 
-A student is only eligible for one program change per academic year. Change requests will be processed once per semester, making the change take effect from the beginning of the next semester.
+ Trường cao đẳng có thể đặt ra các tiêu chí cụ thể cho từng chương trình ngoài các yêu cầu chung của trường đại học (thành tích học tập, thuộc tính EXCEL, v.v.)
 
- College may set the specific criteria for each program apart from the university generic requirements (academic standing, EXCEL attributes, etc.)
+Nếu sinh viên nhận được tín chỉ chuyển tiếp từ cơ sở khác khi đăng ký lần đầu vào Đại học VinUni, việc chuyển tín chỉ có thể được đánh giá lại theo yêu cầu thay đổi.
 
-If a student received transfer credits from another institution upon their initial enrolment to VinUniversity, the transfer of credit may be re-assessed for the requested change.
+Chuyển trường (chuyển trường bên ngoài): Sinh viên được phép chuyển tiếp sang các trường đại học khác trong các trường hợp sau:
 
-Institutional Transfer (external transfer): Students are allowed to transfer to other universities in the following cases:
+Sinh viên đang chuyển sang một trường đại học khác có cùng ngành hoặc một nhóm ngành như các ngành trước đây của sinh viên.
 
-Students are transferring to another university that offers the same disciplines or a group of disciplines as the students’ previous ones.
+Việc chuyển trường được phê duyệt bởi Hiệu trưởng trường Đại học VinUni và Hiệu trưởng trường chuyển tiếp;
 
-The transfers are approved by both VinUniversity’s Provost and the transfer–in university’s Provost;
+Học sinh không thuộc các trường hợp quy định tại khoản 2 Điều này.
 
-Students do not fall into any cases as prescribed in Clause 2 of this Article.
+Sinh viên không được phép chuyển tiếp sang trường đại học khác trong các trường hợp sau:
 
-Students are not allowed to transfer to other universities in the following cases:
+Sinh viên không đáp ứng đủ điều kiện xét tuyển vào trường đại học chuyển tiếp;
 
-Students do not meet the requirements for admissions of the transfer–in universities;
+Sinh viên là sinh viên năm nhất hoặc đang học năm cuối;
 
-Students are freshmen or in their final year of study;
+Học sinh đang bị kỷ luật ở mức cảnh cáo trở lên.
 
-Students are being disciplined at the warning level or higher.
+Thủ tục chuyển tiếp đại học
+Sinh viên có yêu cầu chuyển tiếp đại học phải chuẩn bị đầy đủ hồ sơ theo quy định của Nhà trường và nộp cho Văn phòng Đăng ký;
 
-Procedures for university transfer
+Văn phòng Nhà đăng ký sau khi tham khảo ý kiến ​​của Giám đốc Chương trình và Trưởng khoa/Phó Trưởng khoa sẽ đưa ra đề xuất với Hiệu trưởng về việc chuyển đi. Hiệu trưởng sẽ ra quyết định cho phép chuyển trường với điều kiện phải được sự chấp thuận của cơ quan có thẩm quyền tại trường đại học chuyển tiếp. Cơ quan có thẩm quyền tại trường đại học chuyển tiếp sẽ đưa ra quyết định về việc tiếp nhận sinh viên chuyển tiếp cũng như các tín chỉ và yêu cầu phù hợp.
 
-Students who request university transfer must prepare the full document package according to the University’s regulations and submit it to the Office of the Registrar;
+Chương III Kiểm tra và đánh giá khóa học
 
-The Office of the Registrar in consultation with the Program Director and Dean/Vice Dean will make a recommendation to the Provost regarding the transfer out. The Provost will make the decision to allow a transfer-out, conditional to approval from the authorities at the transfer-in university. The appropriate authority at the transfer-in university shall make the decision on accepting the student as a transfer in, and the credits and requirements appropriate.
+Điều 21. Đánh giá khóa học, dự lớp và vắng mặt
 
-Chapter III Examination and Course Assessment
+Người hướng dẫn có trách nhiệm thiết kế đánh giá khóa học phù hợp với kết quả học tập và tuân thủ các nguyên tắc, tiêu chuẩn của Trường.
 
-Article 21. Course Assessment, Class Attendance, and Absence
+Kế hoạch đánh giá (phương pháp, loại hình, nhiệm vụ và trọng số phần trăm) cho một môn học phải được mô tả trong giáo trình môn học và cung cấp cho sinh viên trước giờ học. Trừ khi bắt buộc phải có những trường hợp không lường trước được, khung đánh giá sẽ không thay đổi trong suốt học kỳ. Đánh giá trực tuyến có thể được sử dụng nếu nó trung thực, công bằng và khách quan như đánh giá trực tiếp và phải đóng góp không quá 50% vào tổng điểm của khóa học.
 
-The instructor has the responsibility to design a course assessment that is aligned with learning outcomes and that comply with the principles and standards of the University.
+Tham dự lớp học
 
-The assessment plan (methods, types, tasks, and percentage weight) for a course must be described in the course syllabi and provide to students before the class. Except when necessitated by unforeseen circumstances, the assessment framework should remain unchanged throughout the semester. Online assessment may be employed if it is as honest, fair and impartial as direct assessment and shall contribute no more than 50% to total weighted grade of the course.
+Trách nhiệm của mỗi học viên là phải tham dự tất cả các lớp học theo lịch trình trừ khi lời xin phép đã được người hướng dẫn khóa học chấp thuận. Chính sách tham dự lớp học cụ thể sẽ được nêu trong giáo trình khóa học.
 
-Class attendance Expectations
+Học viên nên đăng ký điểm danh bằng các phương pháp (điện tử hoặc thủ công) do người hướng dẫn chỉ định. Nếu học sinh không đăng ký theo các phương pháp đã được phê duyệt, học sinh đó có trách nhiệm cung cấp bằng chứng về việc đi học của mình để nhận được tín chỉ.
 
-It is each student’s responsibility to attend all scheduled classes unless excuses have been approved by the course instructor. Specific class attendance policy will be stated in the course syllabus.
+Việc không tham dự các buổi học bắt buộc sẽ tự động dẫn đến việc vắng mặt không lý do trừ khi người hướng dẫn khóa học cho phép ngoại lệ. Học sinh chịu trách nhiệm về tất cả nội dung được đề cập; người hướng dẫn thường sẽ không đưa ra các khoản phụ cấp để bù đắp cho những lần vắng mặt không có lý do.
 
-Students should register their attendance using the methods (electronic or manual) specified by the instructor. If a student fails to register using the approved methods, it is her/his responsibility to provide evidence of their attendance to get credit.
+Việc đi trễ hoặc vắng mặt trong các hoạt động giáo dục theo lịch trình thường sẽ dẫn đến việc bị giảm điểm hoặc các hình phạt khác do người hướng dẫn áp dụng.
 
-Failure to attend required sessions will result in an automatic unexcused absence unless the course instructor grants an exception. Students are accountable for all covered content; instructors will typically not make allowances to accommodate unexcused absences.
+Học sinh phải đến đúng giờ trong tất cả các hoạt động giáo dục, ở lại trong suốt thời gian diễn ra hoạt động và không gây ra hoặc tham gia làm gián đoạn bất kỳ môi trường giáo dục nào trong quá trình hoạt động giáo dục. Kỳ vọng này được ghi trong quy tắc ứng xử của sinh viên và là một thành phần thiết yếu của tính chuyên nghiệp.
 
-Tardiness or absenteeism from scheduled educational activities will typically result in reduced grades or other penalties imposed by the instructor.
+Thủ tục báo cáo sự vắng mặt theo kế hoạch hoặc ngoài kế hoạch)
 
-Students are expected to arrive on time for all educational activities, stay for the duration of the activity and not cause or participate in disruptions to any educational environment during the educational activity. This expectation is encoded in the student code of conduct and is an essential component of professionalism.
+Vắng mặt theo kế hoạch
+Nếu học sinh biết trước rằng mình sẽ bỏ lỡ các buổi học bắt buộc, học sinh đó phải thông báo trước cho người hướng dẫn (hoặc Trợ giảng), đưa ra lý do chính đáng đầy đủ và xin phép họ. Người hướng dẫn có thể chấp nhận hoặc từ chối yêu cầu dựa trên lý do được đưa ra.
 
-Procedure to report a planned or unplanned absence)
+Các vắng mặt có lý do được chấp nhận bao gồm thuyết trình tại một hội nghị chuyên môn, tham gia vào hoạt động lãnh đạo/cuộc thi/dịch vụ hoặc đại diện chính thức của Đại học VinUni. Số ngày nghỉ sẽ do người hướng dẫn quyết định dựa trên những gì sẽ bị bỏ lỡ về mặt yêu cầu và kinh nghiệm của khóa học.
 
-Planned Absences
-If a student knows in advance that they will miss required sessions, she/he must inform the instructor (or the Teaching Assistant) in advance, provide a complete justification and seek their permission. The instructor may accept or deny the request based on the justification provided.
+Hoàn cảnh cá nhân có thể bao gồm các sự kiện cá nhân hoặc gia đình quan trọng làm gián đoạn nghiêm trọng khả năng của học sinh trong việc tham gia các trách nhiệm trong khóa học.
 
-Accepted excused absences include presenting at a professional conference, participation in a leadership/ competition/service activity or official representation of VinUniversity. The number of days off will be decided by the instructor based on what would be missed in terms of course requirements and experiences.
+Vắng mặt không có kế hoạch/khẩn cấp
+Việc tham gia vào các sự kiện do trường đại học tài trợ, các biến chứng khi đi du lịch, điều kiện thời tiết nguy hiểm, khó khăn cá nhân, bệnh tật, trường hợp khẩn cấp trong gia đình hoặc người thân trong gia đình qua đời là những ví dụ về các tình tiết giảm nhẹ có thể biện minh cho việc vắng mặt. Người hướng dẫn có thể tìm kiếm tài liệu để xác nhận sự tồn tại của những trường hợp đặc biệt như vậy.
+Trước buổi học hoặc ngay khi có thể sau đó, sinh viên hoặc người đại diện của họ phải liên hệ với người hướng dẫn khóa học hoặc trợ giảng khóa học qua email để thông báo cho họ về sự vắng mặt đột xuất.
 
-Personal circumstances may include significant family or personal events that acutely disrupt the student’s ability to attend to course responsibilities.
+Nếu sinh viên hoặc người đại diện của họ không thể liên lạc được với người hướng dẫn khóa học hoặc trợ giảng khóa học, họ nên báo cho Văn phòng Đăng ký Đại học.  Văn phòng này sẽ chịu trách nhiệm chuyển tiếp thông tin cho các bên liên quan.
 
-Unplanned/Emergency Absences
-Participation in university-sponsored events, travel complications, hazardous weather conditions, personal hardship, illness, family emergency, or death in the immediate family are examples of extenuating circumstances that may justify an absence. Instructors might seek documentation to confirm the existence of such exceptional circumstances.
+Hướng dẫn lớp trang điểm
 
-Prior to the session, or as soon as feasible thereafter, the student or his/her representative must contact the course instructor or course teaching assistant by email to tell them of the unexpected absence.
+Trong trường hợp sinh viên được phép vắng mặt có lý do, người hướng dẫn khóa học sẽ thiết lập các hướng dẫn thực hiện kế hoạch bổ sung, nếu có, dành riêng cho các yêu cầu riêng của khóa học.
 
-If the student or his/her representative cannot reach the course instructor or course teaching assistant, he/she should alert the Office of the University Registrar.  This Office will be responsible for relaying the information to the relevant parties.
+Trong trường hợp (1) yêu cầu vắng mặt trước 30 ngày và (2) người hướng dẫn khóa học không thể sắp xếp kế hoạch học bù thay thế do sinh viên vắng mặt kéo dài hoặc người hướng dẫn khóa học không thể tạo lại tài liệu phòng thí nghiệm, lâm sàng cần thiết, người hướng dẫn khóa học có thể từ chối phê duyệt cho sự vắng mặt được yêu cầu.
 
-Make-up class instruction
+Trong trường hợp vắng mặt vì bệnh tật hoặc do sự kiện ngoài dự kiến ​​(tức là không thể thông báo trước 30 ngày), người hướng dẫn khóa học sẽ xác định xem liệu các yêu cầu và kinh nghiệm có thể được đáp ứng hay không. Học viên phải liên hệ với người hướng dẫn khóa học càng sớm càng tốt để sắp xếp kế hoạch học bù. Nếu người hướng dẫn khóa học không thể sắp xếp kế hoạch học bù vì sự vắng mặt của sinh viên (dựa trên thời gian vắng mặt, không thể tạo lại tài liệu lâm sàng hoặc giáo khoa cần thiết, v.v.), người hướng dẫn khóa học, sau khi tham khảo ý kiến ​​của Giám đốc Chương trình, có thể yêu cầu sinh viên học lại toàn bộ khóa học.
 
-In the event the student is granted an excused absence, the course instructor will establish guidelines for implementation of makeup plans, where available, that are specific for the unique requirements of the course.
+Vắng mặt trong kỳ thi
 
-In the case where (1) the absence is requested 30 days in advance and (2) the course instructor is unable to arrange an alternate make up plan because of a student’s prolonged absence or the course instructor’s inability to recreate the needed clinical, lab material, the course instructor may deny approval for the requested absence.
+một. Những học sinh vắng mặt trong kỳ thi chính cuối kỳ được Giám đốc Chương trình chấp thuận có thể được phép thi bù. Điểm thi cuối kỳ được coi là điểm thi lần đầu. Lý do vắng mặt hợp lệ có thể là:
 
-In the case where an absence is due to illness or unanticipated events (i.e. 30 days advance notice is impossible), the course instructor will determine if the requirements and experiences can be made up. The student must contact the course instructor as soon as reasonably possible to arrange a makeup plan. If the course instructor is unable to arrange a makeup plan because of a student’s absence (based on duration of absence, inability to recreate the needed clinical or didactic material etc.), the course instructor, in consultation with the Program Director, may require the student to repeat the entire course.
+trong trường hợp có nhiều hơn hai lần khám trong thời gian 24 giờ.
 
-Absence from examinations
+trong trường hợp khẩn cấp hoặc có vấn đề không thể tránh khỏi như bệnh tật hoặc thương tích cần phải nhập viện. Cần có sự xác nhận hoặc xác minh từ bác sĩ hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe.
 
-a. Students who are absent in the main final exam with approval by the Program Director, may be allowed a make-up exam. The final exam grade shall be considered as the first-time exam grade. A valid reason for absence can be:
+ Đối với các trường hợp khẩn cấp của gia đình, học sinh phải cung cấp tài liệu có thể xác minh được về trường hợp khẩn cấp. Do có rất nhiều trường hợp khẩn cấp trong gia đình, Cơ quan đăng ký sẽ cung cấp hướng dẫn chính xác về những gì cấu thành tài liệu đầy đủ. Trừ khi trường hợp khẩn cấp nghiêm trọng, học viên nên thông báo trước cho Giảng viên/Trợ giảng và Người đăng ký về việc họ vắng mặt trong sự kiện khóa học đã lên lịch. Trong trường hợp khẩn cấp nghiêm trọng, học viên phải thông báo cho người hướng dẫn và Nhà đăng ký trong vòng một tuần kể từ khi vắng mặt.
 
-in case of having more than two examinations in a 24-hour period.
+Đối với các hoạt động ngoại khóa và ngoại khóa được Đại học phê duyệt, cũng cần phải có tài liệu có thể kiểm chứng. Học sinh phải nhận được từ Trường Cao đẳng/ Khoa/ Tổ chức tài trợ cho hoạt động một lá thư/tài liệu hỗ trợ tương tự cho biết (các) lần vắng mặt dự kiến. Thư/tài liệu phải được xuất trình cho Giảng viên và Nhà đăng ký ít nhất một tuần trước lần vắng mặt đầu tiên.
 
-in case of an emergency or unavoidable problems such as an illness or injury requiring hospitalization. Confirmation or verification from a doctor or a health care provider is required.
+Trong trường hợp nghỉ lễ tôn giáo, học viên nên thông báo cho Giảng viên và Nhà đăng ký trước tuần thứ ba của khóa học nếu có bất kỳ xung đột nào có thể xảy ra.
 
- With regard to family emergencies, students must provide verifiable documentation of the emergency. Given the vast array of family emergencies, the Registrar will provide precise guidance as to what constitutes adequate documentation. Unless the emergency is critical, students should notify the Instructor/Teaching Assistant and the Registrar in advance of their absence from the scheduled course event. In cases of critical emergencies, students must notify the instructor and the Registrar within one week of their absence.
+Một lưu ý quan trọng cho kỳ thi cuối kỳ: Chuyến bay sớm về nhà, vé di chuyển rời thị trấn và kỳ nghỉ cùng gia đình KHÔNG phải là lý do chính đáng để bỏ lỡ hoặc dời lại kỳ thi cuối kỳ. Học sinh nên lập kế hoạch rời khỏi trường SAU KHI hoàn thành tất cả các kỳ thi theo lịch trình của mình.
 
-For University-approved curricular and extra-curricular activities, verifiable documentation is also required. The student should obtain from the College/ Department/ Organization sponsoring the activity a letter / similar supporting documentation indicating the anticipated absence(s). The letter/document must be presented to the Instructor and the Registrar at least one week prior to the first absence.
+b. Sự vắng mặt hợp lệ phải được ghi lại cho Nhà đăng ký trong vòng một (1) tuần kể từ ngày thi. Giáo viên hướng dẫn phải thi cuối kỳ theo lịch của Trường và không được dạy bù hoặc dời lịch thi nếu có lý do không hợp lệ hoặc không được chấp thuận.
+c. Giáo trình của khóa học phải nêu rõ chính sách bỏ thi để học sinh nhận thức đầy đủ về chính sách và hậu quả của nó. Thông thường, một học sinh sẽ nhận được điểm 0 cho bài kiểm tra mà anh ta bỏ lỡ. Nếu sự vắng mặt có lý do chính đáng và có bằng chứng xác minh được thì người hướng dẫn khóa học có thể cho học sinh làm bài kiểm tra bù. Trường hợp không có bài thi bù cuối kỳ, các sinh viên này sẽ phải thi vào các học kỳ thông thường hoặc học kỳ bổ sung tiếp theo.
 
-In the case of religious holidays, the student should notify the Instructor and the Registrar by the third week of the course of any potential conflicts.
+d. Nếu khóa học là điều kiện tiên quyết để đăng ký vào học kỳ tiếp theo, sinh viên sẽ không tiến bộ và sẽ nộp đơn xin nghỉ học trong (các) học kỳ tiếp theo.
 
-An important note for final exams: Early flights home, transportation tickets to leave town, and family vacations are NOT valid excuses to miss or reschedule a final exam. Students should make plans to leave campus AFTER all their scheduled exams are completed.
+Điều 22. Hình thức và lịch thi cuối kỳ
 
-b. Valid absence must be documented to the Registrar within one (1) week of the exam. Instructors are required to give the final exams according to the University schedule and cannot give makeups or reschedule for non-valid or non-approved excuses.
+Kiểm tra cuối kỳ có thể là đánh giá cuối kỳ (bao gồm nhiều loại câu hỏi khác nhau) hoặc một giải pháp thay thế cao nhất như thuyết trình, tiểu luận, bài tập, báo cáo cuối kỳ hoặc kết hợp các loại đó.
 
-c. The course syllabus shall indicate the missed examinations policy so that students are fully aware of the policy and its consequences. Typically, a student shall receive a grade of zero for the exam s/he misses. If the absence is due to a valid excuse for which verifiable evidence is presented, the course instructor may then give the student a make-up exam. In the absence of a make-up final exam, these students will have to take the exam in the following regular semesters or additional semesters.
+Các kỳ thi cuối kỳ yêu cầu ấn định thời gian thi được Văn phòng Đăng ký lên lịch để tránh xung đột giữa các lớp. Sau thời gian học không quá 2 tuần vào cuối học kỳ, Nhà trường sẽ tổ chức kỳ thi cuối khóa.
 
-d. If the course is a pre-requisite for enrolment into the following semester the student will not progress and will apply for a leave of absence for the next semester(s).
+Nhà trường có thể tổ chức một kỳ thi bổ sung (bài thi bù cuối kỳ) cho những sinh viên không tham gia kỳ thi chính hoặc có nhiều hơn hai kỳ thi trong khoảng thời gian 24 giờ hoặc đạt điểm F trong kỳ thi chính. Kỳ thi học bù cuối kỳ được tổ chức sau kỳ thi cuối kỳ chính không quá hai tuần kể từ ngày công bố kết quả của kỳ thi chính.
 
-Article 22. Final Exam Format and Schedule
+Những học sinh cần chỗ ở đặc biệt vì khuyết tật học tập hoặc tình trạng y tế (có bằng chứng về tình trạng) có thể được cấp thêm thời gian để làm bài kiểm tra cuối kỳ hoặc các bài đánh giá khác bắt buộc trong lớp, theo quyết định của Văn phòng Quản lý Công tác Sinh viên. Họ có trách nhiệm thông báo cho người hướng dẫn trong tuần đầu tiên của lớp học về tình trạng đó và xuất trình một lá thư để thông báo cho Nhà đăng ký, người sau đó sẽ thông báo cho tất cả những người hướng dẫn và đề xuất sắp xếp thêm thời gian.
 
-Final examination could be a final assessment (comprising various types of questions) or a culminating alternative such as a presentation, an essay, coursework, final report, or a combination thereof.
+Hạn chót nộp bài thi mang về nhà hoặc báo cáo đồ án cuối kỳ của một lớp học không được sớm hơn ngày được Nhà đăng ký công bố cho ngày cuối cùng của lớp học đó. Ngày hết hạn của một dự án độc lập không được sớm hơn ngày cuối cùng của lớp học và không muộn hơn ngày cuối cùng của kỳ thi cuối kỳ.
 
-Final examinations requiring assignment of an exam time are scheduled by the Office of Registrar to avoid conflicts among classes. After a study period of no more than two weeks at the end of a semester, the University will hold the final exam period.
+Điều 23. Chấm và thi lại bài thi cuối kỳ
 
-The University may offer an additional exam (a make-up final exam) for students who do not take the main exam, or have more than two examinations in a 24-hour period, or have earned an F grade in the main exam. The make-up final exam shall be organized after the main final exam no more than two weeks after the date of releasing the results of the main one.
+Các câu hỏi thi cuối khóa sẽ phù hợp với kết quả học tập của khóa học.
 
-Students who require special accommodations because of learning disabilities or medical conditions (with proof of condition) can be granted additional time to take a final exam or other assessments required in the class, as determined by the Office of Student Affairs Management. They have the responsibility to inform the instructor within the first week of classes of such condition and present a letter to inform the Registrar, who will then inform all instructors and propose arrangements for extra time.
+Người hướng dẫn khóa học chịu trách nhiệm chấm điểm các bài kiểm tra cuối khóa, bài luận, bài tập và báo cáo cuối khóa. Hiệu trưởng quy định quy trình bảo quản, quy trình chấm điểm và bảo quản phiếu trả lời bài thi.
 
-The due date of take-home finals or a culminating project report for a class can be no earlier than the date promulgated by the Registrar for the final day of that class. The due date of an independent project can be no earlier than the last day of classes and no later than the last day of final exams.
+Các bài kiểm tra viết, bài tiểu luận, bài tập, báo cáo cuối kỳ và các tài liệu đã chấm điểm khác sẽ được lưu trữ ít nhất hai năm kể từ ngày nộp.
 
-Article 23. Marking and Retaking the Final Exam
+Việc tổ chức thi vấn đáp và/hoặc thi thực hành tại phòng y tế, phòng thí nghiệm, phòng mô phỏng phải do hai người hướng dẫn thực hiện. Điểm thi vấn đáp sẽ được công bố sau khi hoàn thành bài thi và đánh giá cho tất cả học sinh. Trong trường hợp có sự thống nhất về điểm cuối cùng giữa hai người hướng dẫn thì điểm cuối cùng được coi là trung bình cộng của hai điểm. Trong trường hợp có sự chênh lệch lớn giữa các điểm, điểm có thể được chuyển đến người hướng dẫn thứ ba để xem xét.
 
-Course final exam questions will be consistent with the learning outcomes of the course.
+Sinh viên không dự thi cuối kỳ mà không có lý do chính đáng sẽ bị coi là đã thi một lần và bị điểm 0 (0) trong kỳ thi chính. Những học sinh này nếu được Giám đốc Chương trình cho phép thì có thể thi lại ngay sau đó (nếu có).
 
-The course instructor is responsible for grading the final exams, essays, coursework, and final reports. The Provost shall set out regulations on protection, marking procedures, and storage of exam answer sheets.
+Những học sinh vắng mặt trong kỳ thi cuối kỳ chính có lý do chính đáng và được Giám đốc Chương trình chấp thuận có thể được phép thi bù. Điểm thi cuối kỳ được coi là điểm thi lần đầu. Trường hợp không có bài thi bù cuối kỳ, các sinh viên này sẽ phải thi vào các học kỳ thông thường hoặc học kỳ bổ sung tiếp theo.
 
-Written tests, essays, coursework, final reports, and other graded material shall be stored for at least two years from the date of submission.
+Chương IV Chính sách chấm điểm
+Điều 24. Nguyên tắc chung
 
-The organization of oral exams and/or practical exams in medical rooms, laboratories, or simulation rooms has to be carried out by two instructors. Oral exam grades shall be announced after the exam and evaluation are completed for all students. In case of disagreements on the final grade between the two instructors, the final grade shall be considered as the arithmetic average of two grades. In instances of large disparities between markers, grades may go to a third instructor for review.
+Người hướng dẫn có đặc quyền duy nhất trong việc chấm điểm học sinh và không thể là đối tượng chịu ảnh hưởng của hành chính. Tuy nhiên, do bị ràng buộc bởi đạo đức, điểm số không được thất thường hoặc liên quan đến bất kỳ thành kiến ​​nào dựa trên chủng tộc, tôn giáo, nguồn gốc quốc gia, khuynh hướng tình dục, giới tính, dân tộc hoặc liên kết cá nhân hoặc nghề nghiệp hoặc bất kỳ lý do nào khác. Giáo viên hướng dẫn nên đồng ý cho điểm nếu học sinh tố cáo có lỗi. Sẽ không có điểm trừng phạt nào được ấn định trừ khi học sinh bị phát hiện đã vi phạm liêm chính trong học tập.
 
-Students who do not attend the final exam without a valid reason shall be considered as having taken the exam once and will receive a zero (0) score in the main exam. These students, if permitted by the Program Director, may retake the exam soon after that (if any).
+Giáo viên hướng dẫn phải báo cáo điểm của lớp đó chậm nhất là bảy (07) ngày làm việc sau ngày cuối cùng của kỳ thi theo lịch trừ khi được sự cho phép của Nhà đăng ký. Nếu người hướng dẫn quyết định thay đổi điểm sau ngày hết hạn, người đó phải nộp điểm bằng văn bản cho Văn phòng Đăng ký kèm theo lời giải thích về việc làm đó.
 
-Students who are absent in the main final exam with a valid reason, with approval by the Program Director, may be allowed a make-up exam. The final exam grade shall be considered as the first-time exam grade. In the absence of a make-up final exam, these students will have to take the exam in the following regular semesters or additional semesters.
+Điểm sẽ không được đăng công khai dưới bất kỳ hình thức nào có thể liên quan đến học sinh cụ thể. Tuy nhiên, số liệu thống kê ẩn danh có thể được đăng tải để sử dụng nội bộ tại Đại học VinUni.
 
-Chapter IV Grading Policy
+Mỗi trường Cao đẳng đặt ra tiêu chí để liên kết với một chuyên ngành, dựa trên điểm tối thiểu trong một số khóa học nhất định và/hoặc điểm trung bình tổng thể.
 
-Article 24. General Principles
+Để cho phép hai hoặc nhiều Khoa cung cấp hoặc yêu cầu một khóa học chung, các khóa học đó có thể được liệt kê cùng với các chỉ định của các khoa khác nhau, để sinh viên từ các chuyên ngành tương ứng của họ có thể áp dụng khóa học đó cho các yêu cầu bằng cấp của họ.
 
-Instructors have the sole prerogative of assigning student grades and cannot be the subject of administrative influence. However, as bound by ethics, grades cannot be capricious or associated with any bias based on race, religion, national origin, sexual orientation, gender, ethnicity or personal or professional affiliation, or any other reason. Instructors should agree to review a grade if the student alleges an error. No punitive grade shall be assigned unless a student was found to have violated academic integrity.
+Điều 25. Hệ thống chấm điểm
 
-Instructors shall report their grades for a class no later than seven (07) business days after the last day of scheduled exams unless they obtain permission from the Registrar. If an instructor decides to change a grade after the due date, s/he shall submit the grade in writing to the Office of Registrar with an explanation for doing so.
+Hệ thống chấm điểm của trường Đại học bao gồm các điểm bằng chữ cái với những điểm cộng và điểm trừ. Điểm đạt nằm trong khoảng từ A đến D–; F là một thất bại.
 
-Grades shall not be posted publicly in any way that may be associated with specific students. However, anonymized statistics may be posted for internal use at VinUniversity.
-
-Each College sets its criteria for affiliation to a major, based on minimum grades in certain courses and/or overall grade-point-average.
-
-To allow two or more Departments to offer or require a course that they have in common, such courses may be co-listed with different departmental designations, so students from their respective majors can apply it toward their degree requirements.
-
-Article 25. Grading System
-
-The University grading system is composed of letter grades with pluses and minuses. Passing grades range from A to D–; F is a fail.
-
-Grade Letter
-4-point scale
+Thư lớp
+thang điểm 4
 
 A
 4.0
 
 A-
-3.7
+3,7
 
 B+
 3.3
@@ -703,348 +687,345 @@ D
 1.0
 
 D-
-0.7
+0,7
 
 F
-0.0
+0,0
 
-Based on the cumulative grade point average (GPA), students’ academic standing is assigned according to Article 16.
+Căn cứ vào điểm trung bình tích lũy (GPA), xếp hạng học tập của sinh viên được xác định theo Điều 16.
 
-Operational grades: Course grades assigned for administrative purposes to assist in the management of student records and do not apply to the GPA. Including:
+Điểm hoạt động: Điểm khóa học được chỉ định cho mục đích hành chính để hỗ trợ quản lý hồ sơ học sinh và không áp dụng cho GPA. Bao gồm:
 
-a. Completion Grades: The Completion Grades (CR, NCR) are used in required credit-bearing courses and non-credit co-curricular requirements where no letter grade will be granted, such as National Defense Education, Leadership Bootcamp.
+một. Điểm Hoàn thành: Điểm Hoàn thành (CR, NCR) được sử dụng trong các khóa học bắt buộc có tín chỉ và các yêu cầu ngoại khóa phi tín chỉ mà không có điểm chữ cái nào được cấp, chẳng hạn như Giáo dục Quốc phòng Quốc gia, Trại huấn luyện Lãnh đạo.
 
-Grade
-Definitions
+Lớp
+định nghĩa
 
 CR
-Completed Requirements (i.e., a Pass grade). The credits and non-credit activities count towards graduation requirements, but they do not contribute to the GPA.
+Yêu cầu đã hoàn thành (tức là điểm Đạt). Các tín chỉ và hoạt động phi tín chỉ được tính vào yêu cầu tốt nghiệp, nhưng chúng không đóng góp vào điểm trung bình.
 
 NCR
-Not Completed Requirement (i.e., a Fail grade). This grade will not be included in the GPA calculation. Students are required to re-take the course or co-curricular activities to fulfill the requirements for graduation.
+Yêu cầu Chưa Hoàn thành (tức là điểm Thất bại). Điểm này sẽ không được tính vào điểm GPA. Sinh viên được yêu cầu phải học lại khóa học hoặc hoạt động ngoại khóa để đáp ứng các yêu cầu để tốt nghiệp.
 
-b. Situational Grades: Similar to the CR/NCR grades, all situational grades equal zero grade points and do not contribute to the GPA.
+b. Điểm tình huống: Tương tự như điểm CR/NCR, tất cả các điểm tình huống đều có điểm bằng 0 và không đóng góp vào GPA.
 
-Grade
-Grade Definitions
+Lớp
+Định nghĩa lớp
 
-I
-Incomplete
-is assigned when a student, for reasons beyond her or his control, is unable to complete the requirements (final exam or required assignments) of a course by the end of the semester. An incomplete grade must be normally converted to a regular grade within six months from the time it is granted.
+tôi
+Chưa hoàn thành
+được chỉ định khi một sinh viên, vì những lý do ngoài tầm kiểm soát của mình, không thể hoàn thành các yêu cầu (bài kiểm tra cuối kỳ hoặc bài tập bắt buộc) của khóa học vào cuối học kỳ. Thông thường, điểm chưa hoàn thành phải được chuyển đổi thành điểm thông thường trong vòng sáu tháng kể từ thời điểm được cấp.
 
-The student must request the Registrar (who then notifies the course instructor), together with relevant supporting documents (such as official medical records). Upon assigning an incomplete grade, the instructor must specify a period (deadline) for made-up work.  The final decision as to whether an incomplete may be given rests with the instructor; however, the maximum time limit is subject to University policy. If the work is not made up during the required period, the incomplete will be converted to an F.
+Sinh viên phải yêu cầu Nhà đăng ký (người sau đó sẽ thông báo cho người hướng dẫn khóa học) cùng với các tài liệu hỗ trợ có liên quan (chẳng hạn như hồ sơ y tế chính thức). Khi cho điểm chưa đầy đủ, người hướng dẫn phải xác định thời gian (thời hạn) để làm bài bù.  Quyết định cuối cùng về việc liệu một bài chưa hoàn chỉnh có được đưa ra hay không sẽ thuộc về người hướng dẫn; tuy nhiên, giới hạn thời gian tối đa tùy thuộc vào chính sách của trường Đại học. Nếu tác phẩm không được hoàn thành trong thời gian yêu cầu, phần chưa hoàn thành sẽ được chuyển thành điểm F.
 
 IP
-In-Progress
-Courses are typically taught in one semester, except projects such as capstone design or senior thesis. IP-grades are awarded for such projects spanning more than one semester. When the project is completed, all relevant IP-grades are replaced by the final grade.
+Đang tiến hành
+Các khóa học thường được giảng dạy trong một học kỳ, ngoại trừ các dự án như thiết kế capstone hoặc luận văn cao cấp. Cấp IP được trao cho các dự án như vậy kéo dài hơn một học kỳ. Khi dự án hoàn thành, tất cả các cấp IP có liên quan sẽ được thay thế bằng cấp cuối cùng.
 
 MT
-Multi-term (A/B)
-Courses usually span from multiple terms and each course term is identified with a letter. “A” for the first half and “B” for the second half. MT is also a grade that can appear on students’ transcripts for the first term(s) of a multi-term course. The final grade shows in the final term of the course.
+Nhiều kỳ hạn (A/B)
+Các khóa học thường kéo dài từ nhiều học kỳ và mỗi học kỳ được xác định bằng một chữ cái. “A” cho nửa đầu và “B” cho nửa sau. MT cũng là điểm có thể xuất hiện trên bảng điểm của học sinh trong (các) học kỳ đầu tiên của khóa học nhiều học kỳ. Điểm cuối cùng thể hiện ở học kỳ cuối cùng của khóa học.
 
 NGR
-No Grade Report
-This indicates that due to circumstances beyond the control of the student the Office of the Registrar did not receive the grade. The NR grade should be replaced by a letter grade as soon as possible and/or no later than graduation.
+Không có báo cáo điểm
+Điều này cho thấy rằng do hoàn cảnh nằm ngoài tầm kiểm soát của sinh viên nên Văn phòng Nhà đăng ký đã không nhận được điểm. Điểm NR phải được thay thế bằng điểm chữ cái càng sớm càng tốt và/hoặc không muộn hơn ngày tốt nghiệp.
 
 W
-Withdrawn
-Assigned when a student has registered for the course in a semester but has subsequently submitted a notification of withdrawal to the University. If the student withdraws before the “Drop Date” for each semester, no W grade should be recorded on the transcript.
+Đã rút
+Được chỉ định khi một sinh viên đã đăng ký khóa học trong một học kỳ nhưng sau đó đã gửi thông báo rút lui cho Trường. Nếu học sinh rút tên trước “Ngày thôi học” của mỗi học kỳ thì điểm W sẽ không được ghi vào bảng điểm.
 
-Minimum credit threshold decisions have to be driven by academic policy and reflected on the system.
+Các quyết định về ngưỡng tín dụng tối thiểu phải được định hướng bởi chính sách học thuật và được phản ánh trên hệ thống.
 
 T
-Transfer
-Assigned when a course is approved for transfer of credits
+Chuyển khoản
+Được chỉ định khi một khóa học được phê duyệt để chuyển tín chỉ
 
 Z
-Exemption
-Assigned when a required course is exempted
+Miễn trừ
+Được chỉ định khi miễn một khóa học bắt buộc
 
-c. Audit Grades: With the permission of the course instructor, students may register in a course for Audit, attend the course, and participate in course activities. Auditing students will not be awarded a grade or earn credits. Subject to the satisfactory completion of requirements set by the Program Director, the course will be designated AU on the student’s transcript. Otherwise, the course will be removed from the registration record. Specific conditions are determined by University policy and relevant Colleges’ policies.
+c. Điểm kiểm tra: Với sự cho phép của người hướng dẫn khóa học, sinh viên có thể đăng ký khóa học Kiểm toán, tham dự khóa học và tham gia các hoạt động của khóa học. Học sinh làm bài kiểm tra sẽ không được chấm điểm hoặc kiếm được tín chỉ. Tùy thuộc vào việc hoàn thành thỏa đáng các yêu cầu do Giám đốc Chương trình đặt ra, khóa học sẽ được chỉ định là AU trên bảng điểm của sinh viên. Nếu không, khóa học sẽ bị xóa khỏi hồ sơ đăng ký. Các điều kiện cụ thể được xác định bởi chính sách của Trường Đại học và các chính sách của Trường Cao đẳng có liên quan.
 
-d. Satisfactory/Unsatisfactory Grades: The purpose of the Satisfactory/Unsatisfactory (S/U) system is to encourage students to venture into courses outside their main areas of familiarity without great risk to the academic record.  The distinction between S and U is not the same, however, as that between pass and fail in the letter-grade system. In the S/U system, S indicates performance that would be graded C- or higher, and U indicates performance that would be graded below a C-. Students earn credit toward the fulfillment of graduation requirements for course grades of S, but not for course grades of U. Grades of S or U are not assigned a numerical value and thus are not averaged with other grades in computing GPA. In calculating GPA, S/U grades are similar to the CR/NCR grades. The maximum number of times that students can exercise the S/U option and other specific conditions is determined by University policy and relevant Colleges’ policies.
+d. Điểm Đạt/Không Đạt: Mục đích của hệ thống Đạt/Không Đạt (S/U) là khuyến khích sinh viên tham gia các khóa học ngoài lĩnh vực quen thuộc chính của họ mà không gặp rủi ro lớn đối với hồ sơ học tập.  Tuy nhiên, sự khác biệt giữa S và U không giống nhau như sự khác biệt giữa đậu và trượt trong hệ thống chấm điểm theo chữ cái. Trong hệ thống S/U, S biểu thị hiệu suất sẽ được xếp loại C- hoặc cao hơn và U biểu thị hiệu suất sẽ được xếp loại dưới điểm C-. Học sinh nhận được tín chỉ để hoàn thành các yêu cầu tốt nghiệp đối với điểm khóa học S, nhưng không phải đối với điểm khóa học U. Điểm S hoặc U không được gán một giá trị bằng số và do đó không được tính trung bình với các điểm khác trong tính toán GPA. Khi tính điểm GPA, điểm S/U tương tự như điểm CR/NCR. Số lần tối đa mà sinh viên có thể thực hiện tùy chọn S/U và các điều kiện cụ thể khác được xác định theo chính sách của Trường Đại học và chính sách của Trường Cao đẳng liên quan.
 
-Article 26. Course Grade and GPA Calculation
+Điều 26. Điểm học phần và cách tính điểm trung bình
 
-Component grades and final exam grades of a course are ranked on a 100-point scale (from 0% – 100%). Scores are rounded down from .01-0.49 and up from 0.5-0.99 (for example, 59.6% would be rounded up to 60%; 89.4% would be rounded down to 89%).
+Điểm thành phần và điểm thi cuối khóa của một môn học được xếp theo thang điểm 100 (từ 0% – 100%). Điểm được làm tròn xuống từ 0,01-0,49 và tăng từ 0,5-0,99 (ví dụ: 59,6% sẽ được làm tròn lên 60%; 89,4% sẽ được làm tròn xuống 89%).
 
-As per the Ministry of Education and Training’s guideline, students receiving less than 40% out of 100% of total assessment will get a failing grade (F). Colleges may have additional conditions for passing a class beyond getting a minimum of 40% on the total assessment.
+Theo hướng dẫn của Bộ Giáo dục và Đào tạo, học sinh đạt dưới 40% trên 100% tổng điểm sẽ bị điểm kém (F). Các trường cao đẳng có thể có những điều kiện bổ sung để vượt qua một lớp học ngoài việc đạt được tối thiểu 40% tổng điểm đánh giá.
 
-The final course grade is the sum of all components and final exam grades multiplied by the corresponding weight, converted to a 4-point scale and letter grade as described in Article 25. The course instructor will be responsible for converting quantitative assessment from the course to the final letter grade. The grading policy should be clearly described in the syllabus before the start of the class and should not be changed during the semester. When multiple instructors are assigned to teach different sessions of the same course, it is expected that a similar grading policy will be used. The College can develop more specific grading and student assessment procedure based on the above guideline and get approval from the Dean (Head of Faculty).
+Điểm cuối môn là tổng của tất cả các thành phần và điểm thi cuối môn nhân với trọng số tương ứng, quy về thang điểm 4 và điểm chữ như quy định tại Điều 25. Người hướng dẫn môn học có trách nhiệm chuyển đánh giá định lượng từ môn học sang điểm chữ cuối môn. Chính sách chấm điểm phải được mô tả rõ ràng trong giáo trình trước khi bắt đầu lớp học và không được thay đổi trong học kỳ. Khi nhiều người hướng dẫn được phân công giảng dạy các buổi khác nhau của cùng một khóa học, dự kiến ​​rằng chính sách chấm điểm tương tự sẽ được sử dụng. Nhà trường có thể xây dựng quy trình chấm điểm, đánh giá sinh viên cụ thể hơn dựa trên hướng dẫn trên và được sự chấp thuận của Trưởng khoa (Trưởng khoa).
 
-Before calculating semester GPA and cumulative GPA, the letter grade will be converted into a 4-point scale.
+Trước khi tính điểm trung bình học kỳ và điểm trung bình tích lũy, điểm chữ sẽ được quy đổi sang thang điểm 4.
+Điểm trung bình học kỳ (SGPA) được tính cho tất cả các khóa học trong một học kỳ, bao gồm cả các khóa học không đạt, nhưng không bao gồm các khóa học được xếp loại CR, NCR, IP, MT, I, NR, S, U, W, Z. Điểm này được tính theo đơn vị tín chỉ cho mỗi khóa học đã tham gia.
 
-The Semester Grade Point Average (SGPA) is calculated for all courses taken in one semester, including failed courses, but excluding courses graded CR, NCR, IP, MT, I, NR, S, U, W, Z. It is weighted by the credit units for each course taken.
+Điểm trung bình tích lũy (CGPA) được tính cho tất cả các khóa học mà sinh viên đã tham gia trong quá trình đăng ký một chương trình cụ thể. Nó phản ánh kết quả học tập của sinh viên trong tất cả các học kỳ cho đến học kỳ mới nhất. Việc tính toán tương tự như SGPA ngoại trừ việc lặp lại khóa học, chỉ lần thử mới nhất mới được đưa vào tính toán CGPA.
 
-The Cumulative GPA (CGPA) is calculated for all courses taken by the student during enrollment for a specific program. It reflects the student’s performance for all semesters up to the latest semester of study. The computation is the same as the SGPA except that for course repeats, only the latest attempt is included in the CGPA calculation.
+Điểm trung bình được tính tối đa 2 chữ số thập phân với chữ số thứ 3 được làm tròn lên số nguyên gần nhất. (tức là 3,375 trở thành 3,38 trong khi 3,372 trở thành 3,37).
 
-Grade Point Averages are calculated up to 2 decimal digits with the 3rd digit rounded up toward the nearest integer. (i.e. 3.375 becomes 3.38 whereas 3.372 becomes 3.37).
+Cả SGPA và CGPA đều được hiển thị trên bảng điểm của học sinh.
 
-Both the SGPA and CGPA are shown on students’ transcripts.
+Kết quả của một số khóa học như Giáo dục Quốc phòng và Giáo dục Thể chất không được tính vào GPA. Các quy định về đánh giá kết quả và cấp chứng chỉ cho các khóa học này do Bộ Giáo dục và Đào tạo quy định.
 
-Results of some courses like National Defense Education and Physical Education are not counted toward GPA. The regulations on result evaluation and granting of certificates for these courses are set out by the Ministry of Education and Training.
+Điểm trung bình học kỳ sẽ được sử dụng để đánh giá thành tích học tập, học bổng, hỗ trợ tài chính và giải thưởng sau mỗi học kỳ thông thường (dựa trên kết quả của bài kiểm tra cuối kỳ ở kỳ thi định kỳ đầu tiên).
 
-The Semester GPA will be used for academic distinction, scholarships, financial aids, and awards after each regular semester (based on the result of the final exam at the first regular exam).
+Điểm trung bình học kỳ và điểm trung bình tích lũy sẽ được sử dụng để xem xét bỏ học, xếp hạng học tập và phân loại giải thưởng tốt nghiệp (dựa trên điểm thi cuối kỳ cao nhất trong các kỳ thi).
 
-The Semester GPA and Cumulative GPA will be used for consideration of drop-out, academic standing, and classification of awards for graduation (based on the highest final exam score on the exams).
+Điều 27. Khiếu nại điểm
 
-Article 27. Grade Appeal
+Nếu điểm khóa học được tính không chính xác, sinh viên nên thông báo cho người hướng dẫn ngay khi điểm được công bố. Trường hợp có sai sót về văn thư hoặc hành chính, bộ phận hoặc đơn vị chịu trách nhiệm về khóa học sẽ báo cáo sổ điểm đã sửa lại cho Văn phòng Đăng ký.
 
-If a course grade has been calculated incorrectly, students should inform the instructor as soon as grades are released. Where a clerical or administrative error has been made, the department or unit responsible for the course will report the revised gradebook to the Office of Registrar.
+Nếu mối quan ngại của học sinh vẫn không được giải quyết sau khi nói chuyện với người hướng dẫn, học sinh có thể khiếu nại quyết định này lên Văn phòng Đăng ký trong vòng năm (05) ngày làm việc sau khi đăng điểm chính thức trên Canvas. Quy trình chi tiết có thể xem tại đây: https://policy.vinuni.edu.vn/all-policies/student-grade-appeal-procedure/
 
-If a student’s concern remains unresolved after talking to the instructor, s/he may appeal the decision to the Registrar Office within five (05) working days after the official grade posting on Canvas. The detailed procedure can be found here: https://policy.vinuni.edu.vn/all-policies/student-grade-appeal-procedure/
+Chương V Trao Bằng khen và Tốt nghiệp
 
-Chapter V Conferral of Awards and Graduation
+Điều 28. Công nhận tốt nghiệp
 
-Article 28. Recognition of Graduation
+Sinh viên nộp hồ sơ xét tốt nghiệp trong học kỳ dự kiến tốt nghiệp theo đúng thủ tục do Nhà trường công bố.
 
-Students should file an application for graduation during their intended graduation semester in accordance with the procedures announced by the University.
+Những sinh viên đã nộp đơn xin tốt nghiệp nhưng không hoàn thành thành công tất cả các yêu cầu học tập của mình vào cuối học kỳ/học kỳ tốt nghiệp dự định phải nộp đơn xin tốt nghiệp lại.
 
-Students who have applied for graduation but do not successfully complete all their academic requirements by the end of the intended graduation semester/term must re-apply for graduation.
+Để được cấp bằng, sinh viên phải đáp ứng tất cả các điều kiện dưới đây:
 
-To be awarded a degree, a student must satisfy all of the below conditions:
+Hoàn thành yêu cầu tín chỉ tối thiểu trong thời gian ứng cử cho mỗi chương trình;
 
-Complete the minimum credits requirement within the period of candidature for each program;
+Hoàn thành các yêu cầu về Giáo dục phổ thông/VinCore và trình độ tiếng Anh;
 
-Complete General Education/VinCore and English proficiency requirements;
+Hoàn thành các yêu cầu của chuyên ngành do mỗi Trường quy định;
 
-Complete the requirements for the major, defined by each College;
+Giải quyết bất kỳ điểm “I – ​​Chưa hoàn thành” nào cho các khóa học bắt buộc trong hồ sơ;
 
-Resolve any “I – Incomplete” grade for required courses from the record;
+Đạt điểm trung bình tích lũy (GPA) tối thiểu ở mức 2,00/4,00 cho tất cả các khóa học trong chương trình cấp bằng;
 
-Earn a minimum cumulative grade point average (GPA) at 2.00/4.00 for all courses within the degree program;
+Cho đến thời điểm xét tốt nghiệp, chưa bị chứng minh phạm tội hình sự.
 
-Until the time of graduation consideration, not have been proven guilty of a criminal offense.
+Thực hiện các yêu cầu khác theo quy định, thủ tục của Nhà trường;
 
-Fulfill other requirements of the University’s regulations and procedures;
+Theo đề nghị của Hội đồng xét tốt nghiệp, Hiệu trưởng ký quyết định công nhận tốt nghiệp cho sinh viên đủ điều kiện.
 
-On the proposal of the Graduation Review Board, the Provost shall sign decisions on recognition of graduation for eligible students.
+Hội đồng xét tốt nghiệp sẽ do Hiệu trưởng hoặc người được chỉ định làm Chủ tịch, Trưởng phòng Đăng ký làm Thư ký và các thành viên khác bao gồm người đứng đầu các đơn vị học thuật và Trưởng phòng Quản lý công tác sinh viên.
 
-The Graduation Review Board shall be chaired the Provost or a designated person as the Chairperson, Head of Registrar as the Secretary, and other members including the heads of academic units and head of Student Affairs Management.
+Điều 29. Trao và phân loại giải thưởng
 
-Article 29. Conferment and Classification of Awards
+Bằng cấp cấp cho sinh viên sẽ được xác định theo chuyên ngành chính của sinh viên, phù hợp với yêu cầu của Bộ GD&ĐT.
 
-The degree awarded to students will be determined by the student’s home major, in accordance with MOET’s requirements.
+Các giải thưởng của trường đại học được phân loại bởi Ủy ban Học thuật Đại học có liên quan, cơ quan này sẽ đưa ra khuyến nghị cho Hiệu trưởng về việc trao giải thưởng.
+Trường cấp bằng cử nhân với các phân loại sau dựa trên điểm trung bình tích lũy:
 
-University awards are classified by the relevant College Academic Committee, which makes a recommendation to the Provost for the conferment of awards.
+Phân loại giải thưởng
+Điểm trung bình tích lũy
 
-The University grants bachelor’s degrees with the following classifications based on the cumulative grade point average:
+Tuyệt vời
+3,60 đến 4,00
 
-Classification of Awards
-Cumulative GPA
+Rất tốt
+3,20 đến 3,59
 
-Excellent
-3.60 to 4.00
+Tốt
+2,50 đến 3,19
 
-Very Good
-3.20 to 3.59
-
-Good
-2.50 to 3.19
-
-Marginal
-2.00 to 2.49
+cận biên
+2,00 đến 2,49
 
  
 
-Degrees with Excellent and Very Good awards shall be degraded one level if any of the following is true:
+Các Bằng cấp Xuất sắc và Rất Tốt sẽ bị giảm một bậc nếu đúng một trong các điều sau đây:
 
-The number of credits from courses that were re-taken accounts for over 5 percent of total credits in the program; Re-taken courses will include the failed courses only and will not count for courses retaken to improve grades.
+Số tín chỉ của các học phần được học lại chiếm trên 5% tổng số tín chỉ của chương trình; Các khóa học được học lại sẽ chỉ bao gồm các khóa học bị trượt và sẽ không được tính cho các khóa học được học lại để cải thiện điểm số.
 
-Student has been disciplined at the warning level or higher during their study time.
+Sinh viên đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học tập.
 
-Academic results must be shown on the transcript. The transcript shall record the major (the main major), and/or concentration, and/or (the major-minor).
+Kết quả học tập phải được thể hiện trên bảng điểm. Bảng điểm ghi môn học chính (chuyên ngành chính), và/hoặc mức độ tập trung và/hoặc (chuyên ngành chính-thứ).
 
-If the student’s academic performance meets the requirements of Clause 3, Article 28 of this Regulation, for some academic programs (i.e. double degrees) corresponding to different majors, students may be granted other diplomas corresponding to those majors.
+Nếu kết quả học tập của sinh viên đáp ứng yêu cầu tại khoản 3 Điều 28 Quy định này thì đối với một số chương trình đào tạo (tức là bằng kép) tương ứng với các chuyên ngành khác nhau, sinh viên có thể được cấp bằng khác tương ứng với chuyên ngành đó.
 
-Students who still owe certificates of National Defense Education and have not yet complete Physical Education course, but whose maximum time allowed to study has expired, can return to the University to complete the above certificates to be eligible for graduation within three (03) years from the completion of their studies.
+Sinh viên còn nợ chứng chỉ Giáo dục quốc phòng và chưa hoàn thành môn Giáo dục thể chất nhưng đã hết thời gian học tối đa có thể quay trở lại Trường để hoàn thành các chứng chỉ trên để được xét tốt nghiệp trong thời hạn ba (03) năm kể từ ngày học xong.
 
-Students who do not graduate will be issued an academic transcript which includes all courses completed or enrolled.
+Những sinh viên không tốt nghiệp sẽ được cấp bảng điểm học tập bao gồm tất cả các khóa học đã hoàn thành hoặc đăng ký.
 
-Chapter VI Academic Integrity
+Chương VI Liêm chính trong học tập
 
-Academic integrity is a significant component of higher education for students to learn, experience, and adopt the highest ethical standards. At VinUniversity, student misconduct in academic matters is not tolerated.
+Liêm chính trong học tập là một thành phần quan trọng của giáo dục đại học để sinh viên học tập, trải nghiệm và áp dụng các tiêu chuẩn đạo đức cao nhất. Tại Đại học VinUni, hành vi sai trái của sinh viên trong vấn đề học tập là không được dung thứ.
 
-Students of VinUniversity agree to abide by a pledge of academic integrity, whereby students agree individually and collectively that they will not violate academic integrity in any activity that is associated with gradings, such as exams, take-home exams, or reports. In doing so, students will actively discourage others to violate the pledge.
+Sinh viên Đại học VinUni đồng ý tuân thủ cam kết về liêm chính trong học tập, theo đó sinh viên đồng ý với cá nhân và tập thể rằng họ sẽ không vi phạm liêm chính trong học tập trong bất kỳ hoạt động nào liên quan đến việc chấm điểm, chẳng hạn như thi cử, bài thi mang về nhà hoặc báo cáo. Khi làm như vậy, học sinh sẽ tích cực ngăn cản người khác vi phạm lời cam kết.
 
-During their professional internships, students must continue to uphold these standards as guided by their industry mentors. In particular, they are expected to abide by non-disclosure agreements as agreed with their host company.
+Trong quá trình thực tập nghề nghiệp, sinh viên phải tiếp tục duy trì các tiêu chuẩn này theo hướng dẫn của các cố vấn trong ngành. Đặc biệt, họ phải tuân thủ các thỏa thuận không tiết lộ thông tin như đã thỏa thuận với công ty chủ quản.
 
-The University’s Academic Integrity policy describes in detail the expectations from all VinUniversity students, faculty, and staff regarding maintaining absolute integrity and honesty in all university activities.
+Chính sách Liêm chính trong học thuật của Nhà trường mô tả chi tiết những mong đợi của tất cả sinh viên, giảng viên và nhân viên Đại học VinUni về việc duy trì sự liêm chính và trung thực tuyệt đối trong mọi hoạt động của nhà trường.
 
-Chapter VII Implementation
+Chương VII Thực hiện
 
-Article 30. Implementation
+Điều 30. Thi hành
 
-The Academic Regulation document may be revised to comply with any subsequent regulation from MOET.
+Tài liệu Quy chế học thuật có thể được sửa đổi để tuân thủ mọi quy định tiếp theo của Bộ GD&ĐT.
 
-These Rules and Regulations shall be applied to students enrolled in or after the year 2020.
+Các Quy tắc và Quy định này sẽ được áp dụng cho các sinh viên đăng ký vào hoặc sau năm 2020.
 
-Faculties, Colleges, the Office of Registrar, and other relevant Units and individuals are responsible for the implementation of these Rules and Regulations.
+Các Khoa, Cao đẳng, Văn phòng Đăng ký và các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quy chế này.
 
-The Provost has the authority to adjust, supplement, amend, and promulgate these Rules and Regulations to align with practical implementation.
+Hiệu trưởng có thẩm quyền điều chỉnh, bổ sung, sửa đổi và ban hành các Quy tắc, Quy định này để phù hợp với thực tế triển khai.
 
-APPENDIX
+PHỤ LỤC
 
-Attendance Policy at Medical Doctor Program
+Chính sách tham dự tại Chương trình Bác sĩ Y khoa
 
-Status and Details
+Trạng thái và chi tiết
 
-This document specifies rules and regulations that govern educational arrangements, examinations, assessment, grading, and graduation requirements based on an academic credit system for full-time undergraduate students at VinUniversity.
+Văn bản này quy định cụ thể các nguyên tắc, quy định chi phối việc tổ chức học tập, thi cử, đánh giá, xếp loại và tốt nghiệp theo hệ thống tín chỉ học thuật dành cho sinh viên hệ đại học hệ chính quy tại Đại học VinUni.
 
-Reference Number:
+Số tham chiếu:
 
 VU_HT03
 
-Document Type:
+Loại tài liệu:
 
-Policy
+Chính sách
 
-Issuing By:
+Phát hành bởi:
 
-Educational Affairs Committee
+Ủy ban Công tác Giáo dục
 
-Issuing Date:
+Ngày phát hành:
 
-Oct 30, 2024
+Ngày 30 tháng 10 năm 2024
 
-Applying for:
+Đăng ký:
 
-All VinUniversity
+Tất cả trường đại học VinUni
 
-Security Classification:
+Phân loại bảo mật:
 
-Public
+công cộng
 
-Related Documents and Forms:
+Các tài liệu và biểu mẫu liên quan:
 
-Procedural Guidelines for Credit Transfer Requests 
+Hướng dẫn thủ tục cho yêu cầu chuyển tín dụng 
 
-Record of Changes
+Hồ sơ thay đổi
 
-Revision
+Sửa đổi
 
-Date
+Ngày
 
-Author / Editor
+Tác giả/Biên tập viên
 
-Description
+Mô tả
 
 V1.0 
 
-May 22, 2020 
+Ngày 22 tháng 5 năm 2020 
 
-Prepared by: Head of Registrar
+Người chuẩn bị: Trưởng phòng đăng ký
 
-Reviewed by: Dean and Senior Faculty
+Người phản biện: Trưởng khoa và giảng viên cao cấp
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Submitted to MOET for legal procedure 
+Đã trình Bộ GD&ĐT làm thủ tục pháp lý 
 
 V2.0 
 
-May 25, 2020 
+Ngày 25 tháng 5 năm 2020 
 
-Prepared by: Head of Registrar 
+Người chuẩn bị: Trưởng phòng đăng ký
+Người phản biện: Trưởng khoa và giảng viên cao cấp 
 
-Reviewed by: Dean and Senior Faculty 
+Người phê duyệt: Provost 
 
-Approved by: Provost 
-
-Revised version for the academic year implementation 
+Phiên bản sửa đổi để thực hiện năm học 
 
 V3.0 
 
-Aug 26, 2020 
+Ngày 26 tháng 8 năm 2020 
 
-Reviewed by: Educational Affairs Committee
+Người xét duyệt: Ủy ban Công tác Giáo dục
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Revised Article 5, Article 6, Article 16, Article 17, Article 18, Article 19, Article 22, Article 23, Article 25, Article 26, Article 29. 
+Sửa đổi Điều 5, Điều 6, Điều 16, Điều 17, Điều 18, Điều 19, Điều 22, Điều 23, Điều 25, Điều 26, Điều 29. 
 
 V4.0 
 
-Oct 05, 2020 
+Ngày 05 tháng 10 năm 2020 
 
-Reviewed by: Registrar and Vice-Provost Office
+Người xét duyệt: Nhà đăng ký và Phó Hiệu trưởng
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Article 4, Article 6, Article 7, Article 10, Article 11, Article 12, Article 13, Article 14, Article 15, Article 16, Article 17, Article 19, Article 20, Article 21, Article 22, Article 24, Article 28, Chapter VI 
+Điều 4, Điều 6, Điều 7, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, Điều 16, Điều 17, Điều 19, Điều 20, Điều 21, Điều 22, Điều 24, Điều 28, Chương VI 
 
 V5.0 
 
-Aug 24, 2021 
+Ngày 24 tháng 8 năm 2021 
 
-Reviewed by: Registrar, Deans/Vice-Deans, Program Directors
+Người đánh giá: Nhà đăng ký, Trưởng khoa/Phó trưởng khoa, Giám đốc chương trình
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Articles 4,5,7,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26 
+Các bài viết 4,5,7,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26 
 
 V5.1 
 
-Apr 07, 2023 
+Ngày 07 tháng 4 năm 2023 
 
-Reviewed by: Registrar, Deans/Vice-Deans, Program Directors
+Người đánh giá: Nhà đăng ký, Trưởng khoa/Phó trưởng khoa, Giám đốc chương trình
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Revise to update more details on Article 19: Double Degree 
+Chỉnh sửa để cập nhật chi tiết hơn Điều 19: Bằng kép 
 
 V6.0 
 
-Jun 30, 2023 
+Ngày 30 tháng 6 năm 2023 
 
-Reviewed by: Registrar, Deans/Vice-Deans, Program Directors
+Người đánh giá: Nhà đăng ký, Trưởng khoa/Phó trưởng khoa, Giám đốc chương trình
 
-Approved by: Provost
+Người phê duyệt: Provost
 
-Revise Article 12 (Class Attendance) and Article 21 (Course Add, Drop, and Withdrawal). 
+Sửa đổi Điều 12 (Tham dự lớp học) và Điều 21 (Thêm, bỏ và rút khóa học). 
 
 V7.0 
 
-Dec 28, 2023 
+Ngày 28 tháng 12 năm 2023 
 
-Reviewed by: Registrar, Deans/Vice-Deans, Program Directors
+Người đánh giá: Nhà đăng ký, Trưởng khoa/Phó trưởng khoa, Giám đốc chương trình
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Revise to update Article 2. Medium of instruction and Assessment 
+Sửa đổi để cập nhật Điều 2. Phương tiện giảng dạy và đánh giá 
 
 V8.0 
 
-May 21, 2024 
+Ngày 21 tháng 5 năm 2024 
 
-Reviewed by: Registrar, Deans/Vice-Deans, Program Directors
+Người đánh giá: Nhà đăng ký, Trưởng khoa/Phó trưởng khoa, Giám đốc chương trình
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Major updates as below: 
+Cập nhật chính như sau: 
 
-• Article 7: Independent Study Week
+• Điều 7: Tuần học độc lập
 
-• Article 12: Add/Drop period
+• Điều 12: Thời gian cộng/bớt
 
-• Article 16: Student Classification and Academic Standing 
+• Điều 16: Phân loại học sinh và thành tích học tập 
 
-• Article 18: Dean’s List selection criteria
+• Điều 18: Tiêu chí lựa chọn Danh sách Trưởng khoa
 
-• Article 25: Remove grade “E” 
+• Điều 25: Bỏ điểm “E” 
 
-• Article 29: Clarify that grade improvement courses will not be recognized as retaken courses. 
+• Điều 29: Làm rõ các môn nâng cao điểm sẽ không được tính là học lại. 
 
 V8.1 
 
-Oct 30, 2024 
+Ngày 30 tháng 10 năm 2024 
 
-Reviewed by: Associate Vice Provost, Educational Affairs Committee
+Người duyệt xét: Phó Hiệu trưởng, Ủy ban Công tác Giáo dục
 
-Approved by: Provost
+Người phê duyệt: Provost
 
-Review Articles 02, 05, 14, 18, 28 
+Rà soát các bài 02, 05, 14, 18, 28 
 
-PDF version
+Phiên bản PDF
 
-You can download this document here: Academic Regulations for Full-Time Undergraduate Programs
+Bạn có thể tải tài liệu này tại đây: Quy chế học tập cho chương trình đại học toàn thời gian

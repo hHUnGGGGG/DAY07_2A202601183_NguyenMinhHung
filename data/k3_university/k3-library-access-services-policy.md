@@ -7,386 +7,382 @@ document_version: "not-stated"
 audience: "student"
 department: "library"
 category: "library-services"
-language: "en"
----
+language: "vi"
+---# Chính sách dịch vụ và truy cập thư viện
 
-# Library Access & Services Policy
+I.    MỤC ĐÍCH
 
-I.    PURPOSES
+Cung cấp hướng dẫn cho khách hàng sử dụng tài nguyên, dịch vụ và cơ sở vật chất của thư viện.
 
-To provide guidance for library patrons about the use of library resources, services, and facilities.
+II. QUY ĐỊNH CHUNG VỀ THƯ VIỆN
 
-II. GENERAL LIBRARY REGULATIONS
+1.   Quy định chung
 
-1.   General regulations
+1.1.   Giờ mở cửa
 
-1.1.   Opening hours
+Giờ mở cửa của thư viện có thể thay đổi trong thời gian thi, ngày lễ, kỳ nghỉ hè và sẽ được dán ở lối vào thư viện chính và trên thư viện.
 
-Library opening hours are subject to change during exam periods, holidays, and summer break and will be posted at the main library entrance and on the library .
+Trong học kỳ
+Kỳ thi/mùa hè
+Ngày lễ quốc gia
 
-In-Semester
-Exam/ summertime
-National holidays
+Thứ Hai-Thứ Sáu
+Thứ Bảy-Chủ Nhật
 
-Monday-Friday
-Saturday-Sunday
+Lối vào chính
+8:00 sáng – 9:00 tối
+9:00 sáng – 5:00 chiều
+Để được xác định
+Đã đóng
 
-Main entrance
-8:00 am – 9:00pm
-9:00 am – 5:00 pm
-To be determined
-Closed
+Không gian học tập 24/7
+Mở cửa 24/7
 
-24/7 learning space
-Open 24/7
+lối vào tầng 2
+8:30 sáng – 5:30 chiều
+Đóng cửa (Chỉ mở cửa vào các ngày Thứ Bảy làm việc từ 8:30 sáng - 5:30 chiều)
+8:30 sáng - 5:30 chiều
+Đã đóng
 
-2nd floor entrance
-8:30 am – 5:30 pm
-Closed (Only open on working Saturdays from 8:30am- 5:30pm)
-8:30 am- 5:30 pm
-Closed
+ 1.2.   Truy cập thư viện
 
- 1.2.   Library access
+Yêu cầu ID VinUni: Chỉ sinh viên, giảng viên và nhân viên có ID VinUni hợp lệ mới có thể vào thư viện, mượn tài liệu hoặc sử dụng tài nguyên điện tử. ID phải được hiển thị khi được yêu cầu.
 
-VinUni ID Required: Only students, faculty, and staff with a valid VinUni ID can enter the library, borrow items, or use electronic resources. IDs must be shown when requested.
+Người dùng không thường xuyên: Giảng viên phụ trợ, giảng viên trực thuộc và nhân viên của Tập đoàn VinGroup hoặc đối tác đủ điều kiện có thể đăng ký truy cập thông qua trang web của thư viện.
 
-Non-Regular Users: Adjunct, affiliated faculty, and eligible Vingroup or partner staff may apply for access via the on the library website.
+Hạn chế truy cập: Tài nguyên và cơ sở vật chất của thư viện chỉ dành cho thành viên VinUni. Việc chia sẻ ID hoặc thẻ VinUni của bạn bị nghiêm cấm.
 
-Access Restriction: Library resources and facilities are for VinUni members only. Sharing your VinUni ID or card is strictly forbidden.
+Quy tắc an ninh: Không bao giờ mở cửa cho người khác hoặc để cửa mở. Nếu bạn nhận thấy hành vi vi phạm hoặc có thắc mắc, hãy liên hệ với Bảo vệ theo số (0247 108 9779 máy lẻ 9901) hoặc báo cho nhân viên trực.
 
-Security Rule: Never open the door for others or leave it propped open. If you notice a breach or have concerns, contact Security at (0247 108 9779 ext. 9901) or alert the on-duty officer.
+ 1.3.   Quy tắc lịch sự và an toàn
 
- 1.3.   Courtesy & Safety Rules
+Người sử dụng thư viện phải:
 
-Library users must:
+Tôn trọng tài sản: Không làm hư hỏng, di chuyển hoặc thay đổi tài liệu hoặc thiết bị thư viện mà không được phép. Việc giả mạo mạng bị nghiêm cấm.
 
-Respect Property: Do not damage, move, or alter library materials or equipment without permission. Tampering with the network is strictly prohibited.
+Giữ gìn vệ sinh: Thực hành vệ sinh tốt và vứt rác đúng cách.
 
-Maintain Cleanliness: Practice good hygiene and dispose of trash properly.
+Hãy cân nhắc: Giảm tiếng ồn. Không nói chuyện lớn hoặc phát âm thanh. Điện thoại phải ở chế độ im lặng/rung.
 
-Be Considerate: Keep noise down. No loud talking or playing audio. Phones must be on silent/vibrate.
+Sử dụng thiết bị an toàn: Học cách sử dụng đồ nội thất/thiết bị đúng cách. Thư viện không chịu trách nhiệm về thương tích hoặc thiệt hại do sử dụng sai mục đích.
 
-Use Equipment Safely: Learn how to use furniture/equipment properly. The library is not liable for injury or damage from misuse.
+Yêu cầu quyền: Để chụp ảnh/quay video hoặc sử dụng cơ sở đặc biệt, hãy gửi email: [email được bảo vệ].
 
-Request Permission: For photo/video shoots or special facility use, email: [email protected].
+Các vật dụng/hành động bị cấm:
 
-Prohibited Items/Actions:
+Không hút thuốc hoặc vaping (kể cả trong sân)
 
-No smoking or vaping (including in the courtyard)
+Không có động vật, xe đạp, ván trượt hoặc các vật dụng tương tự
 
-No animals, bikes, skateboards, or similar items
+Không có thức ăn; chỉ cho phép đồ uống không cồn, chống tràn
 
-No food; only spill-proof, non-alcoholic drinks allowed
+Không có chất kích thích, vũ khí hoặc chất độc hại
 
-No stimulants, weapons, or hazardous substances
+1.4.   Bị thất lạc và tìm thấy
 
-1.4.   Lost & Found
+Đừng để các vật dụng cá nhân không được giám sát. Bạn chịu trách nhiệm cho bất kỳ mất mát hoặc thiệt hại nào.
 
-Do not leave personal items unattended. You are responsible for any loss or damage.
-
-Unattended items, including laptops or borrowed books, may be moved to the Lost & Found at the Student Affairs Management Office.
+Những đồ vật không được trông coi, bao gồm cả máy tính xách tay hoặc sách mượn, có thể được chuyển đến Phòng Quản lý Công tác Sinh viên.
 
  
 
-2.   Use of library materials
+2.   Sử dụng tài liệu thư viện
 
-2.1.   Circulation regulations for library materials
+2.1.   Quy định lưu hành tài liệu thư viện
 
-No.
-Material types
-Can Borrow?
-Where to Borrow/Return
-Notes
+Không.
+Các loại vật liệu
+Có thể vay?
+Vay/trả ở đâu
+Ghi chú
 
 1
-General Books
-Yes
-Self-check machines (1F & 2F), Circulation Desk (1F), 24/7-return-station
+Sách tổng hợp
+Có
+Máy tự kiểm tra (1F & 2F), Bàn tuần hoàn (1F), Trạm trả hàng 24/7
 
 2
-Reference Materials & Journals
-No
-Not available for borrowing
+Tài liệu & Tạp chí Tham khảo
+Không
+Không có sẵn để vay
 
 3
-CDs/DVDs
-Yes
-Circulation Desk (1F)
+đĩa CD/DVD
+Có
+Bàn tuần hoàn (1F)
 
 4
-Course Reserve Books
-Yes (2 hours)
-Circulation Desk (1F)
-1 item/user/time; short-term use only
+Sách dự trữ khóa học
+Có (2 giờ)
+Bàn tuần hoàn (1F)
+1 sản phẩm/người dùng/lần; chỉ sử dụng ngắn hạn
 
-Borrowing Rules
+Quy định vay
 
-Return or renew before due time; overdue items can’t be renewed.
+Trả lại hoặc gia hạn trước thời hạn; các mặt hàng quá hạn không thể được gia hạn.
 
-Renewal period = half of the original loan, allowed only if no one else has requested the item.
+Thời gian gia hạn = một nửa số tiền vay ban đầu, chỉ được phép nếu không có ai khác yêu cầu món đồ đó.
 
-Report any damage to library staff before check-out/check-in.
+Báo cáo mọi thiệt hại cho nhân viên thư viện trước khi trả phòng/nhận phòng.
 
-If the due date is a holiday, it’s extended to the next open day.
+Nếu ngày đáo hạn là ngày nghỉ lễ thì thời gian đáo hạn sẽ được kéo dài sang ngày mở cửa tiếp theo.
 
-Do not hide, misplace, or take items without proper checkout.
+Không giấu, thất lạc hoặc lấy đồ mà không kiểm tra thích hợp.
 
-All loans must be returned, and fines paid at least 1 month before leaving VinUni.
+Tất cả các khoản vay phải được hoàn trả và nộp phạt ít nhất 1 tháng trước khi rời VinUni.
 
-Any exceptions to fines or loan terms must be approved by VinUni senior leadership.
+Mọi trường hợp ngoại lệ về tiền phạt hoặc điều khoản cho vay đều phải được lãnh đạo cấp cao của VinUni phê duyệt.
 
-2.2.   Circulation Privileges:
+2.2.   Đặc quyền lưu hành:
 
-User groups
-Number of items
-Loan Period
- Renewals
+Nhóm người dùng
+Số lượng mặt hàng
+Thời gian cho vay
+ Gia hạn
 
-·       Undergraduate Students
+·       Sinh viên đại học
 3
-2 weeks
-1 time
+2 tuần
+1 lần
 
-·       Graduate Students
+·       Sinh viên tốt nghiệp
 5
-1 month
-1 time
+1 tháng
+1 lần
 
-·       Faculty (VinUni)
+·       Khoa (VinUni)
 5
-6 months
-1 time
+6 tháng
+1 lần
 
-·       Affiliated Faculty / Full-time & Service Contract Staff
+·       Khoa trực thuộc / Nhân viên hợp đồng dịch vụ và toàn thời gian
 3
-2 weeks
-1 time
+2 tuần
+1 lần
 
-·       Visiting Students
-Based on library approval
+·       Sinh viên tham quan
+Dựa trên sự phê duyệt của thư viện
 
-·       Guests / Interns / Alumni
-     Not eligible to borrow
+·       Khách / Thực tập sinh / Cựu sinh viên
+     Không đủ điều kiện để vay
 
-Note:
+Lưu ý:
+Giảng viên mượn sách để giảng dạy có thể xin mượn với thời hạn 6 tháng, tuy nhiên có thể thu hồi tài liệu nếu có yêu cầu của người khác. Yêu cầu gia hạn phải được gửi tới [email được bảo vệ]
 
-Faculty borrowing textbooks for teaching can request a 6-month loan, but items may be recalled if requested by others. Request for extension should be made to [email protected]
+2.3.   Yêu cầu Sách hoặc CD/DVD
 
-2.3.   Requesting Books or CDs/DVDs
+Khách hàng quen có thể yêu cầu các mặt hàng hiện đang được kiểm tra thông qua trang .
 
-Patrons can request items that are currently checked out via the .
+Yêu cầu sẽ không được chấp nhận nếu:
 
-Requests won’t be accepted if:
+Vật phẩm này nằm trong Dự trữ khóa học.
 
-The item is in the Course Reserve.
+Nó bị mất, bị mất hoặc không được lưu hành.
 
-It is lost, missing, or non-circulating.
+Đặc quyền mượn của bạn bị chặn.
 
-Your borrowing privileges are blocked.
+Bạn đã đạt đến giới hạn vay của mình.
 
-You’ve reached your borrowing limit.
+Sau khi sẵn sàng, vật phẩm sẽ được giữ trong 2 ngày. Nếu không được nhận, yêu cầu sẽ bị hủy.
 
-Once ready, the item will be held for 2 days. If not picked up, the request will be canceled.
+Chỉ người bảo trợ yêu cầu mới có thể nhận hàng trực tiếp.
 
-Only the requesting patron can pick up the item in person.
+2.4.   thu hồi
 
-2.4.   Recalls
+Tất cả các đồ vật mượn có thể được thu hồi sau 1 tuần.
 
-All borrowed items can be recalled after 1 week.
+Nếu bị thu hồi, bạn sẽ nhận được thông báo qua email có ngày đáo hạn mới, sớm hơn.
 
-If recalled, you’ll get an email notice with a new, earlier due date.
+Vui lòng trả lại hàng trước ngày đáo hạn mới.
 
-Please return the item by the new due date.
+2.5.  Sử dụng tài nguyên điện tử
 
-2.5.  Use of Electronic Resources
+Quyền truy cập được giới hạn cho sinh viên, giảng viên và nhân viên VinUni, trừ khi có quy định khác trong giấy phép.
 
-Access is limited to VinUni students, faculty, and staff, unless otherwise stated in the license.
+Đăng nhập bằng ID VinUni của bạn để sử dụng cơ sở dữ liệu thư viện.
 
-Log in with your VinUni ID to use library databases.
+Chỉ sử dụng tài liệu cho mục đích cá nhân, phi thương mại
 
-Use materials only for personal, non-commercial
+Việc sử dụng sai mục đích có thể dẫn đến việc thu hồi quyền truy cập trên toàn trường đại học và có thể dẫn đến hành động kỷ luật hoặc pháp lý.
 
-Misuse may lead to university-wide access being revoked and may result in disciplinary or legal action.
+ 2.6.   Sao chép, in và quét
 
- 2.6.   Copying, Printing & Scanning
+Những dịch vụ này chỉ dành cho mục đích học tập, nghiên cứu và sử dụng phi thương mại.
 
-These services are for study, research, and non-commercial use only.
+Không vi phạm luật bản quyền khi sử dụng máy thư viện.
 
-Do not violate copyright laws when using library machines.
-
-Users are responsible for any legal issues caused by improper use.
+Người dùng chịu trách nhiệm về mọi vấn đề pháp lý do sử dụng không đúng cách.
 
  
 
-3.   Use of library property & spaces
+3.   Sử dụng tài sản và không gian của thư viện
 
-3.1.     Borrowing Library Equipment
+3.1.     Mượn thiết bị thư viện
 
-Loan period: 1 working day
+Thời gian vay: 1 ngày làm việc
 
-Return by: 15 minutes before library closing time
+Về trước: 15 phút trước giờ đóng cửa thư viện
 
-Important Rules:
+Quy tắc quan trọng:
 
-Items overdue for more than 5 days are considered lost; users must pay for replacements.
+Đồ quá hạn quá 5 ngày coi như thất lạc; người dùng phải trả tiền để thay thế.
 
-Equipment must be returned in person to staff at the circulation desk (1F).
+Thiết bị phải được trả trực tiếp cho nhân viên tại quầy lưu thông (tầng 1).
 
-The library may recall items for maintenance or other needs.
+Thư viện có thể thu hồi các tài liệu để bảo trì hoặc cho các nhu cầu khác.
 
-Fine waivers or loan extensions require approval from university leadership.
+Việc miễn trừ tiền phạt hoặc gia hạn khoản vay cần có sự chấp thuận của lãnh đạo trường đại học.
 
-Borrowers must:
+Người vay phải:
 
-Check equipment is complete and working before leaving.
+Kiểm tra thiết bị đã hoàn thiện và hoạt động tốt trước khi rời đi.
 
-Use equipment at their own risk and ensure they know how to operate it.
+Họ tự chịu rủi ro khi sử dụng thiết bị và đảm bảo họ biết cách vận hành thiết bị.
 
-Report any issues
+Báo cáo mọi vấn đề
 
-Return on time.
+Trở về đúng giờ.
 
-3.2.    Using Library Functional Rooms (e.g., group rooms, studios, AR/VR room)
+3.2.    Sử dụng các Phòng chức năng của Thư viện (ví dụ: phòng nhóm, studio, phòng AR/VR)
 
-Book in advance: Same day or up to 1 week ahead via Microsoft Outlook. First come, first served.
+Đặt trước: Cùng ngày hoặc trước tối đa 1 tuần qua Microsoft Outlook. Ai đến trước được phục vụ trước.
 
-Academic use only. Max: 2 hours/session, 2 sessions/day (for all rooms combined).
+Chỉ sử dụng học thuật. Tối đa: 2 tiếng/buổi, 2 buổi/ngày (cho tất cả các phòng gộp lại).
 
-Arrive on time: Bookings will be cancelled after 10 minutes of no show.
+Đến đúng giờ: Đặt chỗ sẽ bị hủy sau 10 phút không có mặt.
 
-Check the instructions before using any equipment. Report on any issues to library staff.
+Kiểm tra hướng dẫn trước khi sử dụng bất kỳ thiết bị nào. Báo cáo mọi vấn đề cho nhân viên thư viện.
 
  
 
-4.     Library regulation violations
+4.     Vi phạm quy định của thư viện
 
-4.1.     Consequences
+4.1.     hậu quả
 
-Students who break library rules may face penalties based on VinUni’s Student Code of Conduct. This helps keep the library a quiet and respectful place for learning.
+Sinh viên vi phạm nội quy thư viện có thể phải đối mặt với các hình phạt dựa trên Quy tắc ứng xử dành cho sinh viên của VinUni. Điều này giúp thư viện trở thành một nơi yên tĩnh và tôn trọng cho việc học tập.
 
-4.2.     Library Fines
+4.2.     Tiền phạt thư viện
 
-You will be fined for returning items late, or if materials/equipment are damaged or lost.
+Bạn sẽ bị phạt nếu trả đồ trễ, hoặc nếu nguyên vật liệu/thiết bị bị hư hỏng, thất lạc.
 
-Fines follow VinUni’s Financial Regulations and Tariff .
+Mức phạt tuân theo Quy định tài chính và Biểu thuế của VinUni.
 
-Damage Levels
+Mức độ thiệt hại
 
-Types
-Examples
+Các loại
+Ví dụ
 
-Minor damage
+Thiệt hại nhỏ
 
-Small tears or stains on <10 pages
+Những vết rách hoặc vết ố nhỏ trên <10 trang
 
-Light cover damage
+Thiệt hại nhẹ
 
-Light water marks
+Dấu nước nhẹ
 
-Minor equipment issues (checked by IT)
+Sự cố nhỏ về thiết bị (được kiểm tra bởi bộ phận CNTT)
 
-Major damage/loss
+Thiệt hại/mất mát lớn
 
-Missing or heavily damaged cover/pages
+Bìa/trang bị thiếu hoặc bị hư hỏng nặng
 
-Lots of writing or stains
+Rất nhiều chữ viết hoặc vết bẩn
 
-Bad odor
+Mùi hôi
 
-Broken or unreadable CDs/DVDs
+Đĩa CD/DVD bị hỏng hoặc không đọc được
 
-Broken or lost equipment
+Thiết bị bị hỏng hoặc bị mất
 
-No refunds if a lost item is found after you’ve paid the replacement fee.
+Không hoàn lại tiền nếu mặt hàng bị mất được tìm thấy sau khi bạn thanh toán phí thay thế.
 
-You will get email reminders to return or renew items but not getting one doesn’t excuse late returns.
+Bạn sẽ nhận được lời nhắc qua email để trả lại hoặc gia hạn các mặt hàng nhưng không nhận được một cái nào cũng không có nghĩa là trả lại muộn.
 
-Fines may be waived only in serious cases, like illness or hospitalization (proof needed).
+Tiền phạt chỉ có thể được miễn trong những trường hợp nghiêm trọng, như bệnh tật hoặc nằm viện (cần có bằng chứng).
 
-To appeal a fine, email: [email protected] (decided case by case).
+Để khiếu nại khoản tiền phạt, hãy gửi email: [email được bảo vệ] (được quyết định theo từng trường hợp).
 
-Status and Details
+Trạng thái và chi tiết
 
-This policy provides guidance for library patrons about the use of library resources, services, and facilities.
+Chính sách này cung cấp hướng dẫn cho khách hàng của thư viện về việc sử dụng tài nguyên, dịch vụ và cơ sở vật chất của thư viện.
 
-Reference Number:
+Số tham chiếu:
 
 POL-LLR-001-V4.0
 
-Document Type:
+Loại tài liệu:
 
-Policy
+Chính sách
 
-Issuing By:
+Phát hành bởi:
 
-VinUniversity Library 
+Thư viện Đại học VinUni 
 
-Issuing Date:
+Ngày phát hành:
 
-Jul 09, 2025
+Ngày 09 tháng 7 năm 2025
 
-Applying for:
+Đăng ký:
 
-All academic and non-academic units of VinUniversity
+Tất cả các đơn vị học thuật và phi học thuật của Đại học VinUni
 
-Security Classification:
+Phân loại bảo mật:
 
-Public
+công cộng
 
-Record of Changes
+Hồ sơ thay đổi
 
-Revision
+Sửa đổi
 
-Date
+Ngày
 
-Author / Editor
+Tác giả/Biên tập viên
 
-Description
+Mô tả
 
 V1.0 
 
-Apr 14, 2020 
+Ngày 14 tháng 4 năm 2020
+Biên soạn bởi: Thư viện 
 
-Prepared by: Library 
+Người phản biện: Trưởng khoa/Phó trưởng khoa, Trưởng FAS
 
-Reviewed by: Deans/Vice Deans, Head of FAS
+Người phê duyệt: Provost 
 
-Approved by: Provost 
-
-1st release 
+bản phát hành đầu tiên 
 
 V2.0 
 
-Prepared by: Library
+Biên soạn bởi: Thư viện
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Updates on library services policy 
+Cập nhật chính sách dịch vụ thư viện 
 
 V3.0 
 
-Nov 01, 2022 
+Ngày 01 tháng 11 năm 2022 
 
-Prepared by: Library
+Biên soạn bởi: Thư viện
 
-Reviewed by: Library committee
+Xét duyệt bởi: Ủy ban thư viện
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-Updates on library services policy 
+Cập nhật chính sách dịch vụ thư viện 
 
 4.0 
 
-Jul 09, 2025 
+Ngày 09 tháng 7 năm 2025 
 
-Prepared by: Library
+Biên soạn bởi: Thư viện
 
-Reviewed by: Head of Library 
+Người phản biện: Trưởng thư viện 
 
-Approved by: Vice Provost of Academic Administration
+Người phê duyệt: Phó Trưởng phòng Quản lý Đào tạo
 
-Updates on library services policy 
+Cập nhật chính sách dịch vụ thư viện 
 
-PDF version
+Phiên bản PDF
 
-You can download this document here: Library Access & Services Policy
+Bạn có thể tải xuống tài liệu này tại đây: Chính sách truy cập và dịch vụ thư viện

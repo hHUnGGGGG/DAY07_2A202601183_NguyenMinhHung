@@ -7,52 +7,50 @@ document_version: "not-stated"
 audience: "student"
 department: "admissions"
 category: "scholarship"
-language: "en"
----
+language: "vi"
+---#Học bổng đại học
+Để tiếp tục hỗ trợ sứ mệnh ươm mầm nhân tài, Tập đoàn Group, Nhà sáng lập Đại học VinUni, tái khẳng định cam kết vững chắc trong việc duy trì Quỹ học bổng của Trường dành cho các thế hệ sinh viên Đại học VinUni tương lai.
 
-# Undergraduate Scholarships
-To further support the mission of nurturing talent, Vingroup, the Founder of VinUniversity, has reaffirmed its unwavering commitment to sustaining the University’s Scholarship Fund for future generations of VinUniversity students.
+Trợ cấp học phí
 
-Tuition Subsidy
+Từ năm 2025 đến 2030, tất cả sinh viên đăng ký học tại Đại học VinUni sẽ được hỗ trợ 35% học phí, áp dụng cho toàn bộ thời gian học.
 
-From 2025 to 2030, all students enrolling at VinUniversity will be granted a 35% tuition subsidy, applied for the full duration of their studies.
+Học bổng dựa trên thành tích 
 
-Merit-based Scholarships 
+Trao thưởng cho những ứng viên có thành tích học tập xuất sắc và phẩm chất cá nhân mạnh mẽ - những người thể hiện khát vọng và tham vọng, tư duy sáng tạo và tinh thần chủ động, kiên cường, không bao giờ từ bỏ ước mơ của mình. Giá trị học bổng dao động từ 50% đến 100% học phí.
 
-Awarded to applicants with outstanding academic performance and strong personal qualities — those who demonstrate aspiration and ambition, creative thinking, and a proactive, resilient spirit who never give up on their dreams. The scholarship value ranges from 50% to 100% of tuition fees.
+Học bổng President's Excellence: Học bổng toàn phần (Hỗ trợ 100% học phí và chi phí sinh hoạt).
 
-President’s Excellence Scholarship: Full-ride scholarship (Covers 100% of tuition and living expenses).
+Học bổng khen thưởng của Provost: Bao gồm 100% học phí.
 
-Provost’s Merit Scholarship: Covers 100% of tuition.
+Học bổng xuất sắc của Dean: Hỗ trợ 80% hoặc 90% học phí.
 
-Dean’s Distinction Scholarship: Covers 80% or 90% of tuition.
+Học bổng Danh dự của Kỷ luật: Bao gồm 50%, 60% hoặc 70% học phí.
 
-Discipline’s Honor Scholarship: Covers 50%, 60%, or 70% of tuition.
+(*) Học bổng dựa trên thành tích đã bao gồm khoản trợ cấp 35% học phí.
 
-(*) Merit-Based Scholarships already include the 35% tuition subsidy.
+Học bổng Khuyến khích Đặc biệt (*Có thể xếp chồng lên nhau)
 
-Special Encouragement Scholarships (*Stackable)
+Học bổng học thuật đặc biệt: Cung cấp miễn 5% học phí cho các ngành học được chọn, theo chỉ định cho mỗi năm học.
 
-Special Academic Scholarship: Offers a 5% tuition waiver for selected academic disciplines, as designated for each academic year.
+Học bổng WIT (Phụ nữ trong lĩnh vực công nghệ): Cung cấp thêm 5% hỗ trợ học phí cho các ứng viên nữ theo đuổi nghiên cứu về công nghệ hoặc các lĩnh vực liên quan đến khoa học.
 
-WIT (Woman in Tech) Scholarship: Provides an additional 5% tuition support for female applicants pursuing studies in technology or science-related fields.
+Học bổng Vinschool-VinUni: Miễn 5% học phí cho sinh viên tốt nghiệp Vinschool được nhận vào Đại học Vinschool.
 
-Vinschool-VinUni Scholarship: Covers a 5% tuition waiver for Vinschool graduates who are admitted to VinUniversity.
+Học bổng Gia đình VinGroup: Dành cho con em của nhân viên và giám đốc điều hành Tập đoàn Vincom, như một phần cam kết của Tập đoàn trong việc bồi dưỡng nhân tài trong cộng đồng.
 
-Vingroup Family Scholarship: Available for children of Vingroup employees and executives, as part of the Group’s commitment to fostering talent within its community.
+Học bổng tài trợ đặc biệt từ quỹ tư nhân
 
-Special Sponsor Scholarships from Private Fund
+Chương trình này được thiết kế dành cho những ứng viên xuất sắc đã giành được Học bổng khen thưởng từ 80% trở lên nhưng gặp khó khăn về tài chính khi theo đuổi ước mơ học tập tại Đại học VinUni. Các học bổng này (hỗ trợ thêm 10% học phí) được các nhà tài trợ tận tâm hỗ trợ và trao tặng dựa trên tiêu chí cụ thể của từng quỹ.
 
-This program is designed for outstanding applicants who have earned a Merit-based Scholarship of 80% or higher but face financial barriers in pursuing their dream of studying at VinUniversity. These scholarships (an additional 10% tuition support) are generously supported by dedicated donors and awarded based on the specific criteria of each fund.
+Dean Choi Grant by Soosan (10% học phí): Được tài trợ bởi Tập đoàn Soosan và trao cho sinh viên xuất sắc của Trường Cao đẳng Kinh doanh & Quản lý (CBM) và Trường Cao đẳng Kỹ thuật và Khoa học Máy tính (CECS). Người nhận được lựa chọn dựa trên các tiêu chí do nhà tài trợ đặt ra. Tìm hiểu cách Dean Choi Grant của Soosan giúp sinh viên đạt được ước mơ của mình [TẠI ĐÂY]
 
-Dean Choi Grant by Soosan (10% of tuition fee): Sponsored by Soosan Group and is awarded to outstanding students from the College of Business & Management (CBM) and the College of Engineering and Computer Science (CECS). Recipients are selected based on the criteria set by the sponsor. Learn how the Dean Choi Grant by Soosan is helping students achieve their dreams [HERE]
+Tài trợ Nhà lãnh đạo tương lai: Đối với những sinh viên xuất sắc được cấp học bổng 80 – 90% nhưng 10% – 20% học phí còn lại vẫn là một trở ngại, khoản tài trợ này sẽ xóa bỏ rào cản cuối cùng này, mở ra cánh cửa cho những bạn trẻ xứng đáng theo học tại Đại học VinUni. Để tìm hiểu thêm về khoản tài trợ này, vui lòng truy cập [TẠI ĐÂY].
 
-Future Leader Grant: For those outstanding students who are offered 80 – 90% scholarship but the remaining 10% – 20% of tuition remains an obstacle, this grant removes this last barrier, opening the door for deserving young people to study at VinUniversity. To learn more about this grant, please visit [HERE].
+ℹ️ Lưu ý quan trọng:
 
-ℹ️ Important Note:
+Ứng viên đáp ứng các tiêu chí tuyển sinh nhưng gặp khó khăn về tài chính, ngoài việc nhận được các học bổng trên, có thể nộp đơn xin Hỗ trợ Tài chính. Hỗ trợ tài chính có thể chi trả tới 100% học phí.
 
-Applicants who meet the admission criteria but face financial difficulties, in addition to receiving the above scholarships, may apply for Financial Aid. Financial support can cover up to 100% of tuition fees.
+Số tiền học bổng được trao căn cứ vào kết quả đánh giá theo tiêu chí do Hội đồng tuyển sinh đặt ra.
 
-The scholarship amount awarded is based on the evaluation results according to the criteria set by the Admissions Council.
-
-The scholarship applies for the entire duration of study and is subject to meeting the minimum scholarship maintenance conditions set by the university. Please refer to the Detailed Regulations [HERE]. We believe that these minimum maintenance conditions will help students maintain their academic performance, extracurricular development, and live up to the decision made by the Admissions Council in awarding the Merit-based Scholarship.
+Học bổng áp dụng cho toàn bộ thời gian học và phải đáp ứng các điều kiện duy trì học bổng tối thiểu do trường đại học đặt ra. Vui lòng tham khảo Quy định chi tiết [TẠI ĐÂY]. Chúng tôi tin rằng những điều kiện duy trì tối thiểu này sẽ giúp sinh viên duy trì kết quả học tập, phát triển ngoại khóa và đáp ứng quyết định của Hội đồng tuyển sinh trong việc trao Học bổng dựa trên thành tích.

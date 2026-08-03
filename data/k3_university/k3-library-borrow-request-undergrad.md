@@ -7,275 +7,272 @@ document_version: "not-stated"
 audience: "student"
 department: "library"
 category: "library-services"
-language: "en"
----
+language: "vi"
+---# Vay và yêu cầu - Sinh viên và nhân viên đại học
 
-# Borrow and Request - Undergraduate Students and Staff
+Thông tin dành cho sinh viên và nhân viên đại học
 
-Information for Undergraduate students and Staff
+Vay
 
-Borrowing
+Tài nguyên
 
-Resources
+Thẻ thư viện của tôi
 
-My library card
+Tìm tài nguyên
 
-Find resources
+Đặc quyền vay
 
-Borrowing privileges
+Truy cập từ xa vào tài nguyên
 
-Remote access to resource
+Yêu cầu và giữ
 
-Request and holds
+Sử dụng tài nguyên trực tuyến
 
-Use online resources
+Tiền phạt và các khoản phí khác
 
-Fines and other charges
+Đề nghị mua hàng
 
-Suggest a purchase
-
-Equipment loans
+Cho vay thiết bị
 
  
 
-Services
+Dịch vụ
 
-Spaces
+Không gian
 
-Accessibility services
+Dịch vụ tiếp cận
 
-Spaces
+Không gian
 
-Printing, copying, and scanning
+In, sao chép và quét
 
-Location
+Vị trí
 
-Computers
+Máy tính
 
-Hours
+Giờ
 
  
 
-Group study Rooms
+Phòng học nhóm
 
-Get Help
+Nhận trợ giúp
 
-Contact us
+Liên hệ với chúng tôi
 
-Ask a librarian
+Hỏi thủ thư
 
-Contact us
+Liên hệ với chúng tôi
 
-Research guides
+Hướng dẫn nghiên cứu
 
-News and Events
+Tin tức và Sự kiện
 
-Workshops and tours
+Hội thảo và chuyến tham quan
 
-Social media
+Truyền thông xã hội
 
-Borrowing:
+Vay:
 
-My library card:
+Thẻ thư viện của tôi:
 
-Your VinUniversity ID serves as your library card to borrow library materials or equipment.
+ID VinUniversity của bạn dùng làm thẻ thư viện để mượn tài liệu hoặc thiết bị thư viện.
 
-Borrowing privileges:
+Ưu đãi vay:
 
-Undergraduate students may borrow up to 3 items during two weeks per item. Books may be renewed once for one week if they are not overdue and there has been no request for them by any other patrons. Books can be renewed online through library’s website or onsite with Self-check machines at 1st floor or 2nd floor in library.
+Sinh viên đại học có thể mượn tối đa 3 tài liệu trong vòng hai tuần cho mỗi tài liệu. Sách có thể được gia hạn một lần trong một tuần nếu không quá hạn và không có khách hàng nào khác yêu cầu sách. Sách có thể được gia hạn trực tuyến thông qua website thư viện hoặc tại chỗ bằng máy tự kiểm tra tại tầng 1 hoặc tầng 2 trong thư viện.
 
-Policy
+Chính sách
 
-Borrowed items
+Đồ mượn
 
-Borrowing time
+Thời gian vay
 
-Renewal
+Gia hạn
 
-Undergraduate student
+sinh viên đại học
 
 3
 
-2 weeks
+2 tuần
 
- 1 week (one time only)
+ 1 tuần (chỉ một lần)
 
-Requests and Holds
+Yêu cầu và giữ
 
-You can request books from the VinUni Library online library catalogue. Requests will take one to two business days. You will be notified by e-mail when your items are ready for pick up. Up-to-date status reports are also available in your library account. You can borrow the books from the VinUni Library circulation counter. Two Self-check machines are also available for borrowing books.
+Bạn có thể yêu cầu sách từ danh mục thư viện trực tuyến của Thư viện VinUni. Yêu cầu sẽ mất một đến hai ngày làm việc. Bạn sẽ được thông báo qua e-mail khi các mặt hàng của bạn đã sẵn sàng để nhận. Báo cáo trạng thái cập nhật cũng có sẵn trong tài khoản thư viện của bạn. Bạn có thể mượn sách tại quầy lưu hành Thư viện VinUni. Hai máy tự kiểm tra cũng có sẵn để mượn sách.
 
-Requested items will be held for two days for you to pick up.
+Các mặt hàng được yêu cầu sẽ được giữ trong hai ngày để bạn đến nhận.
 
-Equipment loans:
+Cho vay thiết bị:
 
-Equipment can be borrowed during 1 working day. Due time is 15 minutes before library’s closing time.
+Thiết bị có thể được mượn trong 1 ngày làm việc. Thời gian nộp hồ sơ là 15 phút trước giờ đóng cửa thư viện.
 
-Equipment overdue for more than 05 days will be considered lost, and the borrower will be charged for a replacement. 
+Thiết bị quá hạn quá 05 ngày sẽ bị coi là thất lạc và người mượn sẽ phải chịu phí thay thế. 
 
-Equipment must be returned directly to the library and received by a library staff at the circulation desk on the first floor. The library reserves the right to recall equipment for regular maintenance or for any reason the librarian may deem appropriate.
+Thiết bị phải được trả trực tiếp cho thư viện và được nhân viên thư viện nhận tại quầy lưu hành ở tầng một. Thư viện có quyền thu hồi thiết bị để bảo trì thường xuyên hoặc vì bất kỳ lý do gì mà thủ thư cho là phù hợp.
 
-All mercies regarding fines and loan periods need to be approved by university senior leaders.
+Mọi ân xá liên quan đến tiền phạt và thời gian cho vay cần phải được lãnh đạo cấp cao của trường phê duyệt.
 
-The following equipment is available for loan from the Circulation desk at 1st floor:
+Bàn lưu hành ở tầng 1 có thể cho mượn các thiết bị sau:
 
-Latop
+Máy tính xách tay
 
-IPad
+iPad
 
-Charger
+Bộ sạc
 
-Mouse
+Chuột
 
-Headphone
+Tai nghe
 
-Adapter
+Bộ chuyển đổi
 
-Pointer
+Con trỏ
 
-Marker and Eraser
+Bút đánh dấu và tẩy
 
-Locker
+tủ đựng đồ
 
-Fines and other charges:
+Tiền phạt và các khoản phí khác:
 
-Patrons will be charged fines for overdue materials/equipment or material/equipment repair and replacement fees. For more detailed, please read it in Library Policies for users.
+Khách hàng quen sẽ bị phạt vì vật liệu/thiết bị quá hạn hoặc phí sửa chữa và thay thế vật liệu/thiết bị. Để biết thêm chi tiết, vui lòng đọc trong Chính sách Thư viện dành cho người dùng.
 
-These fines and fees are regulated in VinUni’s Financial Regulations and Tariff. 
+Các khoản tiền phạt và phí này được quy định trong Quy chế tài chính và Biểu thuế của VinUni. 
 
-For appeals, please send an email to the library. Appeals will be handled on a case to case basis.
+Để khiếu nại, vui lòng gửi email đến thư viện. Các khiếu nại sẽ được giải quyết tùy theo từng trường hợp.
 
-Resources
+Tài nguyên
 
-Find resources:
+Tìm tài nguyên:
 
-Ask a Librarian: Need help with your research? Not sure where to start? Ask a Librarian.
+Hỏi thủ thư: Bạn cần trợ giúp cho nghiên cứu của mình? Bạn không chắc nên bắt đầu từ đâu? Hãy hỏi một thủ thư.
 
-Catalogue: Find books, journal articles, journals, and other library materials.
+Danh mục: Tìm sách, bài báo, tạp chí và các tài liệu thư viện khác.
 
-Databases: Search by topic for journal articles, conference proceedings and more in one of our library databases.
+Cơ sở dữ liệu: Tìm kiếm theo chủ đề cho các bài báo, kỷ yếu hội nghị và nhiều nội dung khác trong một trong các cơ sở dữ liệu thư viện của chúng tôi.
 
-Research Guides: Provides resources and tips for students to complete their research.
+Hướng dẫn nghiên cứu: Cung cấp tài nguyên và lời khuyên cho sinh viên để hoàn thành nghiên cứu của mình.
 
-E-journals: Access the library’s subscription e-journals on a variety of subjects.
+Tạp chí điện tử: Truy cập các tạp chí điện tử đăng ký của thư viện về nhiều chủ đề khác nhau.
 
-New Arrivals:  Find resources to access current and older news sources.
+Tin tức mới:  Tìm tài nguyên để truy cập các nguồn tin tức hiện tại và cũ hơn.
 
-Remote Access to Resources:
+Truy cập từ xa vào tài nguyên:
 
-Current students, faculty, staff, and certain community users may access online resources from anywhere.
+Các sinh viên, giảng viên, nhân viên hiện tại và một số người dùng trong cộng đồng nhất định có thể truy cập các tài nguyên trực tuyến từ mọi nơi.
 
-To log into resources from off campus you must use your VinUni ID.
+Để đăng nhập vào các tài nguyên từ bên ngoài khuôn viên trường, bạn phải sử dụng ID VinUni của mình.
 
-Important: If you are logging on to library online resources from a public computer, please remember to CLOSE your browser when you finish using the online resources. This will prevent others from misusing library resources.
+Quan trọng: Nếu bạn đang đăng nhập vào các tài nguyên trực tuyến của thư viện từ máy tính công cộng, vui lòng nhớ ĐÓNG trình duyệt của bạn khi bạn sử dụng xong các tài nguyên trực tuyến. Điều này sẽ ngăn người khác lạm dụng tài nguyên thư viện.
 
-Use Online Resources:
+Sử dụng tài nguyên trực tuyến:
+Việc sử dụng các tài nguyên điện tử (cơ sở dữ liệu, tạp chí điện tử, v.v.) được giới hạn ở những người dùng được ủy quyền của VinUni (sinh viên, giảng viên và nhân viên của VinUni, nhân viên từ P&L của Tập đoàn VinUni và các đối tác khác) và được điều chỉnh bởi các thỏa thuận cấp phép được đàm phán giữa VinUni và các nhà xuất bản/nhà cung cấp.
 
-The use of electronic resources (databases, e-journals, etc.) is limited to the VinUni authorized users (VinUni’s students, faculty, and staff, staff from Vingroup’s P&Ls and other counterparts) and is governed by license agreements negotiated between VinUni and the publishers/providers.
+Người dùng truy cập cơ sở dữ liệu thư viện cả trong và ngoài khuôn viên trường sẽ phải đăng nhập bằng ID VinUni của mình.
 
-Users accessing library databases both on and off campus will be required to log in with their VinUni ID.
+Người dùng phải tuân thủ Luật Bản quyền và các quy định của thỏa thuận cấp phép với các nhà cung cấp cá nhân. Tài liệu cơ sở dữ liệu trực tuyến đạt được phải được sử dụng cho mục đích cá nhân, phi thương mại.
 
-Users must follow Copyright Law and provisions of license agreements with individual providers. Online database material achieved must be used for personal, non-commercial purposes.
+Việc sử dụng trái phép cơ sở dữ liệu của Thư viện VinUni và các tài nguyên điện tử khác có thể dẫn đến việc thu hồi quyền truy cập của toàn bộ trường đại học, sau đó sẽ bị kỷ luật hoặc chuyển đến cơ quan dân sự có thẩm quyền.
 
-Unauthorized use of VinUni Library databases and other electronic resources can result in revocation of access of the whole university, then will be disciplined or referral to competent civil authorities.
+Thư viện hỗ trợ việc sử dụng Truy cập Mở và Tài nguyên Giáo dục Mở để hỗ trợ Tri thức Mở và các thực hành giảng dạy mở cũng như cải thiện kết quả học tập. Xem Hướng dẫn Học bổng Mở về các tài nguyên OER.
 
-The Library supports the use of Open Access and Open Education Resources to support Open Knowledge and open teaching practices and improving learning outcome. See Open Scholarship Guide to OER resources.
+Đề xuất một nguồn tài nguyên:
 
-Suggest a resource:
+Thư viện hoan nghênh những đề xuất từ sinh viên, giảng viên và nhân viên về những tài liệu chưa có. Vui lòng điền vào mẫu đề xuất tài nguyên trực tuyến.
 
-The library welcomes suggestions from students, faculty and staff for materials not already owned. Please fill out the suggest a resource form online.
+Dịch vụ:
 
-Services:
+Dịch vụ tiếp cận:
 
-Accessibility Services:
+Chúng tôi cam kết đáp ứng nhu cầu tiếp cận đa dạng của sinh viên.
 
-We are committed to accommodating diverse student accessibility needs.
+Các dịch vụ, công nghệ và thiết bị tiếp cận của chúng tôi có thể nâng cao trải nghiệm học tập của bạn.
 
-Our accessibility services, technologies and equipment can enhance your academic experience.
+Vui lòng liên hệ với Văn phòng Công tác Sinh viên nếu bạn có bất kỳ nhu cầu tiếp cận nào.
 
-Please contact the Student Affairs Office if you have any accessibility needs.
+In, sao chép và quét:
 
-Printing, Copying, and Scanning:
+Thư viện có 2 máy in đa chức năng để sinh viên in, scan và sao chụp tài liệu.
 
-The library has two multifunctional printers for students to print, scan, and make copies of documents.
+Máy tính:
 
-Computers:
+Bạn có thể sử dụng máy tính để bàn của thư viện, mượn máy tính xách tay hoặc iPad từ quầy lưu thông hoặc sử dụng thiết bị của riêng bạn và kết nối với mạng wi-fi của Trường. Tất cả các thiết bị máy tính của Trường đều chịu sự điều chỉnh của chính sách sử dụng được chấp nhận của Trường.
 
-You may use the library desktop computers, borrow laptops or iPads from the circulation desk or use your own devices and connect to the University’s wi-fi. All University computing equipment is governed by the University’s acceptable use policy.
+Không gian:
 
-Spaces:
+Không gian
 
-Spaces
+Thư viện cung cấp 4 loại không gian chính để hỗ trợ các hoạt động học tập, giảng dạy, nghiên cứu, đổi mới và khởi nghiệp, bao gồm không gian cộng tác, không gian tư vấn, không gian tôn nghiêm, không gian gắn kết cộng đồng.
 
-The library offers 4 main types of spaces to support learning, teaching, research, innovation, and entrepreneurial activities, including collaboration spaces, consultation spaces, sanctuary spaces, community engagement spaces.
+Vị trí:
 
-Location:
+Thư viện nằm ở trung tâm khuôn viên trường. Tìm thấy những gì bạn đang tìm kiếm với chuyến tham quan VR thư viện và bản đồ khuôn viên trường Đại học.
 
-The library is located at the center of campus. Find what you are looking for with library VR tour and University campus map.
+Giờ:
 
-Hours:
+Lối vào chính:
 
-Main Entrance:
+Thứ Hai – Thứ Sáu: 8 giờ sáng – 9 giờ tối
 
-Mon – Friday: 8 a.m – 9 p.m
+Thứ bảy – chủ nhật: 9 giờ sáng – 5 giờ chiều
 
-Sat – Sun: 9 a.m – 5 p.m
+Lối vào tầng 2:
 
-Second Floor Entrance:
+Thứ Hai – Thứ Sáu: 8:30 sáng – 5:30 chiều
 
-Mon – Friday: 8:30 a.m – 5:30 p.m
+Thứ 7 – CN: đóng cửa
 
-Sat – Sun: closed
+Không gian học tập 24/7: Luôn mở.
 
-24/7 learning space: Always opened.
+Ngày lễ: đóng cửa
 
-Holidays: closed
+Phòng học nhóm:
 
-Group study rooms:
+Phòng học nhóm chỉ dành cho sinh viên, giảng viên và nhân viên sau đại học và sau đại học và có thể được đặt qua Microsoft Outlook bằng tài khoản email VinUni của bạn.
 
-Group study rooms are available for graduate and undergraduate students, faculty and staff only and can be booked through Microsoft Outlook with your VinUni email account.
+Hướng dẫn sử dụng như sau:
 
-Guidelines for use are as follows:
+Các phòng này chỉ dành cho sinh viên, giảng viên và nhân viên của Đại học VinUni sử dụng theo nhóm.
 
-The rooms are for group use by VinUniversity students, faculty, and staff only.
+Việc đặt phòng được thực hiện theo nguyên tắc ai đến trước được phục vụ trước.
 
-Room booking is on a first come, first served basis.
+Mỗi nhóm có thể đặt tối đa 2 tiếng/buổi, 2 buổi/ngày, 4 buổi/tuần, gộp tất cả các phòng.
 
-Each group can book up to 2 hours per session, 2 sessions per day, 4 sessions per week, all rooms combined.
+Việc đặt chỗ có thể được thực hiện trong cùng ngày hoặc trước tối đa 1 tuần.
 
-Reservations may be made on the same day or at most 1 week in advance.
+Nếu nhóm của bạn đến trễ hơn 10 phút, đặt phòng của bạn sẽ bị hủy và nhóm khác có thể nhận phòng cho phần còn lại của lượt đặt phòng đó.
 
-If your group is more than 10 minutes late, your reservation will be cancelled, and another group can take the room for the rest of that booking.
+Phòng học chỉ dành cho học nhóm. Ít nhất 2 người phải có mặt trong một buổi họp. Nếu chỉ có một người ở trong phòng hơn 10 phút vào giữa buổi, nhóm khác có thể chiếm phòng trong thời gian còn lại.
 
-Study rooms are for group study only. At least 2 people must be present during a session. If only one person is in the room for more than 10 minutes in the middle of a session, another group may take the room for the remaining time.
+Phòng học có thể được đặt trực tuyến
 
-Study rooms can be booked online
+Nhận trợ giúp
 
-Get Help
+Hỏi thủ thư:
 
-Ask a librarian:
+Hỏi thủ thư
 
-Ask a librarian
+Hướng dẫn nghiên cứu:
 
-Research guides:
+Hướng dẫn nghiên cứu
 
-Research guides
+Hội thảo và tham quan thư viện
 
-Library workshop and tours
+Các thủ thư học thuật tổ chức các buổi hội thảo và tham quan thư viện cho các sinh viên, giảng viên và nhân viên quan tâm để giúp bạn nâng cao kỹ năng nghiên cứu và kiến thức về Thư viện. Để yêu cầu một buổi hội thảo hoặc chuyến tham quan, vui lòng liên hệ với Giám đốc, Thư viện và Nguồn học liệu
 
-Academic librarians present workshops and library tours for interested students, faculty, and staff to help you to enhance your research skills and knowledge of the Library. To request a workshop or tour, please contact the Director, Library and Learning Resources
+Liên hệ với chúng tôi
 
-Contact us
+Liên hệ với chúng tôi
 
-Contact us
+Liên hệ với chúng tôi
 
-Contact us
+Tin tức và Sự kiện
 
-News and Events
+Tin tức
 
-News
+Sự kiện
 
-Events
+Truyền thông xã hội
 
-Social media
-
-Mail
+Thư

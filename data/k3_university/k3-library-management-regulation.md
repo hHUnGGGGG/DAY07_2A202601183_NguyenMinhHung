@@ -7,267 +7,264 @@ document_version: "not-stated"
 audience: "staff"
 department: "library"
 category: "library-management"
-language: "en"
----
+language: "vi"
+---#Quy chế quản lý thư viện
 
-# Regulation for Library Management
+1. Quy định chung
 
-1. General regulations
+Tất cả nhân viên chuyên trách và nhân viên hợp đồng dịch vụ của thư viện phải tuân thủ quy định này khi làm việc tại thư viện.
 
-All library’s full-time staff and service-contract staff are required to follow this regulation while working at the library.
+Trong quá trình thực hiện, nếu phát hiện những vướng mắc bất hợp lý, cán bộ thư viện chuyên nghiệp, bán chuyên nghiệp phải thông báo ngay cho người giám sát trực tiếp hoặc Giám đốc thư viện để đề xuất chỉnh sửa, cập nhật.
 
-During implementation, if any unreasonable problems are detected, professional and paraprofessional library staff must immediately notify their direct supervisors or library director to propose correction and updating.
+2. Quy định về phát triển và quản lý sưu tập
 
-2. Regulations on collection development and management
+2.1 Mua lại bộ sưu tập
 
-2.1 Collection Acquisition
+Nhiệm vụ
+Quy tắc
+Lưu ý
 
-Tasks
-Rules
-Note
+Lựa chọn tài liệu để mua lại/gia hạn (Phạm vi nội dung, ngôn ngữ, định dạng và cập nhật)
+– Giám đốc thư viện sẽ quyết định lựa chọn tài liệu để mua/gia hạn dựa trên:
 
-Material selection for acquisition/renewal (Content scopes, language, formats, and updates)
-– Library director will decide on material selection for acquisition/renewal based on:
+Yêu cầu của giảng viên và các trường cao đẳng nhằm đảm bảo hỗ trợ cho chương trình giảng dạy và hoạt động nghiên cứu.
 
-Requests by faculty and colleges to ensure the support of academic curriculum and research activities.
+Yêu cầu đặc biệt của lãnh đạo trường đại học.
 
-Special requests by university leaders.
+Lời khuyên từ nhân viên thư viện.
 
-Recommendations from library staff.
+– Không thu thập các tài liệu có hình ảnh đường lưỡi bò hoặc bất kỳ nội dung nào đi ngược lại nguyên tắc chính trị của Đảng và Nhà nước Cộng sản Việt Nam.
+Mẫu yêu cầu (Mẫu 1)
 
-– No materials that contain images of the cow’s tongue line map or any content that go against the political principles of the Vietnamese Communist Party and Government will be collected.
-Request Form (Form 1)
+Số lượng vật liệu thu được
+Dựa trên các định dạng có sẵn và các chính sách liên quan đến truy cập điện tử, sự cần thiết của tài liệu cho các khóa học hoặc hoạt động nghiên cứu và ngân sách được phê duyệt, giám đốc thư viện sẽ quyết định số lượng tài liệu cần mua có tính đến việc:
 
-Quantity of acquired materials
-Based on the available formats and electronic access-related policies, the necessity of materials for courses or research activities, and the approved budget, the library director will decide on the number of materials to be acquired with consideration that:
+Không quá 03 bản in của sách giáo khoa sẽ được mua cho các khóa học trừ khi có yêu cầu đặc biệt hợp lý của Trưởng khoa/Phó trưởng khoa.
 
-No more than 03 print copies of a textbook will be purchased for courses except for special reasonable requests by Deans/Vice Deans.
+Thư viện sẽ chỉ mua một số lượng hạn chế sách giáo khoa để sử dụng cho khóa học. Nếu sinh viên muốn mua riêng, thư viện sẽ tạo điều kiện và cung cấp thông tin đặt hàng.
 
-The library will only buy a limited number of textbook copies for course use. If students would like to buy their own, the library will facilitate and provide the ordering information.
+Mua lại/đổi mới vật liệu
+Mọi hoạt động mua lại phải tuân theo Quy định của VinUni về Quản lý mua sắm hàng hóa, dịch vụ
 
-Materials acquisition/renewal
-All acquisition activities must follow VinUni’s Regulations on the Management of Procurement of Goods and Services
+2.2. Mua lại vật liệu quyên góp
 
-2.2. Donated material acquisition
+Nhiệm vụ
+Quy tắc
+Lưu ý
 
-Tasks
-Rules
-Note
+Mua lại vật liệu/quà tặng
 
-Materials/gifts donation acquisition
+Nhà tài trợ nên ký thỏa thuận tặng quà và chuyển tài liệu/quà tặng tặng cho thư viện.
 
-Donors should sign a gift agreement and deliver donated materials/gifts to the library.
+Nhân viên thư viện sẽ kiểm tra các bản sao và tính phù hợp để đảm bảo tài liệu được tặng phù hợp với việc sưu tập thư viện.
 
-Library staff will check against duplicates and relevance to ensure the donated material is suitable for library collection.
+Thỏa thuận tặng quà thư viện (Mẫu 02)
 
-The Library Gift Agreement (Form 02)
+Biên mục tài liệu quyên góp và xử lý kỹ thuật
 
-Donated material cataloging and technical processing
+Những tài liệu quyên góp phù hợp cho việc sưu tập thư viện sẽ được phân loại, xử lý kỹ thuật nếu ở dạng vật lý và bàn giao cho bộ phận dịch vụ thông tin để cất giữ và lưu hành trong vòng 20 ngày làm việc kể từ ngày nhận.
 
-Donated items suitable for library collection will be cataloged, technically processed if they are in physical formats, and handed over to information service section for shelving and circulation within 20 working days from the receiving dates.
+Các bảng sách điện tử mang tên nhà tài trợ liên kết với đầu sách in, sách điện tử trong danh mục trực tuyến của thư viện sẽ được tạo cho nhà tài trợ có ít nhất 02 mặt hàng phù hợp được tặng.
 
-Digital bookplates that bear the name of donors linked to print and electronic book titles in the library’s online catalogue will be created for donors with at least 02 suitable donated items.
+Tổng số vật phẩm quyên góp của mỗi nhà tài trợ có thể được kiểm tra trong hệ thống Alma/Primo.
 
-Each donor’s total number of donated items can be checked in the Alma/Primo system.
+2.3. Quy trình nội bộ để thu thập
 
-2.3. Internal process for collection
+Nhiệm vụ
+Quy tắc
+Lưu ý
 
-Tasks
-Rules
-Note
+Biên mục
 
-Cataloging
+Nhân viên thư viện phải tuân theo sổ tay biên mục cho tất cả các loại tài liệu để đảm bảo nhận dạng và truy xuất thông tin hiệu quả.
 
-Library staff must follow the cataloging manuals for all kind of materials to ensure efficient information identification and retrieval.
+Gia công kỹ thuật & kệ chứa vật liệu
 
-Technical processing & shelving for physical materials
+Nhân viên thư viện cần tuân thủ hướng dẫn xử lý kỹ thuật đối với tất cả các tài liệu vật lý.
 
-Library staff need to follow the technical processing manual for all physical items.
+Việc xử lý kỹ thuật đối với các mặt hàng vật lý phải được hoàn thành trong vòng 15 ngày làm việc kể từ thời điểm giao hàng.
 
-Technical processing for physical items should be finished within 15 working days from the item delivery time.
+Các tài liệu vật lý được xử lý và lập danh mục về mặt kỹ thuật phải được chuyển giao cho bộ phận dịch vụ thông tin để đặt trên kệ theo quy định.
 
-Physical materials technically processed and cataloged should be handed over to information service section for regulated shelving.
+Việc xếp dỡ phải được nhân viên dịch vụ thông tin thực hiện trong vòng 24 giờ làm việc sau khi nhận được.
 
-Shelving should be performed by information service staff within 24 working hours after receiving.
+Kích hoạt và cung cấp tài liệu điện tử
 
-Electronic material activation and provision
+Nhân viên thư viện phải kích hoạt tài nguyên điện tử trong vòng 48 giờ làm việc kể từ khi nhận được xác nhận của nhà cung cấp về việc cung cấp VinUni.
 
-Library staff must activate e-resources within 48 working hours upon receiving vendors’ confirmation about the availability for VinUni.
+Tất cả các tài nguyên điện tử đã đăng ký phải được thiết lập để có thể truy cập dễ dàng cả trong và ngoài khuôn viên trường. Quyền truy cập vào tài nguyên điện tử phải được kiểm tra tại Primo (từ trang web Thư viện) trong vòng 01 ngày làm việc sau khi kích hoạt và định kỳ cả trong và ngoài khuôn viên trường với các loại tài khoản người dùng, dịch vụ internet và thiết bị điện tử khác nhau.
+Tất cả nhân viên thư viện được yêu cầu kiểm tra khả năng truy cập vào tài nguyên điện tử.
 
-All subscribed e-resources should be set up for easy accesses both on and off campus. Accesses to e-resources must be tested in Primo (from Library website) within 01 working day after activation and periodically both on and off campus with different kinds of user accounts, internet services and electronic devices.
+Hàng tồn kho
 
-All library staff are required to test the accesses to electronic resources.
+Nhân viên thư viện cần tuân theo quy trình kiểm kê của thư viện đối với tất cả các tài liệu vật chất được mua.
 
-Inventory
+Việc kiểm kê vật phẩm nên được thực hiện mỗi năm một lần vào kỳ nghỉ hè của học sinh.
 
-Library staff need to follow library’s inventory procedures for all acquired physical items.
+Sửa chữa vật liệu in
 
-Physical item inventory should be implemented once a year in students’ summer holiday.
+Nhân viên dịch vụ thông tin phải bảo quản tài liệu in ở tình trạng tốt bằng cách sửa chữa những hư hỏng nhẹ hoặc giao những tài liệu in ấn bị hư hỏng nặng đến bộ phận phát triển bộ sưu tập để sửa chữa nội bộ trong vòng 01 ngày làm việc kể từ thời điểm phát hiện hư hỏng.
 
-Print material repair
+Nhân viên phát triển bộ sưu tập chỉ thực hiện việc sửa chữa tổng thể tại nhà trong vòng 05 ngày làm việc kể từ khi nhận được từ nhân viên lưu hành.
 
-Information service staff should maintain print materials in good condition by repairing light damages or delivering those with severe damages to collection development section for in-house repairs within 01 working day from damage detection time.
+Tập Sách Sửa Sách ở Mẫu 3
 
-Collection development staff just perform general possible in-house repairs within 05 working days upon receiving them from circulation staff.
+Làm cỏ các tài nguyên vật chất
+– Tất cả các tài liệu vật chất được rút khỏi bộ sưu tập phải được đóng dấu là “loại bỏ”.
 
-The Book Repair Booklet is in Form 3
+– Tiêu chí làm cỏ bao gồm nhưng không giới hạn những điều sau:
 
-Weeding of the physical resources
-– All physical materials withdrawn from the collection should be stamped as “discarded”.
+Sử dụng không thường xuyên (được xác định là không lưu hành trong 05 năm qua).
 
-– Criteria for weeding includes, but are not limited to, the following:
+Sự trùng lặp đáng kể giữa các loại phương tiện trong đó được xác định rằng nội dung không được hiển thị đầy đủ trong tất cả các bản sao phương tiện,
 
-Infrequent use (defined as having no circulation in the past 05 years).
+Tài liệu cũ hơn hoặc ấn bản sách giáo khoa cũ hơn có chứa thông tin sai lệch hoặc gây hiểu nhầm.
 
-Significant duplication across media types where it is determined that the content is not adequately rendered in all media duplications,
+Tài liệu ở định dạng lỗi thời, ví dụ như VHS, tình trạng vật lý.
 
-Older materials or older editions of textbooks that contain erroneous or misleading information.
+Những đồ vật bị cắt xén hoặc xuống cấp nghiêm trọng sẽ được thay thế nếu có thể.
 
-Materials in outdated formats, for example VHS, physical condition.
+– Quá trình loại bỏ sẽ phù hợp với Quy trình quản lý tài sản của VinUni
+Với tư cách là người trông coi bộ sưu tập, nhân viên thư viện lưu thông/giá đỡ có trách nhiệm loại bỏ tài liệu
 
-Items that are badly mutilated or deteriorated will be replaced, if possible.
+3. Quy định về cung cấp và quản lý dịch vụ thư viện
 
-– The process of weeding will be consistent with VinUni’s Asset Management Process
-As custodians of the collection, circulation/shelving library staff are responsible for material weeding
+Thư viện sẽ thiết lập, thúc đẩy và duy trì các dịch vụ chất lượng nhằm tạo điều kiện thuận lợi cho việc giảng dạy, học tập và nghiên cứu cho tất cả sinh viên, giảng viên và nhân viên của VinUni, các học giả thỉnh giảng, cộng đồng và đối tác được lựa chọn của VinGroup.
 
-3. Regulations on library service delivery and management
+3.1 Dịch vụ thông tin
 
-The library shall establish, promote, and sustain quality services that will facilitate teaching, learning and research for all students, faculty, and staff members of the VinUni, visiting scholars and selected VinGroup community and partners.
+Nhân viên dịch vụ thông tin phải làm quen với sổ tay hướng dẫn bàn thông tin của thư viện, các quy định và cách sử dụng tài nguyên thư viện ở mọi định dạng trước khi bố trí nhân viên cho bàn thông tin.
 
-3.1 Information services
+Nhân viên dịch vụ thông tin phải thông báo việc thư viện đóng cửa đột ngột nếu có trên website thư viện, cổng vào thư viện và qua email chính thức tới cộng đồng người sử dụng thư viện; treo biển ghi số điện thoại liên lạc của họ khi rời quầy thông tin trong thời gian dài (ví dụ: đi vệ sinh, trường hợp khẩn cấp cá nhân) trên 5 phút.
 
-Information service staff must be familiar with the library’s information desk manual, regulations, and the usage of library resources of all formats before staffing the information desks.
+Người dùng sẽ đợi không quá năm phút tại các bàn thông tin khi các bàn này mở cửa.
 
-Information service staff must announce library’s sudden closure if any on library website, library entrances and via official emails to library’s user community; put up a sign with their contact phone number when leaving the information desk for an extended period (e.g., bathroom visit, personal emergency) of over 5 minutes.
+Nhân viên thư viện không được tự ý tiết lộ thông tin của người dùng liên quan đến thông tin cá nhân, thông tin được tìm kiếm hoặc nhận được cũng như các tài nguyên được tư vấn, mượn, thu thập hoặc truyền tải.
 
-Users will wait no longer than five minutes at the information desks when the desks are open.
+Nhân viên thư viện không được phép tự ý thay đổi thông tin giao dịch lưu hành của người dùng trên hệ thống Alma.
 
-Library staff should not arbitrarily disclose users’ information regarding to their personal information, information sought or received, and resources consulted, borrowed, acquired, or transmitted.
+100% mặt hàng vật chất được trả lại sẽ được xếp lại trong vòng 24 giờ.
 
-Library staff are not allowed to arbitrarily alter user’s circulation transaction information in Alma system.
+100% các thắc mắc sẵn sàng giải đáp của người dùng đều được giải đáp và/hoặc giải quyết trong vòng 04 giờ làm việc. Những vấn đề phức tạp cần có sự chấp thuận của lãnh đạo cần được giải quyết trong vòng 02 giờ làm việc; Các câu trả lời đầy đủ phải được gửi đến người dùng trong thời hạn 04 giờ làm việc kể từ thời điểm được phê duyệt.
 
-100% of physical items returned will be reshelved within 24 hours.
+Email chính thức của thư viện phải được sử dụng khi liên hệ với khách hàng.
 
-100% of users’ ready-to-answer inquiries are answered and/or resolved within 04 working hours. Complicated questions that require leadership’s approvals should be acknowledged within 02 working hours; completed answers for them must be delivered to users within 04 working hours from the approval time.
+3.2 Dịch vụ giáo dục
 
-Library’s official emails must be used when contacting with patrons.
+Thư viện sẽ cung cấp các dịch vụ giáo dục sau cho người dùng mục tiêu:
 
-3.2 Educational services
+Dịch vụ giáo dục
+Người dùng mục tiêu
 
-The Library shall provide the following educational services for targeted users:
+Định hướng thư viện: Hướng dẫn khách hàng sử dụng cơ sở vật chất, dịch vụ và tài nguyên (bao gồm cả các chuyến đi dạo thư viện)
+Học sinh mới
 
-Educational services
-Target users
+Hội thảo kỹ năng thông tin: Giới thiệu về quy trình nghiên cứu, cách sử dụng các tài nguyên đã đăng ký và cơ sở dữ liệu trực tuyến phổ biến.
+Học sinh theo yêu cầu
 
-Library orientation: Guiding patrons to use facilities, services, and resources (including library walking tours)
-New students
+Hướng dẫn dành riêng cho khóa học: cộng tác với giảng viên để đưa ra hướng dẫn về các chủ đề cụ thể bao gồm kỹ năng nghiên cứu cho sinh viên dựa trên một chủ đề nghiên cứu
 
-Information skills workshops: Introduce to the research process, the use of subscribed resources, and popular online databases.
-Students by requests
+Tư vấn nghiên cứu: trợ giúp nghiên cứu từng cá nhân; tìm kiếm tài liệu, tìm kiếm trích dẫn, tìm kiếm dữ liệu thống kê và bản quyền.
+Sinh viên và giảng viên
 
-Course-specific instruction: collaborate with faculty to deliver instructions to specific subjects including research skills to students based around a research topic
+Nhân viên thư viện được yêu cầu:
 
-Research consultation: one on one research help; literature searches, citation searches, statistical data searches, and copyright.
-Students and faculty
+Sử dụng thông tin chính xác và cập nhật nhất trong tất cả các buổi học của người dùng.
 
-Library staff are required to:
+Đối với các cuộc hội thảo, tọa đàm hoặc định hướng, hãy xây dựng kế hoạch về nội dung và hoạt động giáo dục đã được giám đốc thư viện phê duyệt trước.
 
-Use accurate and the most updated information in all users’ educational sessions.
+Xây dựng và cập nhật thường xuyên trang “Câu hỏi thường gặp”, libguides trên website thư viện.
 
-For workshops, seminars, or orientations, develop a plan for educational contents and activities that are approved by library director in advance.
+Nhận phản hồi từ người dùng vào cuối mỗi buổi dịch vụ giáo dục.
 
-Develop and regularly update “Frequently Asked Questions” page, libguides on the library’s website.
+3.3 Dịch vụ môi trường học tập
 
-Get feedback from users at the end of each educational service session.
+Mọi thay đổi về cách bố trí cơ sở vật chất thư viện, cơ sở hạ tầng, trang thiết bị, trang trí thư viện đều phải được lãnh đạo VinUni phê duyệt theo quy định tại Văn bản ủy quyền (DOA).
 
-3.3 Learning environment services
+Trong giờ làm việc, nhân viên thư viện phải đảm bảo khách hàng sử dụng không gian thư viện và cơ sở vật chất tuân thủ các quy định của thư viện, dành biên bản để xử lý sau/hình phạt đối với những sinh viên bị phát hiện vi phạm các quy định của thư viện theo “Quy tắc ứng xử và chính sách và thủ tục kỷ luật dành cho sinh viên”.
 
-Any changes in the layout of the library facilities, library infrastructure, equipment, and decoration should be approved by VinUni leaders as regulated in the Document of Authorization (DOA).
+ 3.4 Dịch vụ tài khoản người dùng
 
-During working hours, library staff should ensure patrons using library space and physical facility comply with library regulations, take minutes for later /penalties on students found to have violated the library regulations pursuant to “Student code of conduct and disciplinary policy and procedures”.
+Tài khoản người dùng đã đăng ký có yêu cầu đủ điều kiện thông qua Mẫu đăng ký tài khoản trực tuyến phải được tạo, gia hạn hoặc hủy kích hoạt dựa trên sự chấp thuận của lãnh đạo VinUni (theo DOA). Việc tạo tài khoản phải hoàn tất và thông báo cho người dùng được chấp thuận trong vòng 02 ngày làm việc kể từ thời điểm yêu cầu.
 
- 3.4 User account services
+Nhân viên thư viện nên phối hợp với bộ phận Công nghệ thông tin (IT) VinUni để tạo tài khoản thư viện VinUni cho người dùng đã đăng ký đủ điều kiện.
 
-Registered user accounts with eligible requests via online Account Registration Form should be created, renewed, or deactivated based on the approval of VinUni leaders ( according to the DOA). The account creation should be finished and announced to approved users within 02 working days since request time.
+Tài khoản được yêu cầu sẽ hết hạn sau 01 năm và sẽ được tự động gia hạn thêm một năm vào ngày hết hạn đối với người dùng đủ điều kiện.
 
-Library staff should cooperate with VinUni Information Technology (IT) department to create VinUni library accounts for eligible registered users.
+Nhân viên thư viện sẽ làm việc với bộ phận CNTT để gửi email xác nhận cho người dùng đã đăng ký hai lần một năm để đảm bảo trạng thái đủ điều kiện của họ.
 
-Requested accounts will expire after 01 year and will be automatically renewed for one year on the expire date for eligible users.
+Sau 02 năm, tất cả các tài khoản bị vô hiệu hóa sẽ bị xóa vĩnh viễn.
 
-Library staff will work with IT department to send validation emails to registered users twice a year to make sure their eligible status.
+4. Quy định quản lý hệ thống, cơ sở công nghệ thư viện
 
-After 02 years, all the deactivated accounts will be removed permanently.
+Email chính thức của Thư viện phải được sử dụng trong việc quản lý tất cả các hệ thống và ứng dụng công nghệ thư viện.
 
-4. Regulations on management of library technology systems and facilities
+Danh sách kiểm tra đánh giá thiết bị/cơ sở vật chất phải được ghi lại hàng ngày để đảm bảo tất cả các thiết bị thư viện, cơ sở tự phục vụ luôn hoạt động tốt và được vệ sinh sạch sẽ trước khi người sử dụng sử dụng.
 
-Library’s official emails must be used in the management of all library technology systems and applications.
+Các hoạt động vận hành và bảo trì (vệ sinh, cập nhật, khắc phục sự cố và sửa chữa máy móc, thiết bị) phải tuân thủ khuyến nghị và hướng dẫn sử dụng của nhà sản xuất. Không được tự ý tháo rời, di chuyển, mang thiết bị ra khỏi thư viện khi chưa được phép của Giám đốc thư viện.
 
-Checklists of equipment/facilities evaluation must be recorded every day to make sure all library equipment, self-service facilities will be in proper working order and cleaned before users’ usage.
+Nhân viên thư viện phải báo cáo ngay cho Phòng Điều hành VinUni và Giám đốc thư viện nếu phát hiện bất kỳ thiết bị nào bị mất cắp.
 
-The operation and maintenance activities (cleaning, update, troubleshooting and repairing of machinery and equipment) must comply with producers’ recommendations and user manuals. Disassembling, moving or bring equipment out of the library arbitrarily without permission from library director are not allowed.
+Quản lý khóa thư viện:
 
-Library staff must report to VinUni Operation Department and library director immediately if any equipment has been found stolen.
+Nhân viên thư viện phụ trách chìa khóa vào thư viện phải mở/đóng thư viện trước giờ mở cửa quy định 05 phút và đóng cửa sau giờ đóng cửa quy định 05 phút trong ca làm việc/ngày. Việc mở/đóng thư viện vào thời điểm khác phải được sự đồng ý của Giám đốc thư viện.
 
-Library key management:
+Nhân viên làm việc tại văn phòng thư viện phải chịu trách nhiệm về chìa khóa văn phòng của mình. Nhân viên phục vụ thông tin phải chịu trách nhiệm về chìa khóa các phòng chức năng khác. Chìa khóa phải được trả lại cho thư viện vào ngày làm việc cuối cùng của nhân viên tại thư viện ngay lập tức.
 
-Library staff in charge of library entrance keys should open/close the library 05 minutes before the regulated open time and close 05 minutes after the regulated close time in their working shift/day. Opening/closing the library at any other time must be approved by library director.
+Tất cả các chìa khóa dự phòng phải được giữ ở bàn lưu thông.
 
-Staff working in library office must be responsible for their office keys. Information service staff must be responsible for other functional rooms’ keys. Keys must be returned to the library on the last working day of staff at the library without delay.
+5. Biểu mẫu
 
-All the back-up keys must be kept at the circulation desk.
+FRM01 – Yêu cầu vật liệu
 
-5. Forms
+FRM02 – Thỏa thuận quà tặng
 
-FRM01 – Material request
+FRM03 – Sách sửa sách
 
-FRM02 – Gift Agreement
+Vui lòng tham khảo Nội quy Thư viện dành cho người dùng TẠI ĐÂY
 
-FRM03 – Book Repair Booklet
+Trạng thái và chi tiết
 
-Please refer to the Library Regulations for Users HERE
-
-Status and Details
-
-Reference Number:
+Số tham chiếu:
 
 VU_TV01.EN
 
-Document Type:
+Loại tài liệu:
 
-Policy
+Chính sách
 
-Issuing By:
+Phát hành bởi:
 
-VinUniversity Library
+Thư viện Đại học VinUni
 
-Issuing Date:
+Ngày phát hành:
 
-Feb 11, 2023
+Ngày 11 tháng 2 năm 2023
 
-Applying for:
+Đăng ký:
 
-All VinUniversity
+Tất cả trường đại học VinUni
 
-Security Classification:
+Phân loại bảo mật:
 
-Public
+công cộng
 
-Record of Changes
+Hồ sơ thay đổi
 
-Revision
+Sửa đổi
 
-Date
+Ngày
 
-Author / Editor
+Tác giả/Biên tập viên
 
-Description
+Mô tả
 
 V1.0 
 
-Feb 11, 2023 
+Ngày 11 tháng 2 năm 2023 
 
-Prepared by: Library 
+Biên soạn bởi: Thư viện 
 
-Approved by: Provost 
+Người phê duyệt: Provost 
 
-First Release
+Bản phát hành đầu tiên

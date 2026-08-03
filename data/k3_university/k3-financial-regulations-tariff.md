@@ -7,748 +7,738 @@ document_version: "not-stated"
 audience: "student"
 department: "finance"
 category: "tuition"
-language: "en"
----
+language: "vi"
+---# Quy định tài chính và thuế quan (dành cho sinh viên)
 
-# Financial Regulations and Tariff (for student)
+A.    QUY ĐỊNH TÀI CHÍNH VÀ BIỂU PHÍ DÀNH CHO ĐẠI HỌC
 
-A.    FINANCIAL REGULATIONS AND TARIFF FOR UNDERGRADUATE
+I. HỌC PHÍ NIÊM YẾT
 
-I. LISTED TUITION FEE
+Học phí niêm yết được ban hành theo khung chương trình chuẩn được công bố tại thời điểm tuyển sinh.
 
-Listed tuition fee is issued according to the standard curriculum framework announced at the time of admission.
+Học phí bao gồm phí đào tạo-thực hành, phí cơ sở vật chất, hỗ trợ CNTT, Hoạt động sinh viên (định hướng, dịch vụ y tế và tư vấn tâm lý, cố vấn học tập, tư vấn nghề nghiệp, hiệp hội sinh viên, câu lạc bộ, sự kiện văn hóa thể thao, trao đổi quốc tế, trải nghiệm kinh doanh).
 
-Tuition fees include training-practical fees, facilities fees, IT support, Student activities (orientation, health services and counseling psychology, academic advisors, career counseling, student associations, clubs, sporting-cultural events, international exchange, business experiences).
+Chương trình học phí niêm yết:
 
-Listed tuition feeby program:
+Đơn vị tiền tệ: VNĐ
 
-Currency Unit: VND
+chương trình
+Thời lượng tiêu chuẩn (năm)
+Học phí niêm yết mỗi năm học
+Học phí niêm yết mỗi học kỳ
+Học phí được liệt kê cho mỗi tín chỉ (*)
 
-Program
-Standard Duration (years)
-Listed Tuition Fee per Academic Year
-Listed Tuition Fee per Semester
-Listed Tuition Fee per Credit (*)
-
-Bachelor of Nursing
+Cử nhân điều dưỡng
 4
-349,650,000/year
-174,825,000/semester
- 9,780,000/credit
+349.650.000/năm
+174.825.000/kỳ
+ 9.780.000/tín chỉ
 
-Doctor of Medicine
+Bác sĩ Y khoa
 6
-815,850,000/year
-407,925,000/ semester
-27,195,000/ credit
+815.850.000/năm
+407.925.000/ học kỳ
+27.195.000/ tín chỉ
 
-Other Bachelor Programs
+Các chương trình cử nhân khác
 4
-815,850,000/year
-407,925,000/ semester
-27,195,000/ credit
+815.850.000/năm
+407.925.000/ học kỳ
+27.195.000/ tín chỉ
 
-(*) Tuition fee listed by credit applied in the following cases
+(*) Học phí tính theo tín chỉ áp dụng trong các trường hợp sau
 
-Students taking additional credits when studying two programs at the same time (double degree) at VinUniversity
+Sinh viên học thêm tín chỉ khi học cùng lúc hai chương trình (bằng kép) tại Đại học VinUni
 
-Students who take additional credits beyond the standard curriculum framework announced at the time of enrollment (which normally includes one major and up to one minor). This applies, for example, to students pursuing two majors (double concentrations) or two minors (double minors) at the same time.
+Sinh viên học thêm tín chỉ ngoài khung chương trình tiêu chuẩn đã công bố tại thời điểm tuyển sinh (thông thường bao gồm một chuyên ngành và tối đa một chuyên ngành phụ). Ví dụ, điều này áp dụng cho những sinh viên theo đuổi hai chuyên ngành (tập trung kép) hoặc hai chuyên ngành phụ (chuyên ngành kép) cùng một lúc.
 
-Students taking additional credits when studying an integrated exchange program at VinUni’s partner universities, as well as visiting students (students who are enrolled at another institution and temporarily study at VinUni)
+Sinh viên học thêm tín chỉ khi theo học chương trình trao đổi tích hợp tại các trường đại học đối tác của VinUni cũng như sinh viên tham quan (sinh viên đang theo học tại cơ sở khác và tạm thời học tại VinUni)
 
-Students studying a short-term exchange program within the scope of cooperation with a partner universities or other programs that require payment by credit.
+Sinh viên theo học chương trình trao đổi ngắn hạn trong phạm vi hợp tác với các trường đại học đối tác hoặc các chương trình khác có yêu cầu thanh toán bằng tín chỉ.
 
-Students are required to retake a course in the following cases: failure to meet the minimum passing grade, ineligibility to take the final exam due to absence or violation of academic regulations, or voluntary registration to improve their academic performance.
+Sinh viên được yêu cầu học lại môn học trong các trường hợp: không đạt điểm đậu tối thiểu, không đủ điều kiện dự thi cuối kỳ do vắng mặt hoặc vi phạm nội quy học tập, hoặc tự nguyện đăng ký để nâng cao kết quả học tập.
 
-Students transferring from another university are recognized as equivalent to VinUniversity’s credits according to the current credit transfer training regulations of the Vin In case students receive approval for conditional credit transfer with a course that requires additional knowledge (for example, practice/experiment), the tuition fee will be determined based on the actual number of credits for these additional courses. Only applicable to students enrolling from the 2024-2025 academic year onwards.
+Sinh viên chuyển tiếp từ trường đại học khác được công nhận tương đương với tín chỉ của VinUni theo quy định đào tạo chuyển tiếp tín chỉ hiện hành của VinUni. Trong trường hợp sinh viên được xét chuyển tín chỉ có điều kiện vào khóa học yêu cầu kiến ​​thức bổ sung (ví dụ thực hành/thí nghiệm), học phí sẽ được xác định dựa trên số tín chỉ thực tế của các khóa học bổ sung này. Chỉ áp dụng cho sinh viên đăng ký từ năm học 2024-2025 trở đi.
 
-Note:
+Lưu ý:
 
-Credits are understood as subjects that have determined a specific number of academic credits according to VinUniversity’s current Training Regulations. In cases where subjects do not determine the number of academic credits but only specify the number of required hours, they will be converted 15 contact hours equivalent to 1 credit.
+Tín chỉ được hiểu là những môn học được xác định số tín chỉ học tập cụ thể theo Quy chế đào tạo hiện hành của Đại học VinUni. Trường hợp môn học không xác định số tín chỉ học tập mà chỉ xác định số giờ yêu cầu sẽ được quy đổi 15 giờ liên hệ tương đương 1 tín chỉ.
 
-The tuition fees do not distinguish between training methods, including online, offline or hyrid (online-offline)
+Học phí không phân biệt hình thức đào tạo, bao gồm online, offline hay hyrid (online-offline)
 
-Tuition fees apply for Vietnamese and International Students with the same rate
+Học phí áp dụng cho sinh viên Việt Nam và quốc tế với mức như nhau
 
-Payment deadline: Students will pay tuition fees (02) twice/year at the beginning of the main semesters, according to the annual announcement schedule from VinUni.
+Thời hạn đóng học phí: Sinh viên sẽ đóng học phí (02) lần/năm vào đầu học kỳ chính, theo lịch thông báo hàng năm từ VinUni.
 
  
 
-II. OTHER FEES
+II. CÁC PHÍ KHÁC
 
-Application fee
+Phí đăng ký
 
-Application fee accounts for the screening procedures necessary for processing submitted application to the academic programs at VinUniversity.
+Phí đăng ký bao gồm các thủ tục sàng lọc cần thiết để xử lý đơn đăng ký vào các chương trình học thuật tại Đại học VinUni.
 
-The fee is 2,000,000 VND/application/applicant
+Lệ phí là 2.000.000 VNĐ/đơn/người nộp đơn
 
-The fee applies to Applicants who are accepted to join the interview.
+Lệ phí áp dụng cho những Ứng viên được chấp nhận tham gia phỏng vấn.
 
-The fee is WAIVED for applicants who:
+Lệ phí được MIỄN cho những người nộp đơn:
 
-Participate in recruitment events organized by VinUniversity or VinUniversity’s College–+
+Tham gia các sự kiện tuyển dụng do Đại học VinUni hoặc Cao đẳng VinUniversity tổ chức–+
 
-Participate in academic or extracurricular competitions organized by VinUniversity or VinUniversity’s College
+Tham gia các cuộc thi học thuật hoặc ngoại khóa do Đại học VinUni hoặc Trường Cao đẳng VinUni tổ chức
 
-Be on the nomination list of the Principal of the High School the candidate attends
+Nằm trong danh sách đề cử của Hiệu trưởng trường THPT mà thí sinh theo học
+Các trường hợp đặc biệt khác được phê duyệt theo đợt/kỳ tuyển dụng trong năm
 
-Other special cases approved according to the recruitment campaign/period of the year
+Ứng viên nộp phí trước ngày phỏng vấn.
 
-Applicants pay fees before interview date.
+Khoản phí này KHÔNG được hoàn lại hoặc chuyển nhượng trong mọi trường hợp.
 
-This fee is NOT refundable or transferable under any circumstances.
+Phí xác nhận quyền nhận Học bổng/Giảm học phí/Hỗ trợ tài chính Đủ điều kiện – Phí duy trì
 
-Confirmation Fee for the right to receive Scholarship/Tuition discount/Financial Aid Eligibility – Retention fee
+Phí giữ lại là phí cần thiết để xác nhận việc trao Học bổng, Ưu đãi Học phí hoặc Hỗ trợ Tài chính được cấp cho Người nộp đơn sau kết quả nhập học sơ bộ.
 
-Retention fee is the fee required to confirm the award of a Scholarship, Tuition Fee Incentive, or Financial Aid granted to the Applicant following the preliminary admission results.
+Lệ phí: 20.000.000 VNĐ/lần/Sinh viên.
 
-Fee: 20,000,000 VND/time/Student.
+Ứng viên nộp phí theo thông báo từ Đại học VinUni trừ một số trường hợp đặc biệt.
 
-Applicants pay fees according to the announcement from the VinUniversity except for some special cases.
+Khoản phí này KHÔNG được hoàn lại hoặc chuyển nhượng trong bất kỳ trường hợp nào, nhưng được khấu trừ vào học phí hoặc các khoản thanh toán khác khi sinh viên đăng ký. Khoản phí này chỉ được hoàn lại trong trường hợp sinh viên nhận được đề nghị nhập học có điều kiện nhưng không đăng ký do không đáp ứng các điều kiện quy định hoặc nếu Trường hủy bỏ việc tiếp nhận học sinh đã chọn. Sinh viên được trao học bổng bao gồm 100% học phí trở lên sẽ được điều chỉnh khoản phí này sau năm học đầu tiên.
 
-This fee is NOT refundable or transferable under any circumstances, but deductible from the tuition fees or other payments upon the student’s enrollment. The fee is refundable only in cases where the student receives a conditional offer of admission but does not enroll due to failure to meet the specified conditions, or if the University cancels the intake of the selected academicStudents who are awarded a scholarship covering 100% or more of tuition fees will have this fee reconciled after the first academic year.
+Phí thư viện
 
-Library fee
+Phạt tiền vay quá hạn hoặc thu hồi
 
-Fines for overdue borrowing or recall
+Tiền phạt mượn quá hạn, thu hồi quá hạn là phạt trả chậm tài liệu, thiết bị mượn kể từ ngày đến hạn hoặc hết thời gian thu hồi cho đến ngày thực tế trả lại hoặc ngày Sinh viên thông báo mất tài liệu, thiết bị (kể cả ngày nghỉ, ngày lễ).
 
-The fines for borrowing overdue or overdue recall is for late payment of the borrowed material or equipment from the due date or the expiration of the recall to the actual date of return or the date of notification of lost document or equipment from Student (including day-off and holidays).
+Mức phạt quá hạn:
 
-Overdue fines:
+Đối với tài liệu thông thường: quá hạn 10.000 đ/ngày/chứng từ.
 
-For normal material: 10,000 VND/day overdue/document.
+Đối với tài liệu dự trữ khóa học: quá hạn 10.000 VNĐ/giờ/tài liệu.
 
-For course reserve material: 10,000 VND/hour overdue/document.
+Đối với thiết bị: quá hạn 10.000 đồng/ngày/thiết bị.
 
-For equipment: 10,000 VND/day overdue/equipment.
+Những sinh viên chưa nộp phạt do mượn tài liệu hoặc thiết bị quá hạn sẽ không được phép tiếp tục mượn tài liệu hoặc thiết bị thư viện.
 
-Students who have not paid a fine for overdue materials or equipment borrowing are not allowed to continue borrowing library materials or equipment.
+Sinh viên chậm trả sách quá 30 ngày, ngoài phí nộp chậm sẽ phải nộp thêm một khoản phạt tương đương với giá bìa của tài liệu mượn.
 
-Students who delayed to return books for more than 30 days, in addition to late payment fees, will have to pay an additional fine equivalent to the cover price of the borrowed document.
+Tiền phạt được thu tại thời điểm phát sinh.
 
-Fines are collected at the time incurred.
+Phí sửa chữa tài liệu, thiết bị hư hỏng nhẹ
 
-Fees for repairing slightly damaged documents or equipment
+Phí sửa chữa tài liệu, thiết bị hư hỏng nhẹ là phí bồi thường cho những tài liệu, thiết bị mượn của Thư viện bị hư hỏng nhẹ theo Nội quy Thư viện.
 
-The fee for repairing slightly damaged materials or equipment is to compensate for damaging slightly library borrowed material or equipment according to the Library Regulations.
+Lệ phí: 200.000 VNĐ/tài liệu hoặc thiết bị.
 
-Fee: 200,000 VND/document or equipment.
+Ngoài việc bồi thường thiệt hại, Sinh viên có thể phải trả thêm phí hành chính hoặc tiền phạt do mượn tài liệu hoặc thiết bị quá hạn theo Nội quy Thư viện.
 
-In addition to damage compensation, Students may have to pay additional administrative fees or fines for borrowing overdue material or equipment according to the Library Rules.
+Sinh viên chưa nộp phí sẽ không được tiếp tục mượn tài liệu, thiết bị thư viện.
 
-Students who have not paid the fee will not be allowed to continue borrowing library materials or equipment.
+Phí được thu tại thời điểm phát sinh.
 
-Fees are collected at the time incurred.
+Phí thay thế tài liệu, thiết bị bị mất hoặc hư hỏng nặng
 
-Fee for replacing documents or equipment that are lost or badly damaged
+Phí thay thế tài liệu, thiết bị bị mất hoặc hư hỏng nặng là để bồi thường thiệt hại do tài liệu, thiết bị mượn của Thư viện bị mất hoặc hư hỏng nghiêm trọng theo Nội quy Thư viện.
 
-The replacement fee for the lost or badly damaged document or equipment is to compensate for damages resulting from the loss or serious damage of library borrowed material or equipment according to the Library Regulations.
+Lệ phí:
 
-Fees:
+Đối với các hồ sơ có thể đặt hàng lại trên thị trường (trong nước và quốc tế): Phí được tính bằng giá mua hồ sơ mới và 200.000 đồng phí hành chính/hồ sơ.
 
-For documents available for re-order on the market (national and international): The fee is calculated by the purchased price of new documents and 200,000 VND administrative fee/document.
+Đối với các tài liệu chưa có trên thị trường (trong nước và quốc tế): Phí được tính bằng 05 lần giá gốc.
 
-For documents not available on the market (national and international): The fee is calculated by 05 times of the original price.
+Đối với thiết bị: Phí được tính bằng giá mua mới của thiết bị tương đương và 200.000 đồng phí hành chính/thiết bị.
 
-For equipment: The fee is calculated by newly-purchased price of the same or equivalent equipment and 200,000 VND administrative fee/equipment.
+Ngoài việc bồi thường thiệt hại, Sinh viên có thể phải nộp phạt do mượn tài liệu, thiết bị quá hạn theo Nội quy Thư viện.
 
-In addition to damage compensation, Students may have to pay fines for borrowing overdue materials or equipment according to the Library Regulations.
+Trong trường hợp Sinh viên tìm thấy tài liệu, thiết bị bị thất lạc trước đó và trả lại thư viện sau khi Sinh viên đã nộp phí thay thế thì khoản phí này sẽ không được hoàn lại. Tuy nhiên, Học sinh sẽ sở hữu các tài liệu hoặc thiết bị được tìm thấy.
 
-In the case Students find a previously lost material or equipment and return it to the library after the Students have paid the replacement fee, this fee will not be refunded. However, Students will own the found documents or equipment.
+Phí được thu trong vòng 30 ngày làm việc kể từ ngày thông báo tài liệu bị mất hoặc hư hỏng nặng.
 
-Fees are collected within 30 working days of notification of lost or badly damaged material.
+Phí hành chính học thuật
+Phí hành chính học thuật là phí quản trị để xử lý các yêu cầu học tập của sinh viên, cụ thể:
 
-Academic Administrative Fee
+Dịch vụ hành chính học thuật
+Số tiền phí
+Thời gian thu thập
 
-The academic administrative fee is an admin fee for processing students’ academic requests, specifically:
+1. Thay thế thẻ ID sinh viên
+200.000đ/thẻ
+Tại thời điểm học sinh yêu cầu
 
-Academic Administrative Services
-Fee Amount
-Collection Time
+2. Cung cấp hồ sơ công chứng (bảng điểm tạm thời, bản sao có công chứng bảng điểm, xác nhận của học sinh, cấp bản sao, v.v.)
+50.000đ/bản
+Tại thời điểm yêu cầu tài liệu
 
-1. Student ID Card Replacement
-200,000 VND/card
-At the time of student’s request
+3. Xử lý việc hoãn hoặc hoàn trả học phí (đối với trường hợp nghỉ học/rút học)
+2.000.000 VNĐ/yêu cầu
+Khi nhận được đơn
 
-2. Providing Certified documents (temporary transcript, certified copy of transcript, student confirmation, issuing copies, etc.)
-50,000 VND/copy
-At the time of document request
+4. Xử lý chương trình chuyển giao
+2.000.000 VNĐ/yêu cầu
+Khi nhận được đơn
 
-3. Processing Tuition Deferment or Refund (for Leave of Absence/Withdrawal)
-2,000,000 VND/request
-Upon receipt of application
+5. Xử lý việc đăng ký đồng thời hai chương trình
+2.000.000 VNĐ/yêu cầu
+Khi nhận được đơn
 
-4. Processing transferring Programs
-2,000,000 VND/request
-Upon receipt of application
+6. Phí thẩm định chuyển tiếp tín chỉ (theo Điều 13 Quy chế học thuật đối với chương trình đại học chính quy, không bao gồm các chương trình trao đổi được thực hiện theo thỏa thuận hợp tác của VinUni với các trường đối tác).
+2.000.000 VNĐ/ đối tượng yêu cầu
+Khi nhận được đơn
 
-5. Processing Concurrent Enrollment in Two Programs
-2,000,000 VND/request
-Upon receipt of application
-
-6. Fee for the evaluation of credit transfer (in accordance with Article 13 of Academic Regulations for Full-Time Undergraduate Programs, excluding exchange programs conducted under VinUni’s partnership agreements with partner institutions).
-2,000,000 VND/ requested subject
-Upon receipt of application
-
-7. Exam Score Review
-1,000,000 VND/request/subject
-Upon receipt of application
+7. Xét điểm thi
+1.000.000 VNĐ/yêu cầu/đối tượng
+Khi nhận được đơn
 
  
 
-Re-examination and Retake Fees
+Lệ phí thi lại và thi lại
 
-For courses in which students do not meet the academic requirements, they may be required to retake the final examination (if a re-exam is organized) or register to retake the course. The applicable fees shall follow VinUni’s official announcement on re-examination and course retake fees..
+Đối với những khóa học mà sinh viên không đạt yêu cầu học tập có thể phải thi lại cuối khóa (nếu tổ chức thi lại) hoặc đăng ký học lại khóa học. Học phí áp dụng theo thông báo chính thức của VinUni về phí thi lại và học lại khóa học..
 
-In cases where students register to retake a course or retake an exam for the purpose of grade improvement, the applicable retake fee shall also follow the University’s prevailing regulations.
+Trường hợp sinh viên đăng ký học lại môn học hoặc thi lại nhằm mục đích nâng cao điểm số thì mức phí thi lại cũng được áp dụng theo quy định hiện hành của Nhà trường.
 
-The tuition fee for retaken credits is 50% of the standard per-credit tuition fee (as referenced in Section I). For courses that do not specify academic credits but instead stipulate a required number of hours, the conversion rate shall be 15 contact hours equivalent to 1 credit.
+Học phí cho việc học lại tín chỉ là 50% học phí tiêu chuẩn cho mỗi tín chỉ (như được tham chiếu trong Phần I). Đối với những khóa học không quy định tín chỉ học tập mà quy định số giờ bắt buộc thì tỷ lệ quy đổi là 15 giờ liên hệ tương đương 1 tín chỉ.
 
-Re-examination fees:
+Lệ phí thi lại:
 
-For theoretical exams: 1,500,000 VND/student/attempt
+Thi lý thuyết: 1.500.000 VNĐ/học viên/lần thi
 
-For practical exams: 2,500,000 VND/student/attempt
+Thi thực hành: 2.500.000 VNĐ/học viên/lần thi
 
-For exams administered in accordance with the U.S. National Board of Medical Examiners (NBME) standards: 2,000,000 VND/student/attempt
+Đối với các kỳ thi được tổ chức theo tiêu chuẩn của Ủy ban Giám định Y khoa Quốc gia Hoa Kỳ (NBME): 2.000.000 VNĐ/học sinh/lần thi
 
-These re-examination and course retake fees (if applicable) are not eligible for any tuition discounts, early payment incentives, or VinUni scholarships.
+Phí thi lại và học lại khóa học này (nếu có) không được hưởng bất kỳ khoản giảm học phí, ưu đãi thanh toán sớm hoặc học bổng VinUni nào.
 
-Effective Date and Scope:
+Ngày và phạm vi có hiệu lực:
 
-For students admitted before Academic Year 2025 (Cohorts 1,2,3,4,5):
+Đối với sinh viên nhập học trước năm học 2025 (Nhóm 1,2,3,4,5):
 
-The first retake or re-examination of any course initially registered prior to Fall Semester 2025 will remain free of charge, regardless of the reason (whether due to not meet the academic requirements or GPA improvement).
+Lần thi lại hoặc kiểm tra lại đầu tiên của bất kỳ khóa học nào được đăng ký ban đầu trước Học kỳ mùa thu năm 2025 sẽ vẫn miễn phí, bất kể lý do là gì (do không đáp ứng yêu cầu học tập hoặc cải thiện điểm trung bình).
 
-The retake/re-examination fee will apply starting from:
+Phí thi lại/thi lại sẽ được áp dụng bắt đầu từ:
 
-the second retake or re-examination of those courses, or
+học lại hoặc thi lại lần thứ hai các khóa học đó, hoặc
 
-For any course first registered from Fall Semester 2025 onward
+Đối với bất kỳ khóa học nào đăng ký lần đầu từ Học kỳ mùa thu 2025 trở đi
 
-For students admitted from Fall Semester 2025 onward (Cohort 6 and later): The new fee policy will be fully effective for all retake and re-examination attempts.
+Đối với những sinh viên được nhận từ Học kỳ mùa thu năm 2025 trở đi (Nhóm 6 trở lên): Chính sách phí mới sẽ hoàn toàn có hiệu lực đối với tất cả các lần thi lại và kiểm tra lại.
 
-Dormitory Fee
+Phí ký túc xá
 
-This fee includes accommodation, facilities, internet, common restroom area, technical fee, parking (1 vehicle/Student, for car, students need to register in advance so that the university can arrange parking depending on availability), electricity and water (according to the norm of 120 kWh electricity/person/month, 4m3 water/person/month). In case of excessing the limit, there will be an extra charge according to the rate prescribed by the VinUniversity. Students can utilize other paid-services like cleaning, laundry and dining.
+Phí này bao gồm chỗ ở, cơ sở vật chất, internet, khu vệ sinh chung, phí kỹ thuật, bãi đậu xe (1 xe/Sinh viên, đối với ô tô, sinh viên cần đăng ký trước để nhà trường bố trí chỗ đậu xe tùy theo tình trạng sẵn có), điện, nước (theo định mức 120 kWh điện/người/tháng, 4m3 nước/người/tháng). Trường hợp vượt quá hạn mức sẽ tính thêm phí theo mức quy định của Đại học VinUni. Sinh viên có thể sử dụng các dịch vụ trả phí khác như dọn dẹp, giặt là và ăn uống.
 
-The fee is calculated based on the number of days of residence in the Dormitory, according to the official move-in and move-out dates for each academic term as announced on the website.
+Mức phí được tính dựa trên số ngày lưu trú tại Ký túc xá, theo ngày chuyển vào và chuyển đi chính thức cho từng học kỳ đã được công bố trên website.
 
-Detail Dormitory Fee Schedule:
+Chi tiết Biểu phí ký túc xá:
 
-Building
-Room Type (Persons/Room)
-Standard Rate
+tòa nhà
+Loại phòng (Người/Phòng)
+Tỷ lệ tiêu chuẩn
 
-(VND/person/month)
-Preferential Rate for VinUni Returning Resident Program
+(đồng/người/tháng)
+Ưu đãi dành cho chương trình cư dân trở về VinUni
 
-(VND/person/month)
-
-JA, JB, T
-8-person
-3,500,000
-3,000,000
+(đồng/người/tháng)
 
 JA, JB, T
-4-person
-3,700,000
-3,150,000
+8 người
+3.500.000
+3.000.000
+
+JA, JB, T
+4 người
+3.700.000
+3.150.000
 
 JA, JB
-2-person
-4,400,000
-3,750,000
+2 người
+4.400.000
+3.750.000
 
 T
-2-person
-5,000,000
-4,250,000
+2 người
+5.000.000
+4.250.000
 
-Note: 
+Lưu ý: 
 
-The daily rate is calculated based on a standard month of 30 days
+Tỷ lệ hàng ngày được tính dựa trên một tháng tiêu chuẩn là 30 ngày
 
-The above rates are inclusive of Value Added Tax (VAT), in accordance with the Law on Value Added Tax No. 48/2024/QH15 and Decree No. 181/2025/ND-CP.
+Mức giá trên đã bao gồm Thuế giá trị gia tăng (VAT), theo quy định của Luật thuế giá trị gia tăng số 48/2024/QH15 và Nghị định số 181/2025/ND-CP.
 
-The Preferential Rate for VinUni Returning Resident Program shall apply only when all of the following conditions are satisfied:
+Ưu đãi dành cho Chương trình Cư dân trở về VinUni chỉ được áp dụng khi đáp ứng đầy đủ các điều kiện sau:
 
-The student has resided in the Dormitory for at least nine (09) months during the immediately preceding academic year.
+Sinh viên đã cư trú tại Ký túc xá ít nhất chín (09) tháng trong năm học ngay trước đó.
 
-The student registers for a new stay of at least one (01) academic semester.
+Sinh viên đăng ký lưu trú mới ít nhất một (01) học kỳ.
 
-Students may apply the Preferential rate concurrently with the payment discount policy under current regulations.
+Sinh viên được áp dụng Tỷ lệ ưu đãi đồng thời với chính sách chiết khấu thanh toán theo quy định hiện hành.
 
-The Standard Rates shall apply to students and other guests who do not meet the conditions for the VinUni Returning Resident Program.
+Giá tiêu chuẩn sẽ áp dụng cho sinh viên và những vị khách khác không đáp ứng các điều kiện của Chương trình Cư dân trở về VinUni.
 
-Each Student in the Dormitory must pay a deposit equivalent to 1 month rent and billed with the Dormitory fee/ Stay
+Mỗi Sinh viên ở Ký túc xá phải đặt cọc tương đương 1 tháng tiền thuê nhà và thanh toán phí Ký túc xá/Ký túc xá
 
-Deadline:
+Hạn chót:
 
-For short-term Students: pay in 1 single payment within 1 week before the first day of admission to the Dormitory.
+Đối với sinh viên học ngắn hạn: thanh toán 1 lần trong vòng 1 tuần trước ngày đầu tiên vào Ký túc xá.
 
-For full-time Students: Payable together with the tuition fee of the corresponding semesteror in accordance with the University’s billing period.
+Đối với sinh viên toàn thời gian: Thanh toán cùng với học phí của học kỳ tương ứng theo kỳ thanh toán của Trường.
 
-Refund/clearing conditions:
+Điều kiện hoàn tiền/thanh toán bù trừ:
 
-Dormitory fee refund:
+Hoàn trả phí ký túc xá:
 
-Refundable corresponding to the period when Student has not stayed due to objective reasons from the VinUniversity.
+Hoàn trả tương ứng với thời gian Sinh viên không ở lại vì lý do khách quan từ Đại học VinUni.
 
-Not refundable for subjective reasons including the reason of being disciplined by the VinUniversity.
+Không hoàn trả vì lý do chủ quan trong đó có lý do bị Đại học VinUni kỷ luật.
 
-In cases where a student voluntarily withdraws from the University and the withdrawal is approved by the University, the refund amount for dormitory fees shall be applied in accordance with the same refund rate as for tuition fees (refer to Section D, Clause 4 of this Regulation).
+Trong trường hợp sinh viên tự nguyện thôi học và được Nhà trường chấp thuận, việc hoàn trả tiền ký túc xá được áp dụng theo tỷ lệ hoàn trả như đối với học phí (tham khảo Mục D, khoản 4 Quy định này).
 
-Deposit refund:
+Hoàn trả tiền đặt cọc:
 
-Refundable when Students leave the Dormitory for objective reasons from the VinUniversity or according to the regulations after deducting all receivables related to the Student as prescribed.
+Hoàn trả khi Sinh viên rời khỏi Ký túc xá vì lý do khách quan từ Đại học VinUni hoặc theo quy định sau khi trừ đi toàn bộ các khoản phải thu liên quan đến Sinh viên theo quy định.
 
-Not refundable when the Students leave the Dormitory for subjective reasons including the reason of being disciplined by the VinUniversity.
+Không hoàn trả khi Sinh viên rời khỏi Ký túc xá vì lý do chủ quan trong đó có lý do bị Đại học VinUni kỷ luật.
 
-Compulsory Health Insurance Fee (collection and paid on behalf)
+Phí bảo hiểm y tế bắt buộc (thu và nộp hộ)
 
-The health insurance fee for Vietnamese Students is a compulsory surcharge according to the compulsory health insurance framework for Vietnamese Students studying at universities. VinUniversity collects and transfers the fee to the Social Insurance Office.
+Phí bảo hiểm y tế đối với sinh viên Việt Nam là khoản phụ phí bắt buộc theo khung bảo hiểm y tế bắt buộc đối với sinh viên Việt Nam đang theo học tại các trường đại học. Đại học VinUni thu và chuyển phí về Bảo hiểm xã hội.
 
-The Health Insurance Fee is maintained even if Vietnamese Students are temporarily suspending for their studies to join the Student exchange program or taking an approved leave of absence.
+Phí Bảo hiểm Y tế được duy trì ngay cả khi Sinh viên Việt Nam tạm dừng học tập để tham gia chương trình trao đổi Sinh viên hoặc nghỉ phép đã được phê duyệt.
 
-Health insurance fee for International Students is a compulsory surcharge which VinUniversity pays for the appropriate health insurance package on behalf that applies during the period of study at the VinUniversity.
+Phí bảo hiểm y tế dành cho sinh viên quốc tế là khoản phụ phí bắt buộc mà Đại học VinUni thay mặt chi trả cho gói bảo hiểm y tế phù hợp áp dụng trong suốt thời gian học tập tại Đại học VinUni.
 
-The Health Insurance Fee is paid once per year, together with the tuition fee for the first semester, and is calculated based on the actual number of months the student participates in the insurance scheme. The fee is determined according to the official rate set by the Social Insurance Authority or the terms and pricing of the selected insurance provider. This fee is a pass-through fee, collected and paid on behalf of the student to the insurance provider, with no markup or difference incurred by the University
+Phí Bảo hiểm Y tế được đóng mỗi năm một lần cùng với học phí của học kỳ đầu tiên và được tính dựa trên số tháng thực tế sinh viên tham gia chương trình bảo hiểm. Phí được xác định theo mức chính thức do Cơ quan Bảo hiểm Xã hội quy định hoặc theo các điều khoản và mức giá của nhà cung cấp bảo hiểm đã chọn. Khoản phí này là một khoản phí chuyển tiếp, được thu và thanh toán thay mặt cho sinh viên cho nhà cung cấp bảo hiểm mà Nhà trường không phải chịu bất kỳ khoản chênh lệch hoặc chênh lệch nào.
 
-The University has selected PVI Insurance as the provider of the health insurance program for international students and will share students’ personal information with the insurance provider for policy issuance purposes.
+Nhà trường đã lựa chọn Bảo hiểm PVI là nhà cung cấp chương trình bảo hiểm y tế cho sinh viên quốc tế và sẽ chia sẻ thông tin cá nhân của sinh viên với nhà cung cấp bảo hiểm để phục vụ mục đích cấp hợp đồng.
 
-If international students wish to purchase health insurance independently, they must submit complete proof of valid health insurance to the University Clinic via email at [email protected], at least one week prior to the University’s fee notification issue
+Nếu sinh viên quốc tế muốn mua bảo hiểm y tế một cách độc lập, họ phải gửi bằng chứng đầy đủ về bảo hiểm y tế hợp lệ cho Phòng khám Đại học qua email tại [email protected], ít nhất một tuần trước khi trường Đại học phát hành thông báo phí
+Sinh viên Việt Nam đã được cấp thẻ bảo hiểm y tế bắt buộc còn hiệu lực hoặc có gói bảo hiểm còn hiệu lực sẽ không phải đóng khoản phí này. Những sinh viên như vậy phải nộp bản sao thẻ bảo hiểm y tế hoặc bằng chứng về bảo hiểm đang hoạt động thông qua đơn đăng ký VssID hoặc VNeID cho Phòng khám Đại học qua email tại [email protected], theo thông báo của Trường.
 
-Vietnamese students who have already been issued a valid compulsory health insurance card, or have an active valid insurance plan, will not be required to pay this fee. Such students must submit a copy of their health insurance card, or proof of active coverage via VssID or VNeID applications, to the University Clinic via email at [email protected], in accordance with the University’s announcements.
+Phí khám sức khỏe tổng quát (thu và nộp hộ)
 
-General health examination Fee (collected and paid on behalf)
+Theo quy định của Bộ Y tế, từ năm học 2022-2023, việc tổ chức khám sức khỏe tổng quát cho sinh viên khi nhập học là yêu cầu bắt buộc và định kỳ ít nhất một lần trong mỗi năm học. Đây là khoản phí chuyển tiếp được Nhà trường thu và thanh toán thay mặt cho Sinh viên cho Bệnh viện mà không phát sinh chênh lệch.
 
-According to the regulations of the Ministry of Health, from the academic year 2022-2023, the general health examination organization for students upon admission is mandatory requirement and periodic at least once in each academic year. This is a pass-through fee collected and paid by the University on behalf of the Student to the Hospital, with no markup or difference incurred.
+Phí khám sức khỏe tổng quát được thanh toán mỗi năm một lần cùng với Hóa đơn Sinh viên.
 
-The general health examination fee is paid once per year together with the Student Billing.
+Trường hợp sinh viên không tham gia khám sức khỏe do Nhà trường tổ chức và thông báo, sinh viên phải chịu mọi chi phí phát sinh từ việc khám sức khỏe tổng quát tại cơ sở y tế bên ngoài cung cấp dịch vụ theo Thông tư số 32/2023/TT-BYT. Kết quả kiểm tra phải được gửi đến Phòng khám Đại học và gửi qua email đến [email được bảo vệ].
 
-In the event that a student does not participate in the health check-up organized and announced by the University, the student shall bear all costs incurred from undergoing the general health examination at an external medical facility that provides services in accordance with Circular No. 32/2023/TT-BYT. The examination results must be submitted to the University Clinic and sent via email to [email protected].
+Phí trọn gói tốt nghiệp
 
-Graduation Package Fee
+Để tham gia Lễ tốt nghiệp, tất cả sinh viên tốt nghiệp phải đăng ký và đóng lệ phí 2.000.000 đồng/sinh viên. Khoản phí này bao gồm một phần chi phí tổ chức sự kiện, bao gồm: lễ phục tốt nghiệp (áo choàng, mũ và mũ trùm đầu), chụp ảnh cá nhân chuyên nghiệp trước buổi lễ cũng như chi phí tổ chức và hậu cần sự kiện.
 
-To participate in the Graduation Ceremony, all graduating students are required to register and pay a fee of 2,000,000 VND/student. This fee partially covers the cost of organizing the event, including: graduation regalia (gown, cap, and hood), a professional individual photo shoot prior to the ceremony, and event logistics and organization costs.
+Ghi chú:
 
-Notes:
+Các chi phí tổ chức khác như dàn dựng sân khấu, hệ thống âm thanh ánh sáng, quay phim, chụp ảnh tập thể, quà tốt nghiệp, tiệc cocktail dành cho sinh viên và phụ huynh đều được Nhà trường và các đối tác tài trợ và hỗ trợ toàn phần.
 
-Other organizational expenses such as stage setup, sound and lighting systems, videography, group photography, graduation gifts, and the cocktail reception for students and parents have been fully sponsored and supported by the University and its partners.
+Phí này là trọn gói và không hoàn lại, ngay cả khi sinh viên không sử dụng một hoặc nhiều dịch vụ đi kèm.
 
-The fee is all-inclusive and non-refundable, even if the student does not utilize one or more of the included services.
+Thời gian thu phí: Theo quy định tại thông báo thu phí chính thức của Nhà trường.
 
-Fee collection time: As specified in the University’s official fee announcement.
+Phí bồi thường mất mát hoặc hư hỏng tài sản
 
-Compensation Fee for Property Loss or Damage
+Phí bồi thường thiệt hại hoặc mất mát tài sản là khoản phí được áp dụng để trang trải chi phí thiệt hại hoặc mất mát trang thiết bị, vật dụng hoặc cơ sở vật chất của Trường.
 
-The compensation fee for property loss or damage is a fee imposed to cover the cost of damage or loss of equipment, items, or facilities belonging to the University.
+Thời điểm thu phí: Ngay khi xảy ra mất mát, hư hỏng.
 
-Fee collection time: Immediately upon the occurrence of loss or damage.
+Biểu phí áp dụng:
 
-Applicable fee schedule:
-
-No.
-Item Description
-Unit
-Unit Price (VND)
+Không.
+Mô tả mặt hàng
+Đơn vị
+Đơn giá (đồng)
 
 1
-Ceremony stole (Opening/Graduation)
-Piece
-300,000
+Lễ ăn trộm (Khai giảng/Tốt nghiệp)
+mảnh
+300.000
 
 2
-Graduation gown
-Set
-1,500,000
+Áo choàng tốt nghiệp
+Đặt
+1.500.000
 
 3
-Glass water bottle
-Piece
-140,000
+Chai nước thủy tinh
+mảnh
+140.000
 
 4
-Glass cup
-Piece
-65,000
+cốc thủy tinh
+mảnh
+65.000
 
 5
-Plastic tray
-Piece
-90,000
+khay nhựa
+mảnh
+90.000
 
 6
-Broom & dustpan set
-Set
-110,000
+Bộ chổi và hót rác
+Đặt
+110.000
 
 7
-Clothes hanger
-Piece
-15,000
+Móc treo quần áo
+mảnh
+15.000
 
 8
-Hair dryer
-Piece
-400,000
+Máy sấy tóc
+mảnh
+400.000
 
 9
-Electric kettle
-Piece
-800,000
+Ấm đun nước điện
+mảnh
+800.000
 
 10
-Plastic slippers
-Pair
-45,000
+Dép nhựa
+Cặp
+45.000
 
 11
-Housekeeping sign
-Piece
-70,000
+Biển hiệu dọn phòng
+mảnh
+70.000
 
 12
-Double bed sheet
-Piece
-600,000
+Ga trải giường đôi
+mảnh
+600.000
 
 13
-Single bed sheet
-Piece
-400,000
+Ga trải giường đơn
+mảnh
+400.000
 
 14
-Double duvet cover
-Piece
-850,000
+Vỏ chăn đôi
+mảnh
+850.000
 
 15
-Single duvet cover
-Piece
-600,000
+Vỏ chăn đơn
+mảnh
+600.000
 
 16
-Double duvet insert
-Piece
-700,000
+Vỏ chăn đôi
+mảnh
+700.000
 
 17
-Single duvet insert
-Piece
-600,000
+Vỏ chăn đơn
+mảnh
+600.000
 
 18
-Pillowcase
-Piece
-95,000
+Vỏ gối
+mảnh
+95.000
 
 19
-Pillow insert
-Piece
-105,000
+Gối chèn
+mảnh
+105.000
 
 20
-Bath towel
-Piece
-155,000
+Khăn tắm
+mảnh
+155.000
 
 21
-Face towel
-Piece
-50,000
+Khăn mặt
+mảnh
+50.000
 
 22
-Floor mat
-Piece
-130,000
+Thảm trải sàn
+mảnh
+130.000
 
 23
-1.6m x 2m spring mattress
-Piece
-6,000,000
+Nệm lò xo 1,6m x 2m
+mảnh
+6.000.000
 
 24
-1.2m x 2m foam mattress
-Piece
-1,500,000
+Nệm xốp 1,2m x 2m
+mảnh
+1.500.000
 
 25
-Large trash bin (30L)
-Piece
-1,700,000
+Thùng rác lớn (30L)
+mảnh
+1.700.000
 
 26
-Bathroom trash bin
-Piece
-450,000
+Thùng rác phòng tắm
+mảnh
+450.000
 
 27
-Air conditioner remote control
-Piece
-150,000
+Điều khiển từ xa điều hòa
+mảnh
+150.000
 
 28
-Microwave oven
-Piece
-3,700,000
+Lò vi sóng
+mảnh
+3.700.000
 
 29
-Soiling of bedding, towels, equipment, supplies, or furnishings provided by the University (e.g., hard-to-clean stains, discoloration, grease, etc.)
-Piece
-300,000
+Làm bẩn ga trải giường, khăn tắm, thiết bị, đồ dùng hoặc đồ đạc do Nhà trường cung cấp (ví dụ: vết bẩn khó làm sạch, bạc màu, dầu mỡ, v.v.)
+mảnh
+300.000
 
-Other property losses: The compensation fee shall be based on the purchase price of a new asset/equipment of the same or equivalent type, or the cost of repair to restore the damaged asset/equipment to its original condition; plus an administrative fee of 200,000 VND per incident.
+Thiệt hại về tài sản khác: Phí bồi thường được tính trên cơ sở giá mua tài sản, thiết bị mới cùng loại hoặc tương đương hoặc chi phí sửa chữa để khôi phục tài sản, thiết bị hư hỏng về tình trạng ban đầu; cộng thêm phí hành chính 200.000 đồng/sự cố.
+B. QUY ĐỊNH TÀI CHÍNH VÀ BIỂU PHÍ DÀNH CHO SINH VIÊN SAU ĐẠI HỌC
 
-B. FINANCIAL REGULATIONS AND TARIFF FOR POSTGRADUATE
+Phí đăng ký (*)
 
-Application fee (*)
+Phí đăng ký bao gồm các thủ tục sàng lọc cần thiết để xử lý hồ sơ đăng ký vào các chương trình học tại Đại học VinUni, áp dụng cho tất cả các ứng viên nộp hồ sơ.
 
-Application fee accounts for the screening procedures necessary for processing submitted application to the academic programs at VinUniversity, apply to all candidates who submit their application.
+Lệ phí là 2.000.000 VNĐ/đơn/người nộp đơn.
 
-The fee is 2,000,000 VND/application/applicant.
+Lệ phí được MIỄN cho những người nộp đơn:
 
-The fee is WAIVED for applicants who:
+Tham gia các sự kiện tuyển sinh do Trường hoặc các Trường Cao đẳng/Trung tâm Nghiên cứu tổ chức;
 
-Participation in admission events organized by the University or by its Colleges/Research Centers;
+Được đề cử bởi một giáo sư xuất sắc hoặc nhà nghiên cứu có uy tín.
 
-Being nominated by a distinguished professor or reputable researcher.
+Các trường hợp đặc biệt khác được phê duyệt theo đợt/kỳ tuyển dụng trong năm Ứng viên nộp phí trước khi phỏng vấn khi được thông báo.
 
-Other special cases approved according to the recruitment campaign/period of the yearApplicants pay fees before the interview when being informed.
+Khoản phí này KHÔNG được hoàn lại hoặc chuyển nhượng trong mọi trường hợp.
 
-This fee is NOT refundable or transferable under any circumstances.
+Niêm yết học phí và chính sách học bổng
 
-Listed tuition fees and scholarship policy
+Học phí niêm yết: 932.400.000 VNĐ/năm. Tổng học phí sẽ thay đổi tùy theo thời lượng của mỗi chương trình học.
 
-Listed tuition fee: 932,400,000 VND/year. The total tuition fee will vary depending on the duration of each academic program.
+Tất cả học viên chương trình Bác sĩ Nội trú đăng ký thành công đều có thể đủ điều kiện nhận học bổng và nhận thêm tài trợ hoặc trợ cấp từ Hệ thống Y tế Vinmec hoặc các cơ sở/bệnh viện khác theo quy định cụ thể áp dụng cho từng năm học.
 
-All Students of Resident Doctor program who successfully enroll may be eligible for scholarships and receive additional sponsorships or allowances from the Vinmec Healthcare System or other institutions/hospitals, according to specific regulations applicable for each academic year.
+Tất cả sinh viên chương trình Thạc sĩ đăng ký thành công đều có thể được nhận học bổng và hỗ trợ tài chính theo quy định cụ thể của từng chương trình và từng năm học.
 
-All Students of Master programs who successfully enroll may be eligible for scholarships and financial aids, according to specific regulations of each program and academic year.
+Tất cả sinh viên chương trình Tiến sĩ Triết học đăng ký thành công có thể đủ điều kiện nhận học bổng, hỗ trợ tài chính hoặc phụ cấp theo chính sách cụ thể của từng chương trình.
 
-All Students of Doctor of Philosophy programs who successfully enroll may be eligible for scholarships, financial aids or allowances according to specific policy of each program.
+Lệ phí thi Tổ chức Y khoa Quốc tế (IFOM) (dành cho Chương trình Bác sĩ Nội trú)
 
-International Foundation of Medicine exam fee (IFOM) (for Resident Doctor Program)
+Lệ phí thi IFOM là chi phí mua bài thi IFOM và tổ chức thi IFOM tại Việt Nam
 
-IFOM exam fee is the cost of purchasing the IFOM test and organizing the IFOM exam in Vietnam
+Lệ phí: 2.000.000 VNĐ/người. Lệ phí này có thể được điều chỉnh hàng năm theo công bố của Trường, dựa trên mức phí chính thức do Ủy ban Giám định Y khoa Quốc gia Hoa Kỳ (NBME) công bố.
 
-The fee: 2,000,000 VND/person. The fee is subject to annual adjustment as announced by the University, based on the official fee rates published by the U.S. National Board of Medical Examiners (NBME).
+Áp dụng cho những học viên đã vượt qua vòng xét tuyển và được mời tham dự kỳ thi IFOM.
 
-Applicable for students who have passed the review round and been invited to take the IFOM exam.
+Thí sinh đóng phí trước kỳ thi IFOM khi được thông báo.
 
-Applicants pay fees before the IFOM exam when being informed.
+Các khoản phí khác (trừ các khoản phí trên): 
 
-Other fees (except the above fees): 
+Được áp dụng theo Quy định tài chính và Biểu phí tại Mục A.II.
 
-Are applied in according with the Financial Regulations and Tariffs in Section A.II.
+Những sinh viên nhận được tài trợ 100% học phí theo Chương trình Nội trú, Chương trình Tiến sĩ Triết học (Tiến sĩ) hoặc Chương trình Thạc sĩ Khoa học (Msc) được miễn thanh toán Phí Xác nhận Đủ điều kiện nhận Học bổng/Đặc quyền Học phí/Hỗ trợ Tài chính.
 
-Students who receive 100% tuition sponsorship under the Residency Programs, Doctor of Philosophy (PhD) Programs, or Master of Science (Msc) Programs are exempted from the payment of the Fee for Confirmation of Eligibility for Scholarship/Tuition Privilege/Financial Aid.
+C. QUY ĐỊNH TÀI CHÍNH VÀ BIỂU PHÍ ĐỐI VỚI CÁC DỊCH VỤ KHÁC CHO SINH VIÊN
 
-C. FINANCIAL REGULATIONS AND TARIFF FOR OTHER STUDENT SERVICES
+Phí sử dụng cơ sở vật chất trao đổi Sinh viên các trường đối tác
 
-Fee for using facilities for exchange Students from partner universities
+Phí sử dụng cơ sở vật chất tại Đại học VinUni để trao đổi sinh viên các trường đối tác:
 
-The fee for using facilities at VinUniversity for exchange Students from partner universities:
+Sinh viên trao đổi ngắn hạn (dưới 1 học kỳ hoặc dưới 4 tháng): 1.250.000 VNĐ/tuần/sinh viên
 
-Short-term exchange students (less than 1 semester or less than 4 months): 1,250,000 VND/week/student
+Sinh viên trao đổi dài hạn (từ 1 học kỳ trở lên): 10.000.000 VNĐ/học kỳ/sinh viên.
 
-Long-term exchange students (from 1 semester or more): 10,000,000 VND/semester/student.
+Học phí được tính theo số ngày thực tế Sinh viên học tại Đại học VinUni. Thời gian Sinh viên tham gia chương trình trao đổi tại Đại học VinUni được xác định dựa trên xác nhận của đối tác Đại học VinUni ít nhất 7 ngày trước khi Sinh viên chính thức tham gia chương trình.
 
-The fee is based on the actual days the Student studies at VinUniversity. The time Students participated in the exchange program at VinUniversity is determined based on confirmation of partner VinUniversity at least 7 days before Students officially join the program.
+Phí này được thu một (01) lần cho cả học kỳ cùng với phí ký túc xá và các phí dịch vụ khác (nếu có) quy định tại mục A.II của Quy chế này.
 
-This fee is collected one (01) time for the whole semester with dormitory and other service fees (if any) in section A.II of this Regulation.
+Khoản phí này KHÔNG được hoàn lại hoặc chuyển nhượng trong mọi trường hợp.
 
-This fee is NOT refundable or transferable under any circumstances.
+Các quy tắc cụ thể khác được áp dụng theo Thỏa thuận với Đối tác.
 
-Other specific rules apply under the Agreement with the Partners.
+D. HỌC PHÍ, HỌC BỔNG VÀ CHÍNH SÁCH HỖ TRỢ TÀI CHÍNH & HỖ TRỢ KHÁC
 
-D. TUTION FEES, SCHOLARSHIP AND FINANCIAL AID POLICIES & OTHER ASSISTANCES
+Chính sách học bổng và hỗ trợ tài chính
+Tất cả Sinh viên đăng ký thành công vào Đại học VinUni cho đến năm 2030 sẽ nhận được Tài trợ Phát triển Giáo dục từ Nhà tài trợ sáng lập tương đương với mức giảm 35% học phí niêm yết trong toàn bộ thời gian chính thức của chương trình (theo thời gian khóa học tiêu chuẩn được thiết kế dành cho Sinh viên hoàn thành chương trình). Trợ cấp Phát triển Giáo dục đã được bao gồm trong Học bổng dựa trên Thành tích (từ 50% đến toàn bộ học phí) và các gói Hỗ trợ Tài chính.
 
-Merit Scholarship and Financial Aid Policy
+Áp dụng đồng thời (tích lũy) cho các Học bổng Tài năng, Học bổng bổ sung, các mức Hỗ trợ Tài chính và được hiểu bao gồm 35% hỗ trợ phát triển giáo dục nhưng không vượt quá 100% Học phí được liệt kê.
 
-All Students successfully enrolled in VinUniversity until the year 2030 will receive the Educational Development Grant from the Founding Donor equivalent to 35% discount of the listed tuition fees for the entire official duration of the program (according to the standard course time designed for Students to complete the program). The Educational Development Grant is already included in the Merit-based Scholarship (ranging from 50% to full tuition coverage) and Financial Aid packages.
+Các mức học bổng, hỗ trợ tài chính và hỗ trợ phát triển giáo dục được tính toán dựa trên Học phí được liệt kê và được công bố cho mỗi năm học.
 
-Applied simultaneously (cumulatively) to the Talent Scholarship, Additional Scholarship, Financial Support levels and understood to include 35% of educational development support but not exceeding 100% of the listed Tuition Fee.
+Học bổng Tài năng được áp dụng trong toàn bộ thời gian học của Sinh viên và không được xem xét nâng cấp học bổng. Sinh viên có cơ hội tham gia vào các nguồn hỗ trợ tài chính khác trong quá trình học tập.
 
-Scholarship, Financial Aid, and Educational Development Support levels are calculated based on the listed Tuition Fee and are announced for each academic year.
+Các chương trình Học bổng, Hỗ trợ Tài chính & Giải thưởng được áp dụng theo quy chế Công tác Sinh viên của Đại học VinUni.
 
-The Talent Scholarship is applicable for the entire duration of the Student’s study and is not considered for scholarship upgrade. Students have the opportunity to participate in other sources of financial support during their studies.
+Duy trì Học bổng và Hỗ trợ Tài chính áp dụng theo quy định về Công tác Sinh viên của VinUnivesity.
 
-Scholarship, Financial Aid & Award programs are applied according to VinUniversity Student Affair regulation.
+Hỗ trợ học phí đặc biệt và giảm giá thanh toán
 
-Maintaining Scholarships and Financial Aid Support apply according to VinUnivesity Student Affair regulation.
+2.1. Hỗ trợ học phí gia đình
 
-Special Tuition Fee Assistances and Payment Discounts
+Sinh viên có thể được giảm 5% học phí niêm yết khi chứng minh được mình có anh chị em, cha mẹ, vợ/chồng hoặc con hợp pháp đang theo học chương trình đại học hoặc sau đại học tại Đại học VinUni.
 
-2.1. Family Tuition Assistance
+Sự hỗ trợ được áp dụng từ thành viên gia đình thứ hai đã đăng ký. Khoản hỗ trợ này sẽ được điều chỉnh nếu thành viên gia đình ngừng học tại VinUniverisy (tốt nghiệp, hoãn học, rút ​​tên hoặc bỏ học) và sau đó sinh viên có trách nhiệm hoàn trả số tiền đã khấu trừ trước đó.
 
-Students can qualify for5% reduction on the listed tuition fee where they are able to demonstrate that they have siblings, parents, spouse, or legal child who is studying in an undergraduate or graduate program at VinUniversity.
+Để đủ điều kiện nhận hỗ trợ học phí đặc biệt này, sinh viên phải nộp đơn đăng ký hợp lệ kèm theo tài liệu chứng minh mối quan hệ gia đình. Đơn đăng ký phải được nộp ít nhất một tuần trước ngày phát hành thông báo lệ phí của Trường.
 
-The assistance is applicable from the second family member enrolled. This assistance will be adjusted if the family member discontinues their studies at VinUniverisy (graduation, deferment, withdrawal or drop-out), and the student is then responsible for reimbursing the previously deducted amount.
+2.2. Hỗ trợ học phí cựu sinh viên
 
-To qualify for this special tuition assistance, students must submit a valid application with supporting documentation evidences the family relationship. The application must be submitted at least one week prior to the University’s fee notification issue date.
+Cựu sinh viên VinUni đã hoàn thành xuất sắc chương trình đại học hoặc sau đại học sẽ được giảm 10% học phí niêm yết khi theo học chương trình đại học thứ hai hoặc tiếp tục chương trình sau đại học tại trường.
 
-2.2. Alumni Tuition Assistance
+Để đủ điều kiện nhận hỗ trợ học phí đặc biệt này, cựu sinh viên phải nộp đơn đăng ký hợp lệ và phải cung cấp bằng chứng tài liệu nếu được yêu cầu. Đơn đăng ký phải được nộp ít nhất một tuần trước khi trường Đại học phát hành thông báo học phí
 
-VinUni alumni who have successfully completed an undergraduate or graduate program are eligible for a 10% reduction on the listed tuition fee when pursuing a second undergraduate degree or continuing with a graduate program at the University.
+2.3. Giảm giá thanh toán hàng năm
 
-To qualify for this special tuition assistance, an alumnus must submit a valid application, documentary evidence must be provided if requested. The application must be submitted at least one week prior to the University’s fee notification issue
+Những sinh viên trả trước học phí và phí ký túc xá cho cả năm học sẽ được giảm giá 5% tính trên tổng số tiền phải trả trước khi giảm giá.
 
-2.3. Annual Payment Discount
+Khoản giảm giá này chỉ áp dụng nếu việc thanh toán được thực hiện trong thời hạn do Nhà trường công bố.
 
-Students who pay tuition and dormitory fees upfront for the entire academic year will receive a 5% discount calculated on the total amount payable before the discount.
+2.4. Điều kiện áp dụng
 
-This discount only applies if the payment is made within the deadline announced by the University.
+Hỗ trợ Học phí cho Cựu sinh viên không thể được áp dụng đồng thời với Hỗ trợ Học phí cho Gia đình.
 
-2.4. Conditions of Application
+Hỗ trợ học phí đặc biệt và giảm giá thanh toán hàng năm có thể được áp dụng đồng thời với các chương trình học bổng.
 
-The Alumni Tuition Assistance cannot be applied simultaneously with the Family Tuition Assistance.
+Có hiệu lực từ Học kỳ mùa thu năm 2025
 
-Special tuition assitances and annual payment discounts can be applied concurrently with scholarship programs.
+Chính sách điều chỉnh Học phí và các chính sách khác (áp dụng cho cả bậc Đại học và Sau đại học)
 
-Effective from Fall Semester 2025
+Học phí của học viên không thay đổi trong suốt khóa học, kể cả thời gian lưu giữ.
 
-Tuition Fees and others Adjustment Policy (applicable to both Undergraduate and Post Graduate)
+Các khoản phí còn lại có thể được thay đổi theo chính sách của Đại học VinUni và pháp luật Việt Nam.
 
-A student’s tuition fee does not change during the course, including the retention period.
+Chính sách giữ lại và hoàn trả học phí
 
-The remaining fees can be changed in accordance with the VinUniversity’s policy and the laws of Vietnam.
+Học phí và các khoản thanh toán khác đã thực hiện không được hoàn trả và không được hoàn lại, ngoại trừ các trường hợp được cho phép theo Quy định tài chính này và phải được sự chấp thuận của Trường dựa trên yêu cầu hoàn trả/hoãn bằng văn bản của Sinh viên
+Những sinh viên nộp đơn xin nghỉ học mà vẫn duy trì tiến độ học tập/rút hồ sơ/bỏ học tại Đại học VinUni trong mọi trường hợp đều phải nộp đơn xin lưu trú/rút học cho Đại học VinUni ít nhất 30 ngày trước ngày chính thức thôi học.
 
-Tuition Retention and Refund Policy
+Duy trì học phí được áp dụng khi Sinh viên đã đóng học phí và có đơn xin nghỉ học (tạm dừng) nộp trước ngày làm việc cuối cùng của tuần thứ 3 của Học kỳ và được Đại học VinUni chấp thuận. Toàn bộ học phí sẽ được bảo lưu tối đa một (01) năm học. Khi Sinh viên quay lại học sẽ được trừ vào số phí phải nộp. Sinh viên xin hoãn học phí sau thời hạn nêu trên sẽ không được hoãn học phí, trừ một số trường hợp đặc biệt có thể được xem xét giữ lại hoặc hoàn trả học phí:
 
-Tuition fees and other payments made are non-deferrable and non-refundable, except for cases permitted under this Financial Regulation and subject to the University’s approval based on the Student’s written request for refund/deferral
+Thực hiện nghĩa vụ quân sự hoặc thực hiện nhiệm vụ theo lệnh động viên của cơ quan nhà nước
 
-Students who file for leave-of-absence while retaining academic progress /withdraw profile/drop out of VinUniversity, in any case, need to submit a retention/withdrawal application to the VinUniversity at least 30 days before the official date of withdrawal.
+Căn bệnh nghiêm trọng cản trở việc tiếp tục học tập
 
-Tuition Retention is applied when the Students have paid the tuition fee and then have a leave-of-absence application (suspension) submitted by the last working day of the 3rd week of the Semester and are approved by the VinUniversity. The whole tuition fee will be reserved for a maximum of one (01) academic year. When the Students return to study, they will be deducted fromthe payable fee. Students who apply for a deferment after the above deadline will not have their tuition fees deferred, except in some special cases that may be considered for retention or refund of tuition fees:
+Tai nạn hoặc sự kiện bất khả kháng
 
-Performing military service or performing duties under the mobilization order of a state agency
+Học sinh và phụ huynh phải chuẩn bị đầy đủ hồ sơ cho những trường hợp đặc biệt.
 
-Serious illness that prevents continuing studies
+Hoàn trả học phí:
 
-Accidents or force majeure events
+Hoàn trả đầy đủ khi xảy ra thiên tai, chiến tranh, khủng bố… hoặc khủng hoảng nghiêm trọng khác mà Đại học VinUni phải đóng cửa hoặc tạm dừng học tập hoàn toàn mà không có hình thức học tập thay thế.
 
-Students and parents must prepare full documents for special cases.
+Hoàn trả một phần trong trường hợp Sinh viên chủ động bỏ học và được Đại học VinUni chấp thuận. Mức hoàn tiền cụ thể:
 
-Tuition Refund:
+Hoàn trả 80% số tiền học phí thực tế đã đóng cho khóa học hoặc học kỳ ngắn hạn nếu Sinh viên thôi học trước ngày bắt đầu chính thức của khóa học hoặc học kỳ ngắn hạn như đã nêu trong thông báo gửi cho sinh viên
 
-Full refund when there is natural disaster, war, terrorism… or other serious crisis that the VinUniversity must close, or suspend learning completely without the alternative form of learning.
+Hoàn trả 50% học phí thực tế đã đóng cho khóa học hoặc học kỳ ngắn hạn nếu Sinh viên rút tên trong vòng hai tuần kể từ ngày bắt đầu chính thức khóa học hoặc học kỳ ngắn hạn.
 
-Partial refund in the case of Students actively drop out of VinUniversity and is approved by the VinUniversity. Refund level specifically:
+Không hoàn trả học phí đã đóng cho khóa học hoặc học kỳ ngắn hạn nếu sinh viên rút tên khỏi Đại học VinUni sau hai tuần kể từ ngày bắt đầu chính thức khóa học hoặc học kỳ ngắn hạn.
 
-Refund 80% of the actual paid tuition fee paid for the short course or semester if the Student withdraws before the official start date of the short course or semester, as stated in the notice sent to students
+Lưu ý: Mỗi học kỳ sẽ được xem xét riêng biệt trong việc xác định thời điểm rút lui và tỷ lệ hoàn trả áp dụng. Ví dụ: nếu sinh viên đã đóng học phí cả năm học nhưng rút lui sau hai tuần kể từ ngày đầu tiên của học kỳ mùa thu và trước khi bắt đầu học kỳ mùa xuân, sinh viên sẽ được hoàn lại 80% số tiền học phí thực tế đã đóng cho học kỳ mùa xuân.
 
-Refund 50% of the actual tuition fee paid for the short course or semester if the Student withdraws within two weeks from the official start date of the short course or semester.
+Bất kỳ sự thay đổi hoặc chậm trễ nào về lịch học; thay thế các kênh và hình thức học tập (ví dụ: từ offline sang online); thay thế các hình thức tổ chức Đời sống sinh viên, trao đổi sinh viên quốc tế, thực tập (ví dụ: từ offline sang online…) được coi là hình thức học tập mới trong điều kiện bình thường và không đủ điều kiện để xin hoàn/hoãn hoặc giảm học phí.
 
-No refund of the tuition fee paid for the short course or semester shall be made if the student withdraws from VinUniversity after two weeks from the official start date of the short course or semester.
+E. CÁC CHÍNH SÁCH LIÊN QUAN KHÁC
 
-Note: Each semester shall be considered separately in determining the timing of withdrawal and the applicable refund rate. For example, if a student has paid tuition fees for the full academic year but withdraws after two weeks from the first day of the Fall semester and before the start of the Spring semester, the student shall be entitled to a refund of 80% of the actual tuition fee paid for the Spring semester.
+Thời hạn, phương thức thanh toán và điều kiện thực hiện
 
-Any changes or delays on studying schedules; replacing channels and forms of learning (eg: from offline to online); replacing the forms of organization of Student life, international Student exchange, internship (eg: from offline to online…) are considered a new form of learning under normal conditions and are not eligible to apply for tuition refund/deferral or tuition reduction.
+Thời hạn nộp học phí và lệ phí
 
-E. OTHER RELATED POLICIES
+Thời hạn nộp Học phí và lệ phí được quy định cụ thể tại từng khoản phí trên.
 
-Deadline, payment methods, and terms of implementation
+Trường hợp xin gia hạn đóng học phí phải có bằng chứng về lý do khách quan và phải được Đại học VinUni chấp thuận. Thời hạn nộp Học phí sau khi gia hạn phải trước ngày đầu tiên của học kỳ.
 
-Deadline for Tuition Fees and Fees
+Phương thức thanh toán
 
-The deadline for paying Tuition fees and fees are specified in each of the above fees.
+Sinh viên thanh toán học phí thông qua nền tảng thanh toán trực tuyến theo đường dẫn sau: https://my.vinuni.edu.vn/
 
-In case of application for extension of tuition fee payment period, evidence of objective reasons is required and must be approved by the VinUniversity. The deadline to pay Tuition fees after renewal must be before the first day of the semester.
+Đối với chuyển khoản quốc tế bằng ngoại tệ, thanh toán có thể được thực hiện vào tài khoản USD của Trường. Vui lòng liên hệ [email được bảo vệ] để biết thông tin tài khoản chi tiết.
 
-Payment methods
+Nếu sinh viên không thể sử dụng phương thức thanh toán trực tuyến như đã thông báo thì có thể thanh toán trực tiếp bằng thẻ ngân hàng tại Phòng Tài chính – Kế toán trong giờ làm việc hoặc chuyển khoản vào tài khoản ngân hàng của Nhà trường với thông tin sau:
 
-Students shall make tuition and fee payments through the online payment platform at the following link: https://my.vinuni.edu.vn/
+Tên tài khoản: Đại học VinUni
 
-For international transfers in foreign currencies, payments can be made to the University’s USD account. Please contact [email protected] for detailed account information.
+Số tài khoản (đồng): 88991188
 
-If students are unable to use the online payment method as announced, they may make payments directly by bank card at the Finance – Accounting Office during working hours, or by wire transfer to the University’s bank account with the following details:
+Số tài khoản (USD): 11229922
+Tên ngân hàng: Techcombank – Trụ sở chính
 
-Account Name: VinUniversity
+Mô tả: Thực hiện theo hướng dẫn ghi trong thông báo thu học phí.
 
-Account Number (VND) : 88991188
+Việc chuyển ngoại tệ từ nước ngoài có thể được thực hiện thông qua tài khoản USD của Đại học VinUni. Vui lòng gửi email đến [email được bảo vệ] để biết thêm thông tin.
 
-Account Number (USD) : 11229922
+Học phí bằng USD CHỈ áp dụng cho Sinh viên Quốc tế khi nộp học phí theo đúng quy định và được quy đổi theo tỷ giá mua của Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) tại ngày Thông báo thanh toán của Trường Đại học VinUni
 
-Bank name: Techcombank – Head Office
+Điều khoản thực hiện
 
-Description: In accordance with the instructions stated in the tuition fee notice.
+Đối với những trường hợp đặc biệt không thể đáp ứng được quy định về tài chính, Sinh viên có thể gửi văn bản đề nghị được Đại học VinUni nói riêng xem xét, chấp thuận.
 
-Foreign currency transfers from abroad can be made via the VinUniversity’s USD account. Please email to [email protected] for more information.
+Đối với số ngày cước thực tế, căn cứ tính cước theo số ngày tiêu chuẩn trong một tuần là 7 ngày, một tháng là 30 ngày và số ngày tiêu chuẩn trong một năm là 360 ngày.
 
-Tuition fees in USD are ONLY applicable to International Students when paying tuition fees in accordance with regulations and converted at the buying rate of Vietnam Technological and Commercial Joint Stock Bank (Techcombank) on the date of the the VinUniversity’s Payment Notice
+Trường hợp Sinh viên không hoàn thành Học phí và các khoản phí liên quan đúng thời hạn theo quy định, Sinh viên sẽ phải nộp phí nộp chậm là 2.000.000 VNĐ. Khoản phí này sẽ được thanh toán cùng với Học phí.
 
-Terms of implementation
+Lưu ý: Ngày VinUni ghi nhận việc thực hiện nghĩa vụ thanh toán của Sinh viên là ngày nhận tiền trên Giấy báo có của Ngân hàng VinUni
 
-For exceptional cases which are unable to meet financial regulations, Students may submit a request in written to ask for consideration and approval from VinUniversity in particular.
+Ví dụ: Sinh viên thanh toán sau thời gian giao dịch ngân hàng ngày 25/08/2022 dẫn đến ngày trên Giấy báo có của Ngân hàng VinUni là 26/08/2022 => Ngày hoàn thành nghĩa vụ thanh toán của sinh viên là 26/08/2022.
 
-For the actual number of day charges, the base for calculating costs is based on the standard number of days in a week is 7 days, a month is 30 days and the standard number of days in a year is 360 days.
+Trong trường hợp Sinh viên không nộp Học phí và các khoản phí liên quan đúng thời hạn từ một (1) tuần trở lên nhưng không quá ba (3) tuần kể từ thời điểm hết hạn nộp theo quy định (hoặc được gia hạn nộp học phí đã được phê duyệt nếu có), sinh viên sẽ bị đình chỉ đăng ký khóa học, rút tên khỏi các khóa học đã đăng ký và bị hủy quyền truy cập vào các hệ thống của Đại học VinUni như Canvas, Thư viện, SIS và các nền tảng khác.
 
-In case the Students do not complete the Tuition and related fees payables on time according regulation, Students will have to pay late payment fee is 2,000,000 VND. This fee will be paid with the Tuition Fee.
+Những sinh viên còn nợ các khoản phí ngoài học phí (ví dụ: phí nộp muộn, phí ký túc xá, v.v.) sẽ bị hạn chế tiếp cận một số dịch vụ học tập và sinh viên nhất định. Chúng có thể bao gồm việc cấp bảng điểm học tập, xác nhận tình trạng sinh viên hoặc chứng chỉ hoàn thành chương trình, chứng chỉ học tập, ưu tiên chỗ ở trong ký túc xá và các dịch vụ hỗ trợ khác. Sinh viên quốc tế có thể phải chịu thêm hậu quả nếu bị rút tên chính thức và trong những trường hợp như vậy, Đại học VinUni có nghĩa vụ báo cáo những thay đổi về tình trạng tuyển sinh cho cơ quan quản lý xuất nhập cảnh.
 
-Note: The date VinUniversity records Student’s fulfilling payment obligation is the date of receiving money on VinUni’s Bank Credit Note
+Khi Sinh viên bị đình chỉ học do không đóng Học phí trong hai học kỳ liên tiếp và vẫn không đóng Học phí đúng hạn trong học kỳ tiếp theo, Sinh viên sẽ bị buộc thôi học tại trường Đại học. Nếu Sinh viên bị buộc thôi học do không đóng Học phí, các khoản nợ trước đó phải được thanh toán đầy đủ trước khi Sinh viên có thể đăng ký học lại tại Đại học VinUni.
 
-Example: Student makes payment after the bank transaction time on 25/08/2022, leading to the date on the VinUni’s Bank Credit Note being 26/08/2022 => The student’s payment obligation completion date is 26/08/2022.
+Đối với những sinh viên hiện đang trong thời gian nghỉ học và muốn quay lại học tập trong khi vẫn còn nợ các nghĩa vụ tài chính, việc xác nhận đăng ký lại sẽ chỉ được xử lý khi mọi nghĩa vụ tài chính với Nhà trường đã được giải quyết đầy đủ.
 
-In case the Students do not pay the Tuition fee and related fee payment obligations on time from one (1) week or more but no longer than three (3) weeks from the payment deadline as prescribed (or approved extended payment deadline, if any), the student will be subject to suspension from course registration, withdrawal from enrolled courses, and deactivation of access to VinUniversity systems such as Canvas, Library, SIS, and other platforms
+Sinh viên cần hiểu trách nhiệm của mình trong việc hoàn thành lệ phí và thời hạn thanh toán. Thông báo của Đại học VinUni vì bất kỳ lý do gì không đến được với Sinh viên không có nghĩa là trì hoãn trách nhiệm đóng học phí theo quy định.
 
-Students with outstanding non-tuition fees (e.g., late payment fees, dormitory fees, etc.) will be restricted from accessing certain academic and student services. These may include the issuance of academic transcripts, student status confirmation or program completion certificates, academic certifications, priority consideration for dormitory accommodation, and other support services.. International students may be subject to additional consequences if they are officially withdrawn, and in such cases, VinUniversity is obligated to report changes in enrollment status to immigration authorities.
+Trong trường hợp Sinh viên vi phạm chính sách tài chính, Đại học VinUni có quyền xem xét kỷ luật từ khiển trách đến cảnh cáo hoặc sa thải. Đại học VinUni có quyền yêu cầu các đơn vị bên ngoài thu hồi các khoản tài chính xấu theo quy định của pháp luật hiện hành.
 
-When a Student had been suspended their studies for non-payment of Tuition Fees for two consecutive semesters and still fails to pay Tuition Fees on time in the following semester, the Student will be forced to withdraw from the University. If a Student is forced to withdraw from the University for non-payment of Tuition Fees, previous debts must be paid in full before the Student can reapply to study at VinUniversity.
+Sinh viên cần phải thực hiện đầy đủ mọi nghĩa vụ tài chính trước khi được xét tốt nghiệp.
 
-For students who are currently on academic leave and wish to return to their studies while still having outstanding financial obligations, re-enrollment confirmation will only be processed once all financial obligations to the University have been fully settled.
+Xử lý các khoản phải thu – phải trả của Sinh viên cuối năm học
+Các khoản hoàn trả của sinh viên (ví dụ: tiền đặt cọc ký túc xá, thanh toán vượt mức…) sau khi bù trừ các khoản phải thu của sinh viên vào cuối năm học sẽ được quyết toán và ưu tiên thành tín chỉ trong năm học tiếp theo.
 
-Students need to understand their responsibility for fee completion and the payment deadline. Notification from the VinUniversity for any reason not reaching the Students does not mean delaying the responsibility to pay the fees as prescribed.
+Phát hành hóa đơn điện tử
 
-In the case of Students violating the financial policy, the VinUniversity reserves the right to consider discipline from the level of reprimand to warning or dismissal. The VinUniversity has the right to ask external units to recover bad financials in accordance with the current law.
+Hóa đơn điện tử chính thức ghi rõ Học phí và lệ phí sẽ được gửi đến email của Sinh viên Đại học VinUni (hoặc người được Sinh viên ủy quyền) trong vòng 30 ngày kể từ ngày thanh toán.
 
-Students need to fulfill all financial obligations before being considered for graduation.
+Trường hợp Sinh viên có nhu cầu đặc biệt muốn xuất hóa đơn cho tổ chức, Sinh viên phải gửi yêu cầu và nộp đầy đủ hồ sơ cần thiết cho Phòng Tài chính Kế toán trước thời hạn thanh toán.
 
-Settlement of receivables – payables to Students at the end of academic year
+Trong trường hợp thông tin thanh toán không được cung cấp trước thời hạn, hóa đơn điện tử sẽ được phát hành theo tên và địa chỉ mặc định của Sinh viên.
 
-Student refunds (for example: dormitory deposit, overpayment…) after netting-off with students’ receivables at the end of academic year will be finalized and prioritized as a credit in the next following academic year.
-
-Issue electronic invoice
-
-The official e-invoice detailing Tuition fee and fees will be sent to the VinUniversity Student’s email (or the person authorized by the Student) within 30 days of the payment date.
-
-In case Students have special needs to issue an invoice to an organization, Students must submit a request and submit all required documents to the Finance and Accounting Department before the payment deadline.
-
-In case billing information is not provided before the deadline, an electronic invoicing will be issued under the default Student’s name and address.
-
-The official e-invoice issued does not include fees collected on behalf of third parties (eg: compulsory health insurance fee collected on behalf of the Social Insurance Office).
+Hóa đơn điện tử chính thức được lập không bao gồm các khoản phí thu hộ bên thứ ba (ví dụ: phí bảo hiểm y tế bắt buộc thu hộ Bảo hiểm xã hội).
 
  
 
-Status and Details
+Trạng thái và chi tiết
 
-This document regards to financial regulations and tariff for Undergraduate students, Resident Doctor program, Short-term program, and Tuition Fees, Scholarship and Financial Aid Policies.
+Tài liệu này liên quan đến các quy định tài chính và biểu phí dành cho sinh viên Đại học, chương trình Bác sĩ nội trú, chương trình ngắn hạn và Học phí, Chính sách học bổng và hỗ trợ tài chính.
 
-Reference Number:
+Số tham chiếu:
 
-VUNI_TS03_Student
+VUNI_TS03_Sinh viên
 
-Document Type:
+Loại tài liệu:
 
-Policy
+Chính sách
 
-Issuing By:
+Phát hành bởi:
 
-Finance and Accounting Department
+Phòng Tài chính Kế toán
 
-Issuing Date:
+Ngày phát hành:
 
-Oct 08, 2025
+Ngày 08 tháng 10 năm 2025
 
-Applying for:
+Đăng ký:
 
-All VinUniversity
+Tất cả trường đại học VinUni
 
-Security Classification:
+Phân loại bảo mật:
 
-Public
+công cộng
 
-PDF version
+Phiên bản PDF
 
-You can download this document here: Financial Regulations and Tariff (for student)
+Bạn có thể tải tài liệu này tại đây: Quy định tài chính và biểu thuế (dành cho sinh viên)
