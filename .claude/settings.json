@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(py -3.11 --version)",
+      "PowerShell(python --version)",
+      "PowerShell(python -c \"import pytest, dotenv; print\\('pytest+dotenv ok'\\)\")",
+      "PowerShell(python -c \"import chromadb; print\\('chroma ok'\\)\")",
+      "PowerShell(Set-Location d:\\\\AI-Action\\\\DAY07_2A202601183_NguyenMinhHung; $env:PYTHONPATH=\"d:\\\\AI-Action\\\\DAY07_2A202601183_NguyenMinhHung\"; $env:EMBEDDING_PROVIDER=\"local\"; .\\\\.venv\\\\Scripts\\\\python.exe \"C:\\\\Users\\\\hoang\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--AI-Action-DAY07-2A202601183-NguyenMinhHung\\\\0dd723f8-3f4f-4fce-a02d-53e17612f313\\\\scratchpad\\\\probe_q5.py\")"
+    ]
+  }
+}
