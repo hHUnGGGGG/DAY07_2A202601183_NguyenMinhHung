@@ -1,0 +1,40 @@
+PHÂN CÔNG NHÓM — LAB 07: Embedding & Vector Store (biến thể K3 — Quy định VinUniversity),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+"• src/ MỖI NGƯỜI TỰ CODE trong repo riêng của mình — đây là 30 điểm cá nhân, không ai code hộ ai.",,,,,,,,,
+"• Dùng chung và phải giống hệt nhau giữa 5 repo: data/k3_university/, bench_queries.py, report/REPORT_NHOM.md.",,,,,,,,,
+"• Biến duy nhất được phép khác nhau khi benchmark là chiến lược chunking. Corpus, 5 query, embedding backend, top_k phải giữ nguyên.",,,,,,,,,
+• Mốc: CP0 khởi tạo · CP2 corpus · CP3 chunking · CP4 42 test pass · CP5 benchmark chạy được · CP6 phân tích · CP7 nộp bài.,,,,,,,,,
+• Chi tiết từng bước: docs/superpowers/plans/2026-08-03-lab07-k3-vinuni-plan.md,,,,,,,,,
+,,,,,,,,,
+STT,Thành viên,Vai điều phối,Chiến lược chunking,Nhiệm vụ,File code / file phụ trách,Deliverable (bằng chứng),Mốc,Phụ thuộc,Trạng thái
+1,Cả 5 người,—,—,"Tạo repo riêng DAY07-<MSSV>-<HoTen>, tạo venv, pip install -r requirements.txt",(môi trường),repo chạy được,CP0,—,Chưa bắt đầu
+2,Cả 5 người,—,—,Chạy self-check pipeline nạp dữ liệu có sẵn,ingest.py,output 'ingest self-check OK',CP0,—,Chưa bắt đầu
+3,Cả 5 người,—,—,Sync 3 artifact DÙNG CHUNG từ repo nguồn của Hùng; không sửa cục bộ,"data/k3_university/, bench_queries.py, report/REPORT_NHOM.md",3 artifact giống repo nguồn,CP0,TV1 đã push,Chưa bắt đầu
+4,Cả 5 người,—,—,Dịch phần tài liệu được giao sang tiếng Việt (giữ nguyên số + thuật ngữ gốc trong ngoặc),data/k3_university/*.md,file .md hết marker TODO,CP2,TV3 chốt nguồn,Chưa bắt đầu
+5,Cả 5 người,—,—,Warm-up: cosine similarity + bài toán chunking (10.000 ký tự → 23 chunk),report/REPORT_CANHAN.md,"2 câu trả lời, viết TRƯỚC khi code",CP3,—,Chưa bắt đầu
+6,Cả 5 người,—,—,"TASK 1-3: SentenceChunker, RecursiveChunker + _split, compute_similarity, Comparator",src/chunking.py,pytest -k 'Chunker or Similarity or Compare' → 23 passed,CP3,—,Chưa bắt đầu
+7,Cả 5 người,—,—,"TASK 4-5: EmbeddingStore (_make_record, _search_records, add, search, size, filter, delete)",src/store.py,14 test store pass,CP4,CP3,Chưa bắt đầu
+8,Cả 5 người,—,—,TASK 6: KnowledgeBaseAgent — context đánh số [1][2][3] kèm doc_id,src/agent.py,agent trả về string không rỗng,CP4,CP3,Chưa bắt đầu
+9,Cả 5 người,—,—,"Chạy pytest đầy đủ + main.py, dán output THẬT vào report cá nhân (30 điểm)",report/REPORT_CANHAN.md,42 passed,CP4,CP3,Chưa bắt đầu
+10,Cả 5 người,—,—,Chạy bench.py với strategy riêng của mình (chỉ đổi --strategy),bench.py → report/bench_<strategy>.md,5 query có top-3 + agent answer,CP5,CP4 + CP2,Chưa bắt đầu
+11,Cả 5 người,—,—,"Dự đoán 5 cặp câu similarity, so với thực tế, viết reflection",report/REPORT_CANHAN.md,bảng dự đoán vs thực tế,CP6,CP3,Chưa bắt đầu
+12,Cả 5 người,—,—,Phân tích 5 tiêu chí + ít nhất 1 failure case CÓ BẰNG CHỨNG từ top-k,report/REPORT_CANHAN.md,failure case đủ 4 phần: query→bằng chứng→nguyên nhân→đề xuất,CP6,CP5,Chưa bắt đầu
+13,Nguyễn Minh Hùng,Repo owner / Đồng bộ,"FixedSizeChunker(500, 50)","Giữ repo nguồn: push corpus + bench_queries.py, điều phối 4 người sync lại",(git),5 repo cùng corpus hash,CP2,—,Chưa bắt đầu
+14,Nguyễn Minh Hùng,Repo owner / Đồng bộ,"FixedSizeChunker(500, 50)",Viết harness benchmark dùng chung + registry 5 strategy,bench.py,chạy được cả 5 --strategy,CP5,bench_queries.py của Quân,Chưa bắt đầu
+15,Nguyễn Minh Hùng,Repo owner / Đồng bộ,"FixedSizeChunker(500, 50)",Dịch tài liệu #1 Thư viện và #8 Thông báo đăng ký học phần,"data/k3_university/vinuni-library-access-services.md, vinuni-course-registration-announcement.md",2 file đủ metadata,CP2,—,Chưa bắt đầu
+16,Nguyễn Minh Hùng,Repo owner / Đồng bộ,"FixedSizeChunker(500, 50)",Chạy ChunkingStrategyComparator trên 2-3 tài liệu (BỎ front matter trước khi so sánh),report/REPORT_NHOM.md §2,bảng baseline 3 strategy,CP5,CP3,Chưa bắt đầu
+17,Hoàng Anh Quân,Benchmark owner,SentenceChunker(3 câu),Soạn 5 benchmark query: số liệu / điều kiện / quy trình / liệt kê / ngoại lệ+filter,bench_queries.py,validate() không còn vấn đề,CP5,CP2,Chưa bắt đầu
+18,Hoàng Anh Quân,Benchmark owner,SentenceChunker(3 câu),"Trích gold answer + must_contain từ corpus, đối chiếu văn bản gốc, đặt verified=True",bench_queries.py,5 query verified,CP5,CP2,Chưa bắt đầu
+19,Hoàng Anh Quân,Benchmark owner,SentenceChunker(3 câu),Dịch tài liệu #2 Quy chế đào tạo (gánh 2/5 query — ưu tiên cao nhất),data/k3_university/vinuni-academic-regulations-undergrad.md,file đủ metadata,CP2,—,Chưa bắt đầu
+20,Hoàng Anh Quân,Benchmark owner,SentenceChunker(3 câu),Điền bảng 5 query + gold answer vào report nhóm; KHÔNG đổi query sau khi ai đó đã chạy bench,report/REPORT_NHOM.md §3,bảng 5 query,CP5,—,Chưa bắt đầu
+21,Phạm Hải Đăng,Data curator,RecursiveChunker(400),"Chốt phạm vi corpus, kiểm robots.txt/điều khoản, thu thập 8 tài liệu VinUni công khai",docs/CORPUS_PLAN.md,8 file .md có nội dung thật,CP2,—,Chưa bắt đầu
+22,Phạm Hải Đăng,Data curator,RecursiveChunker(400),"Giữ sources.csv khớp 1-1 với corpus (doc_id, URL, retrieved_at, document_version)",data/k3_university/sources.csv,check_corpus.py báo 'khớp 1-1',CP2,—,Chưa bắt đầu
+23,Phạm Hải Đăng,Data curator,RecursiveChunker(400),Dịch tài liệu #3 Quy tắc ứng xử SINH VIÊN — làm CÙNG LÚC với Huy (#6) để giữ khác biệt thật,data/k3_university/vinuni-student-code-of-conduct.md,mức kỷ luật khác rõ với bản nhân viên,CP2,—,Chưa bắt đầu
+24,Phạm Hải Đăng,Data curator,RecursiveChunker(400),Điền Data Inventory + Metadata Schema vào report nhóm ngay sau khi CP2 đạt,report/REPORT_NHOM.md §1,2 bảng đã điền,CP2,CP2,Chưa bắt đầu
+25,Bùi Gia Huy,QA / Integration,HeadingChunker(800),Viết script tự động hoá CHECKPOINT 2 + in corpus hash,scripts/check_corpus.py,mọi dòng OK,CP2,—,Chưa bắt đầu
+26,Bùi Gia Huy,QA / Integration,HeadingChunker(800),Viết split_into_sections + HeadingChunker (KHÔNG gắn lại tiêu đề — chủ đích),src/heading_chunker.py,py -m src.heading_chunker self-check OK,CP5,CP3,Chưa bắt đầu
+27,Bùi Gia Huy,QA / Integration,HeadingChunker(800),Dịch tài liệu #6 Quy tắc ứng xử NHÂN VIÊN — document nhiễu chủ đích của Q5,data/k3_university/vinuni-employees-code-of-conduct.md,"cùng từ vựng, khác đáp án so với #3",CP2,—,Chưa bắt đầu
+28,Bùi Gia Huy,QA / Integration,HeadingChunker(800),"Rà checklist CP7 cho cả nhóm: 42 passed, không commit .env/.venv, tên repo đúng quy ước",(review 5 repo),checklist CP7 tick đủ,CP7,CP6,Chưa bắt đầu
+29,Nguyễn Huy Đức,Demo coordinator,"HeadingRecursiveChunker(800, breadcrumb)",Viết HeadingRecursiveChunker — GẮN LẠI breadcrumb tiêu đề vào mảnh con,src/heading_chunker.py,self-check thấy mảnh con mang breadcrumb,CP5,CP3,Chưa bắt đầu
+30,Nguyễn Huy Đức,Demo coordinator,"HeadingRecursiveChunker(800, breadcrumb)","Dịch tài liệu #4 Quy định tài chính, #5 Duy trì học bổng, #7 Bổ nhiệm giảng viên","data/k3_university/vinuni-financial-regulations-student.md, vinuni-scholarship-maintenance.md, vinuni-faculty-appointment-promotion.md",3 file đủ metadata,CP2,—,Chưa bắt đầu
+31,Nguyễn Huy Đức,Demo coordinator,"HeadingRecursiveChunker(800, breadcrumb)",Gom bảng so sánh 5 thành viên + kết luận strategy nào hợp chủ đề này (15 điểm),report/REPORT_NHOM.md §2,bảng so sánh + 2-3 câu lý giải,CP6,CP5 của cả 5,Chưa bắt đầu
+32,Nguyễn Huy Đức,Demo coordinator,"HeadingRecursiveChunker(800, breadcrumb)","Dựng kịch bản demo 6-8 phút, mở sẵn terminal chạy được bench.py",report/REPORT_NHOM.md §4,kịch bản 4 phần theo đúng thời lượng,CP7,CP6,Chưa bắt đầu
