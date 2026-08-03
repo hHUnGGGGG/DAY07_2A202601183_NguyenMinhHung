@@ -1,7 +1,7 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
 **Nhóm:** B4-E402
-**Thành viên:** 
+**Thành viên:**
 1. Bùi Gia Huy - 2A202601879
 2. Phạm Hải Đăng - 2A202601367
 3. Nguyễn Minh Hùng - 2A202601183
